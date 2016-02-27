@@ -61,19 +61,19 @@
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png">|`${LineNo}`|
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_left_bold_black_18dp.png">|行の先頭に移動|行の先頭まで選択
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_right_bold_black_18dp.png">|行の末尾に移動|行の末尾まで選択
-×|()|
-÷|mod|
-.|,|
-sin|asin|sinh
-cos|acos|cosh
-tan|atan|tanh
-log|log2|ln
-round|round half up|
-ceil|round up|
-floor|round down|
-√|cbrt|
-!|nPr|nCr
-^|^2|^3
+**×**|**()**|
+**÷**|**mod**|
+**.**|**,**|
+**sin**|**asin**|**sinh**
+**cos**|**acos**|**cosh**
+**tan**|**atan**|**tanh**
+**log**|**log2**|**ln**
+**round**|**round half up**|
+**ceil**|**round up**|
+**floor**|**round down**|
+**√**|**cbrt**|
+**!**|**nPr**|**nCr**
+**^**|**^2**|**^3**
 
 
 
