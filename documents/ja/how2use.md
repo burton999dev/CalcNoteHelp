@@ -40,8 +40,13 @@
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/line_no.png">
 
-## 編集領域と結果領域
+## 編集領域
 
+## 結果領域と総合計領域
+結果の数値をタップすると結果の2進数、16進数、消費税込、税別の金額が計算されポップアップで表示されます。それぞれの結果はタップすることでクリップボードにコピーされます。また行番号をタップすると編集領域に `${LineNo}` が入力されます。
+
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/result_popup1.png">
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/result_popup2.png">
 
 ## 入力パッド
 入力パッドは左右にスワイプすることで、切り替えることができます。現時点では３種類の入力パッドをサポートしています。各ボタンの右下に `...` 三点リーダが表示されているボタンはロングタップすると関連するボタンがポップアップ表示されます。例えば「削除ボタン」をロングタップすると「全削除ボタン」と「1行削除ボタン」が表示されます。
