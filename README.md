@@ -3,7 +3,7 @@
 [日本語](documents/ja/index.md)  
 [English](documents/en/index.md)
 
-<table style="width:80%;border:1px solid #afafaf">
+<table style="width:100%;">
 <tbody>
 <tr>
 <td style="border:0px"><img style="border:none" alt="CalcNoteFree" src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/icon_color_blue_144.png" width="60"></td>
@@ -17,7 +17,7 @@ The Notepad Calculator<br>Price: Free</span></td>
 </tbody>
 </table>
 
-<table style="width:80%;border:1px solid #afafaf">
+<table style="width:100%;">
 <tbody>
 <tr>
 <td style="border:0px"><img style="border:none" alt="CalcNotePro" src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/icon_color_blue_144.png" width="60"></td>
