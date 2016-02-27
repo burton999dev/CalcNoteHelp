@@ -1,0 +1,2 @@
+# CalcNoteHelp
+Help for CalcNote
