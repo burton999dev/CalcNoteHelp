@@ -1,5 +1,5 @@
 # 基本操作
-`CalcNote`は電卓アプリですがメモ帳に近い外観をしています。  
+`CalcNote`は電卓アプリですがメモ帳に近い外観をしていて最初は戸惑うかもしれません。  
 ここでは基本的な操作方法を説明します。  
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/screen_description.png">
@@ -41,6 +41,7 @@
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/line_no.png">
 
 ## 編集領域
+ここに計算式を書くことでリアルタイムで結果領域の答えが表示されます。計算式は <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top"> をタップして改行することで何個でも書くことができます。結果は1行毎に別々に計算され結果領域に表示されます。計算式が長い場合は自動的に折り返して表示され複数行になることがありますが、結果は1行として扱われます。
 
 ## 結果領域と総合計領域
 結果の数値をタップすると結果の2進数、16進数、消費税込、税別の金額が計算されポップアップで表示されます。それぞれの結果はタップすることでクリップボードにコピーされます。また行番号をタップすると編集領域に `${LineNo}` が入力されます。
@@ -83,11 +84,5 @@
 ABC|ソフトウェアキーボードを表示します。
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_close_black_18dp.png">|入力パッドを非表示にします。
 
-
-
-
-
-
-
-<img src="">
-<img src="">
+<br><br>
+[HOME](index.md)　[演算子と関数](operator_and_function.md)　[設定](settings.md)　[使用例](usecases.md)  
