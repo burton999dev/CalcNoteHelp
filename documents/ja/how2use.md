@@ -1,5 +1,5 @@
 # 基本操作
-`CalcNote`は電卓アプリですがメモ帳に近い外観をしていて最初は戸惑うかもしれません。  
+`CalcNote`は電卓アプリですがメモ帳に近い外観をしていて最初は戸惑うかもしれませんが使い方はとてもシンプルです。   
 ここでは基本的な操作方法を説明します。  
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/screen_description.png">
