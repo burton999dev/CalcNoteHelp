@@ -78,6 +78,11 @@
 **!**|**nPr**|**nCr**
 **^**|**^2**|**^3**
 
+### 引数入力パッド
+入力をより簡素化するために、関数や`√`、`^`などを入力すると引数を入力するための入力パッドがポップアップで表示されます。
+
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/function_pad.png">
+
 ## パッド切替
 |ボタン|説明|
 |:-----------|:------------|
