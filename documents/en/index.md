@@ -9,27 +9,25 @@
 **This help might be contain some pre-release of the new features.**
 
 # <a name ="introduction"> Introduction</a>
-`CalcNote`はスマートフォン用に新しく設計された電卓アプリです。一般的な電卓アプリとは異なりメモを書くような感覚で計算式を書いて計算を行います。計算式が常に見えている状態なので計算ミスを簡単に発見することが可能です。式はメモ帳のようにいつでも修正することが可能です。計算式は改行することで何個でも書くことができるので、スマートフォンの大画面を使って複数の計算を同時に行うことができます。
+`CalcNote` is the the notepad calculator designed for smart phone. You can immediately obtain a calculation result while allowing recognition of a calculation process.  
+If you make a mistake, you don't need to start again, you can edit your expression like in a text editor. Of course, you can write a memo for your problems.  
+You can do multiple calculations at the same time, and edit previous lines at any time.
 
 # <a name ="version">Difference between Free and Pro editions</a>
-`CalcNote`には無料でお使い頂ける [Free版](https://play.google.com/store/apps/details?id=com.burton999.notecal) と、360円で購入可能な [Pro版](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) があります。どちらも電卓の機能としては全く同じですが、Free版には以下の制約があります。
+There are two editions for the `CalcNote`, [Free](https://play.google.com/store/apps/details?id=com.burton999.notecal) and [Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) (JPY 360).  
+Free edition has the same functionality as the Pro edition but it has the following restrictions.  
 
-- 画面上部に広告が表示されます。
-- 定期的にレビューをお願いするダイアログが表示されます。(**二度と表示しない**を選択することで次回より表示されなくなります)
-- Google Analyticsが組み込まれており、どの機能がよく使われているか等、`CalcNote`の機能改善に役立つ情報を収集させていただいております。アプリ利用状況の分析以外の目的でこれらの情報を使用することはありません。(**個人情報や端末情報などプライバシーに関わる情報、編集内容等は一切収集しておりませんし、権限も要求していませんのでご安心ください**)
+- The top of the screen will be displayed ads.
+- A dialog appears to promote user to rate the CalcNote at fixed intervals.
+- We use analytics services to understand how users use `CalcNote` in order for CalcNote to improve its software.
 
-もしアプリを気に入っていただけましたら、Pro版の購入をご検討いただければ幸いです。  
-Pro版は広告が無いことでエディタ領域を広く使うことができFree版よりも快適にお使いいただけます。
+If you like the CalcNote, I hope you'll consider purchasing the Pro editon.
 
 # <a name ="support">Support</a>
-バグや計算結果の不一致など、おかしな点を見つけた場合、また機能追加のご要望は以下のいずれかの方法でご連絡ください。
+If you find a bug or have a featuer request, Please contact me by following methods.
 
-- アプリが強制終了した際に表示されるクラッシュレポートの送信
-- burton9999dev@gmail.com 宛のメール
-- [Twitter](https://twitter.com/#!/ComicCafeApp) でのメンション
+- App review in GooglePlay
+- Sends email to burton9999dev@gmail.com
+- [Twitter](https://twitter.com/#!/ComicCafeApp)
 - Github issue
-- GooglePlayでのアプリのレビュー (評価はどうか穏便にお願いしますm(__)m)
-
-要望などは実装することをお約束できませんが、可能な限り対応させていただきます。
-また、バグの原因究明にご協力いただいた方にはお礼としてPro版のプロモーションコードを配布しております。
 
