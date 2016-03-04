@@ -6,34 +6,30 @@ This section describes the basic usage of CalcNote.
 
 |Area|Description|
 |:-----------|:------------|
-LineNo|行番号が表示される領域です。タップすると[行参照](#lineno)を入力することができます。<br>[設定](settings.md)で非表示にすることもできます。
-Editor Area|ここに式を書いて計算を行います。<br>メモ帳のように選択、全選択、コピー、切り取り、貼り付けなど柔軟な編集が可能です。
-Results Area|計算結果が表示されます。結果は式を編集したタイミングでリアルタイムに計算されます。<br>結果の数字をタップすると消費税、2進数、16進数の結果が表示されます。
-Toatal Area|編集領域に複数の計算式を書いた場合、答えは各行毎に計算されます。それら全ての総合計が表示されます。<br>結果の数字をタップすると消費税、2進数、16進数の結果が表示されます。
-Keypad|入力パッドを左右にスワイプすることでパッドを切り替えることができます。<br>[数値入力] <-> [関数入力] <-> [ビット演算]の3つの入力パッドがあります。
-Keypad Switches|ソフトウェアキーボードの表示、非表示、入力パッドの表示、非表示を操作できます。
+LineNo|Show the line number. You can input the [Line references](#lineno) to tap the line number.<br>This area can be hidden by [Editor Settings](settings.md).
+Editor Area|Write the expression to calculate your problems. You can copy, cut or paste a expression like a notepad.
+Results Area|Calculation results are displayed. The results are calculated in real-time when you write a expression on the editor.<br>You can show the result as hexadecimal, binary, tax included and tax excluded to tap the result. You need to configure tax rate if you want to calculate the tax included and tax excluded.
+Toatal Area|A running total of all your lines is displayed.<br>You can show the result as hexadecimal, binary, tax included and tax excluded to tap the result. You need to configure tax rate if you want to calculate the tax included and tax excluded.
+Keypad|You can switch the keypad to swipe to left or right.There are three keypads.<br>[Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]
+Keypad Switches|You can show/hide the software keyboard. And also you can show/hide the keypad.
 
 ## Menu
-画面右上にあるアクションメニューをタップするか、サイドメニューを表示することで`CalcNote`の様々な機能にアクセスすることができます。  
+You can access various functions via side menu.  You can show the side menu to tap the action bar menu or to swipe from the left side to the right side or tap the hardware menu key.
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/open_menu.png">
-
-**サイドメニューは以下の方法で表示することができます。**  
-1. 画面左上にある三本線のアイコンをタップする  
-2. 画面左端から右へスワイプする  
-3. ハードウェアキーのある端末で、メニューボタンを押す  
-
+<br>
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/menu_description.png">
 
-|メニュー|説明|
+|Menu Item|Description|
 |:-----------|:------------|
-新規ファイル|編集中の計算式を下書きとして保存して、新規ファイルを作成します。
-保存|編集中の計算式を名前を付けて保存します。
-エクスポート|編集中の計算式をクリップボードにコピーしたり、他のアプリケーションに共有することができます。
-式を整形|編集中の式を整形して見やすくします。
-設定|[設定画面]()に遷移します。
-下書き|下書きの一覧が表示されます。選択すると下書きを開きます。<br>ゴミ箱のアイコンをタップすると下書きを削除できます。
-保存済みファイル|名前を付けて保存したファイルの一覧が表示されます。選択するとファイルを開きます。<br>ゴミ箱のアイコンをタップするとファイルを削除できます。
+New File|編集中の計算式を下書きとして保存して、新規ファイルを作成します。
+Save|編集中の計算式を名前を付けて保存します。
+Export|編集中の計算式をクリップボードにコピーしたり、他のアプリケーションに共有することができます。
+Format expression|編集中の式を整形して見やすくします。
+Settings|[設定画面](settings.md)に遷移します。
+Online Help|Jump to this page using default browser
+Drafts|下書きの一覧が表示されます。選択すると下書きを開きます。<br>ゴミ箱のアイコンをタップすると下書きを削除できます。
+Saved Files|名前を付けて保存したファイルの一覧が表示されます。選択するとファイルを開きます。<br>ゴミ箱のアイコンをタップするとファイルを削除できます。
 
 ## <a name ="lineno">Line no and Line references</a>
 行番号をタップするとその行の答えを参照するための変数 `${LineNo}` が入力されます。参照変数は複雑な計算を簡単な式に分割して計算する時に便利です。改行の入力によって参照している行番号が変わった場合は、参照変数も自動的に更新されます。現時点では参照できる行は前の行のみになります。例えば5行目に `$6` と書いても6行目を参照することはできません。
@@ -56,14 +52,14 @@ Keypad Switches|ソフトウェアキーボードの表示、非表示、入力�
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad.png">
 <br>
-**ロングタップで表示されるポップアップ**  
+**Popup buttons that appears by the long tap**  
 
-|ボタン|ロングタップ1|ロングタップ2|
+|Button|Long tap 1|Long tap 2|
 |:-----------|:------------|:------------|
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_backspace_black_18dp.png">|全削除|行削除
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_backspace_black_18dp.png">|Clear all|Clear line
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png">|`${LineNo}`|
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_left_bold_black_18dp.png">|行の先頭に移動|行の先頭まで選択
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_right_bold_black_18dp.png">|行の末尾に移動|行の末尾まで選択
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_left_bold_black_18dp.png">|Move to the beginning of the line|Select to the beginning of the line
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_right_bold_black_18dp.png">|Mode to the end of the line|Select to the end of the line
 **×**|**()**|
 **÷**|**mod**|
 **.**|**,**|
@@ -79,16 +75,16 @@ Keypad Switches|ソフトウェアキーボードの表示、非表示、入力�
 **^**|**^2**|**^3**
 
 ### Keypad for parameters
-入力をより簡素化するために、関数や`√`、`^`などを入力すると引数を入力するための入力パッドがポップアップで表示されます。
+When you input such as `√`, `^` or functions, popup keypad will be shown. You can input argument easily. You can input an argument easily.
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/function_pad.png">
 
 ## Keypad Switches
-|ボタン|説明|
+|Button|Description|
 |:-----------|:------------|
-123|ソフトウェアキーボードを非表示にします。
-ABC|ソフトウェアキーボードを表示します。
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_close_black_18dp.png">|入力パッドを非表示にします。
+123|Hide the software keyboard.
+ABC|Show the software keyboard.
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_close_black_18dp.png">|Hide the keypad.
 
 <br><br>
 [HOME](index.md)　[Operators and Functions](operator_and_function.md)　[Settings](settings.md)　  
