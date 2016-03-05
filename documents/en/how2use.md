@@ -40,21 +40,21 @@ Saved Files|名前を付けて保存したファイルの一覧が表示され�
 ここに計算式を書くことでリアルタイムで結果領域の答えが表示されます。計算式は <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top"> をタップして改行することで何個でも書くことができます。結果は1行毎に別々に計算され結果領域に表示されます。計算式が長い場合は自動的に折り返して表示され複数行になることがありますが、結果は1行として扱われます。
 
 ## Results Area and Total Area
-結果の数値をタップすると結果の2進数、16進数、消費税込、税別の金額が計算されポップアップで表示されます。それぞれの結果はタップすることでクリップボードにコピーされます。また行番号をタップすると編集領域に `${LineNo}` が入力されます。
+Tap the total results of numerical, then the popup window is displayed on the screen.The popup window has the result as hexadecimal, binary, tax included and tax excluded. You can copy these results to clipboard to tap the result. And also you can tap the line number in order to input the line references.  
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup1.png">
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup2.png">
 
 ## Keypad
-**入力パッドの高さはデフォルトで、お使いの文字入力ソフトのソフトウェアキーボードの高さに合わせた高さになります。**お使いのソフトウェアキーボードがコンパクトな場合、入力パッドも小さくなり押しづらくなる可能性があります。その場合は、[設定](settings.md)で入力パッドの高さを自分で調整するか、文字入力ソフトの設定でソフトウェアキーボードの高さを調整することで改善することができます。  
-入力パッドは左右にスワイプすることで、切り替えることができます。現時点では３種類の入力パッドをサポートしています。各ボタンの右下に `...` 三点リーダが表示されているボタンはロングタップすると関連するボタンがポップアップ表示されます。例えば「削除ボタン」をロングタップすると「全削除ボタン」と「1行削除ボタン」が表示されます。
-
+**The height of keypad is adjusted to the same as the height of software keyboad. You can adjust height of keypad by the [keypad settings](settings.md).**  
+You can switch the keypad to swipe to left or right. There are three keypads.<br>[Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]  
+You can long-press the button which has `...` in order to show the popup pad.
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad.png">
 <br>
-**Popup buttons that appears by the long tap**  
+### Popup buttons that appears by the long tap
 
-|Button|Long tap 1|Long tap 2|
+|Button|Popup Button1|Popup Button2|
 |:-----------|:------------|:------------|
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_backspace_black_18dp.png">|Clear all|Clear line
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png">|`${LineNo}`|
