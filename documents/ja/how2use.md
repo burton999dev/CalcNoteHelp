@@ -57,6 +57,8 @@
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/keypad.png">
 <br>
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/popup_pad.png">
+<br>
 ### ロングタップで表示されるポップアップ
 
 |ボタン|ロングタップ1|ロングタップ2|

@@ -52,6 +52,8 @@ You can long-press the button which has `...` in order to show the popup pad.
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad.png">
 <br>
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/popup_pad.png">
+<br>
 ### Popup buttons that appears by the long tap
 
 |Button|Popup Button1|Popup Button2|
