@@ -1,72 +1,69 @@
-# 設定
-`CalcNote`は柔軟なカスタマイズ性を提供しています。予め用意されたテーマではなく、外観の細部にわたって自分好みに全てカスタマイズすることが可能です。
+# Settings
+`CalcNote` offers a flexible customization. You can freely customize the app appearance, tax rate, display format and so on.
 
-## 基本設定
-|項目|説明|
+## Basic Settings
+|Setting|Description|
 |:-----------|:------------|
-タップした時に振動|ボタンをタップした時に振動させるかどうかを設定します。
-画面をスリープしない|ONにすると画面のバックライトが常に点灯した状態になります。
-アクションバーを表示する|OFFにすると画面上部のアクションバーが非表示になります。<br>編集領域を大きくしたい場合に有効な設定です。
-フルスクリーンモード|`CalcNote`をフルスクリーンモードで表示します。
-長いファイル名を省略する|アクションバーに表示されるファイル名が長い場合、`...`で省略して表示します。<br>OFFの場合はファイル名をスクロールして全体を表示します。
+Vibrate on touch|Set whether to vibrate when you tap the button.
+No screen timeout|Set whether to keep the screen turned on.
+Show action bar|Set whether to show the action bar.
+Full screen mode|Set whether to show the notification area.
+Ellipt a long filename|Set whether to ellipt the file name on the action bar if file name is too long.
 
-## キーパッドの設定
-|項目|説明|
+## Keypad Settings
+|Setting|Description|
 |:-----------|:------------|
-キー配列|キーパッドの配置を`電卓配列`、`ケータイ配列`で選択できます。
-高さをソフトウェアキーボードに合わせる|ONの場合、キーパッドの高さがソフトウェアキーボードの高さにマッチするように調整されます。<br>**この設定を有効にするにはアプリの再起動が必要です。**
-画面に対するキーパッドの高さ(%)|上記設定をOFFにした場合のみ有効な設定で、キーパッドの高さを画面との比率で設定します。
+Key arrangement|Choose the key arrangement. `calculator` or `phone`
+Fit the height to soft keyboard|Set whether to adjust the height of keypad automatically.<br>**You need to restart app in order to reflect this setting.**
+Percentage of height to the screen(%)|Set the height of keypad as percentage of height to the screen.
 
-## エディタの設定
-|項目|説明|
+## Editor Settings
+|Setting|Description|
 |:-----------|:------------|
-エディタの文字色|編集領域と結果領域で使われる文字の色を設定します。
-エディタの負数の文字色|結果領域で値がマイナスの場合の文字の色を設定します。
-エディタの背景色|編集領域と結果領域の背景色を設定します。
-フォント|行番号、編集領域、結果領域、総合計領域で使われる文字のフォントを設定します。
-フォントサイズ|行番号、編集領域、結果領域、総合計領域で使われる文字のフォントサイズを設定します。
-行番号を表示|ONの場合、行番号が表示されます。
-行番号の文字色|行番号で使われる文字の色を設定します。
-行番号の背景色|行番号の背景色を設定します。
-罫線を表示|ONの場合、編集領域と結果領域に罫線を表示されます。
-罫線の色|罫線の色を設定します。他の文字色や背景色の設定と異なり、透明度も設定できます。
-初期設定に戻す|エディタの設定を初期状態に戻します。
+Editor text color|Set the text color for the editor area and results area.
+Editor text color for negative value|Set the text color for the results area for negative value.
+Editor background color|Set the background color for the editor area and results area.
+Font|Set the font family for the line numbers, editor area, results area and total area.
+Text size|Set the text size for the line numbers, editor area, results area and total area.
+Show line numbers|Set whether to show the line numbers.
+Line No text color|Set the text color for the line numbers.
+Line No background color|Set the background color for the line numbers.
+Show ruled line|Set whether to show the ruled line on the editor area and results area.
+Ruled line color|Set the line color for the ruled line.
+Restore Defaults|Restore default settings
 
-## 外観の設定
-|項目|説明|
+## Appearance Settings
+|Setting|Description|
 |:-----------|:------------|
-アクションバーの文字色|画面上部のアクションバーの文字色を設定します。
-アクションバーの背景色|画面上部のアクションバーの背景色を設定します。
-フレームの色|画面中央にあるパッド切替の背景色および各領域を分割しているフレームの背景色を設定します。
-キーパッドメニューの色|画面中央にあるパッド切替のアイコンの色を設定します。
-ボタンの文字色|キーパッドのボタンの文字色を設定します。
-ボタンの背景色|キーパッドのボタンの背景色を設定します。(左側3列)
-セカンダリボタンの背景色|キーパッドのボタンの背景色を設定します。(右側2列)
-ボタンの境界線の色|キーパッドのボタンの境界線の色を設定します。
-初期設定に戻す|外観の設定を初期状態に戻します。
+Action Bar text color|Set the text color for the Action bar
+Action Bar background color|Set the background color for the Action bar
+Frame color|Set the background color for the frame.
+Keyboard menu color|Set the icon color for the keypad switch.
+Button text color|Set the text color for keypad button
+Button background color|Set the background color for primary keypad buttons
+Secondary button background color|Set the background color for secondary keypad buttons.
+Button border color|Set the border color for keypad button
+Restore Defaults|Restore default settings.
 
-## 計算結果の設定
-|項目|説明|
+## Computation Settings
+|Setting|Description|
 |:-----------|:------------|
-表示形式|結果領域の表示フォーマットを設定します。<br>小数点をカンマで表現したりする国もあるので、国際化対応のための設定です。
-小数点桁数|結果を計算する際の小数点の有効桁数を設定します。
-小数点端数|有効桁数を設定した場合の端数の処理方法を設定します。
+Display format|Set the display format for numeric.
+Accuracy (max digits in fraction)|Set the accuracy for decimal.
+Round behavior|Set the rounding behavior for decimal.
 
-## 結果の設定
-|項目|説明|
+## Result Settings
+|Setting|Description|
 |:-----------|:------------|
-消費税率(%)|消費税率を設定します。
-消費税計算時の小数点桁数|消費税計算時の小数点桁数です。<br>日本では小数点以下は端数処理されるため0です。
-消費税の端数処理|消費税の端数処理方法を設定します。<br>日本では切り捨てが一般的ですが、法的には切り上げでも問題なく、お店によって異なる可能性があります。
+Tax Rate(%)|Set the tax rate.
+Accuracy (max digits in fraction)|Set the accuracy for tax.
+Tax Round behavior|Set the rounding behavior for the tax
 
-## 設定のインポート/エクスポート
-全ての設定項目をインポート/エクスポートすることができます。この機能を使って機種変更した場合などに設定を簡単に移行することができます。エクスポート先にはGoogleDriveを使うのがオススメです。DropBoxはDropBoxからの読み込み時(インポート時)にファイルアクセスの権限を要求されるため失敗します。おそらくDropBoxのバグだと思われます。外観をカスタマイズして気に入ったカスタマイズができたら、設定をエクスポートしておくことをオススメします。
+## Import/Export settings
+You can import/export the all settings. You can easily migrate files to new phone using this function. I recommend you to use GoogleDrive with import/export.
 
-## ファイルのバックアップ/リストア
-保存してあるファイルをバックアップ/リストアすることができます。バックアップ/リストアできるのは保存済みのファイルのみで下書きは対象外です。この機能を使って機種変更した場合などにファイルを簡単に移行することができます。バックアップ先にはGoogleDriveを使うのがオススメです。
-
-## その他
-`CalcNote`を友達に教える機能、レビュー・評価のためにGooglePlayにジャンプする機能、Google+1する機能を提供しています。是非、ご協力いただけますよう、よろしくお願い致します。`CalcNote`のユーザー数が増えることで開発者のやる気がアップします。
+## Backup/Restore files
+You can backup/restore the saved files. Draft files are excluded. You can easily migrate files to new phone using this function. I recommend you to use GoogleDrive with backup/restore.
 
 <br>
 [HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)  
