@@ -1,53 +1,53 @@
-# 演算子と関数
-`CalcNote`は基本的な四則演算だけでなく関数やビット演算などもサポートしています。ここでは使用できる演算子、関数について説明します。
+# Operators and Functions
+`CalcNote` supports many operators and mathematical functions which is great for trigonometry, for instance.
 
-## 演算子
-|演算子|説明|例|
+## Operators
+|Operator|Description|Example|
 |:-----------|:------------|:------------|
-`+`|加算|1 `+` 1 = 2
-`-`|減算|1 `-` 1 = 0
-`*`|乗算|2 `*` 3 = 6
-`/`|除算|10 `/` 2 = 5
-`%`|余りを求めます。%を求める計算ではないので注意が必要です。|5 `%` 2 = 1
-`&`|ビット演算で論理積(AND)を求めます。|0b0101 `&` 0b0011 = 0b0001
-`|`|ビット演算で論理和(OR)を求めます。|0b0101 `|` 0b0011 = 0b0111
-`~`|ビット演算で論理否定(NOT)を求めます。|`~`0b10 = 0b01
-`⊻`|ビット演算で排他的論理和(XOR)を求めます。|0b0101 `⊻` 0b0011 = 0b0110
-`<<`|ビット演算で左シフトします。|0b0110 `<<` 2 = 0b11000
-`>>`|ビット演算で右シフトします。|0b0110 `>>` 2 = 0b0001
-`nPr`|順列を求めます。|`5P2` = 20
-`nPr`|組み合わせを求めます。|`5C2` = 10
-`!`|階乗を求めます。|5`!` = 120
-`√`|平方根を求めます。|`√`9 = 3
-`^`|累乗を求めます|3 `^` 2 = 9
+`+`|Addition|1 `+` 1 = 2
+`-`|Subtraction|1 `-` 1 = 0
+`*`|Multiplication|2 `*` 3 = 6
+`/`|Division|10 `/` 2 = 5
+`%`|Gets the remainder of a division.|5 `%` 2 = 1
+`$`|Line references ${LineNo}|`$1` + `$2`
+`&`|Logical AND|0b0101 `&` 0b0011 = 0b0001
+`|`|Logical OR|0b0101 `|` 0b0011 = 0b0111
+`~`|Logical NOT|`~`0b10 = 0b01
+`⊻`|Logical XOR|0b0101 `⊻` 0b0011 = 0b0110
+`<<`|Left arithmetic shift|0b0110 `<<` 2 = 0b11000
+`>>`|Right arithmetic shift|0b0110 `>>` 2 = 0b0001
+`nPr`|Permutation|`5P2` = 20
+`nPr`|Combination|`5C2` = 10
+`!`|Factorial|5`!` = 120
+`√`|Square root|`√`9 = 3
+`^`|Power|3 `^` 2 = 9
 
-**※全ての演算子は10進数、16進数、2進数の全てに適用可能です。結果は10進数で表示されます。**
+**All operators can be used for decimal, hexdecimal and binary.**
 
-## 関数
-|関数|引数|説明|例|
+## Functions
+|Function|Parameter|Description|Example|
 |:-----------|:------------|:------------|:------------|
-`sin(x)`|`x`:ラジアンで表した角度|指定された角度の正弦 (サイン) を返します。|
-`asin(x)`|`x`:逆正弦を求める対象の値|値の逆正弦 (アークサイン) を返します。返される角度の範囲は、-pi/2 〜 pi/2 の範囲です|
-`sinh(x)`|`x`:双曲線正弦を求める対象の値|値の双曲線正弦を返します。xの双曲線正弦は (ex - e-x)/2 で表されます。 ここで、e は Euler's number です。|
-`cos(x)`|`x`:ラジアンで表した角度|指定された角度の余弦 (コサイン) を返します。|
-`acos(x)`|`x`:逆余弦を求める対象の値|値の逆余弦 (アークコサイン) を返します。返される角度の範囲は、0.0 〜 pi です。|
-`cosh(x)`|`x`:双曲線余弦を求める対象の値|値の双曲線余弦を返します。x の双曲線余弦は (ex + e-x)/2 で表されます。 ここで、e は Euler's number です。|
-`tan(x)`|`x`:ラジアンで表した角度|指定された角度の正接 (タンジェント) を返します。|
-`atan(x)`|`x`:逆正接を求める対象の値|指定された値の逆正接 (アークタンジェント) を返します。返される角度の範囲は、-pi/2 〜 pi/2 の範囲です。|
-`tanh(x)`|`x`:双曲線正接を求める対象の値|値の双曲線正接を返します。xの双曲線正接は (ex - e-x)/(ex + e-x) で表されます。 つまり、sinh(x)/cosh(x)。正確な tanh の絶対値は常に 1 未満です。|
-`log(x)`|`x`:対数を求める対象の値|指定された値の10を底とする対数を返します。|
-`log2(x)`|`x`:対数を求める対象の値|指定された値の2を底とする対数を返します。|
-`ln(x)`|`x`:自然対数値を求める対象の値|指定された値の自然対数値 (底は e) を返します。|
-`exp(x)`|`x`:eに設定した指数|オイラー数 e を指定した値で累乗した値を返します。|
-`round(x)`|`x`:四捨五入する小数|小数点第一位を四捨五入した整数を返します。桁を指定して四捨五入したい場合は rhup 関数を使用してください。|round(100.4) = 100<br>round(100.5) = 101
-`rhup(x, places)`|`x`:四捨五入する値です。<br>`places`:丸めた後の小数点以下の桁数です。<br>placesに負の値を指定した場合、整数部分が丸められます。|指定した値を指定した桁数で四捨五入します。|rhup(153.47, 0) = 153<br>rhup(153.47, 1) = 153.5<br>rhup(153.47,-1) = 150
-`ceil(x)`|`x`:切り上げする小数|小数点第一位を切り上げした整数を返します。桁を指定して切り上げしたい場合は rup 関数を使用してください。|ceil(100.3) = 101<br>ceil(-100.3)= -100
-`rup(x, places)`|`x`:切り上げる値です。<br>`places`:丸めた後の小数点以下の桁数です。<br>placesに負の値を指定した場合、整数部分が丸められます。|指定した値を指定した桁数で切り上げます。|rup(153.47, 0) = 154<br>rup(153.47, 1) = 153.5<br>rup(153.47,-1) = 160
-`floor(x)`|`x`:切り捨てする小数|小数点第一位を切り捨てした整数を返します。桁を指定して切り捨てしたい場合は rdown 関数を使用してください。|floor(100.3) = 100<br>floor(-100.3) = -101
-`rdown(x, places)`|`x`:切り捨てる値です。<br>`places`:丸めた後の小数点以下の桁数です。<br>placesに負の値を指定した場合、整数部分が丸められます。|指定した値を指定した桁数で切り捨てます。|rdown(153.47, 0) = 153<br>rdown(153.47, 1) = 153.4<br>rdown(153.47,-1) = 150
-`cbrt(x)`|`x`:立方根を求める対象の値|値の立方根を返します。正の有限値 x の場合、cbrt(-x) == -cbrt(x)。<br>つまり、負の値の立方根は、値の絶対値の立方根を負にしたものです。|
-`abs(x)`|`x`:絶対値求める対象の値|値の絶対値を返します。xが負でない場合はxそのものを返します。<br>負のときは、その正負を逆にした値を返します。|abs(100) = 100<br>abs(-100)= 100
+`sin(x)`|`x`:An angle, in radians|Returns the trigonometric sine of an angle.|
+`asin(x)`|`x`:The value whose arc sine is to be returned|Returns the arc sine of a value; the returned angle is in the range -pi/2 through pi/2.|
+`sinh(x)`|`x`:The number whose hyperbolic sine is to be returned|Returns the hyperbolic sine of a value. The hyperbolic sine of x is defined to be (ex - e-x)/2 where e is Euler\'s number.|
+`cos(x)`|`x`:An angle, in radians|Returns the trigonometric cosine of an angle.|
+`acos(x)`|`x`:The value whose arc cosine is to be returned|Returns the arc cosine of a value; the returned angle is in the range 0.0 through pi.|
+`cosh(x)`|`x`:The number whose hyperbolic cosine is to be returned|Returns the hyperbolic cosine of a value. The hyperbolic cosine of x is defined to be (ex + e-x)/2 where e is Euler's number.|
+`tan(x)`|`x`:An angle, in radians|Returns the trigonometric tangent of an angle.|
+`atan(x)`|`x`:The value whose arc tangent is to be returned|Returns the arc tangent of a value; the returned angle is in the range -pi/2 through pi/2.|
+`tanh(x)`|`x`:The number whose hyperbolic tangent is to be returned|Returns the hyperbolic tangent of a value. The hyperbolic tangent of x is defined to be (ex - e-x)/(ex + e-x), in other words, sinh(x)/cosh(x). Note that the absolute value of the exact tanh is always less than 1.|
+`log(x)`|`x`:A value|Returns the base 10 logarithm of a value.|
+`log2(x)`|`x`:A value|Returns the base 2 logarithm of a value.|
+`ln(x)`|`x`:A value|Returns the natural logarithm (base e) of a value.|
+`exp(x)`|`x`:The exponent to raise e to|Returns Euler's number e raised to the power of a value.|
+`round(x)`|`x`:A floating-point value to be rounded to an integer|Returns the closest int to the x, with ties rounding up.|round(100.4) = 100<br>round(100.5) = 101
+`rhup(x, places)`|`x`:The value to round to places number of places<br>`places`:The number of decimal places to which to round.places may be negative, in which case value is rounded at the specified number of digits to the left of the decimal point.|Rounds a number to a certain number of decimal places according to standard rules.|rhup(153.47, 0) = 153<br>rhup(153.47, 1) = 153.5<br>rhup(153.47,-1) = 150
+`ceil(x)`|`x`:A value|Returns the smallest (closest to negative infinity) value that is greater than or equal to the argument and is equal to a mathematical integer.|ceil(100.3) = 101<br>ceil(-100.3)= -100
+`rup(x, places)`|`x`:The value to round to places number of places, always rounding up<br>`places`:The number of decimal places to which to round.places may be negative, in which case value is rounded at the specified number of digits to the left of the decimal point.|Rounds a number to a certain number of decimal places, always rounding up to the next valid increment.|rup(153.47, 0) = 154<br>rup(153.47, 1) = 153.5<br>rup(153.47,-1) = 160
+`floor(x)`|`x`:A value|Returns the largest (closest to positive infinity) value that is less than or equal to the argument and is equal to a mathematical integer.|floor(100.3) = 100<br>floor(-100.3) = -101
+`rdown(x, places)`|`x`:The value to round to places number of places, always rounding down.<br>`places`:The number of decimal places to which to round.places may be negative, in which case value is rounded at the specified number of digits to the left of the decimal point|Rounds a number to a certain number of decimal places, always rounding down to the next valid increment.|rdown(153.47, 0) = 153<br>rdown(153.47, 1) = 153.4<br>rdown(153.47,-1) = 150
+`cbrt(x)`|`x`:A value|Returns the cube root value. For positive finite x, cbrt(-x) == -cbrt(x); that is, the cube root of a negative value is the negative of the cube root of that value\'s magnitude.|
+`abs(x)`|`x`:The argument whose absolute value is to be determined|Returns the absolute value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned.|abs(100) = 100<br>abs(-100)= 100
 
 <br><br>
 [HOME](index.md)　[How to use](how2use.md)　[Settings](settings.md)　  
-
