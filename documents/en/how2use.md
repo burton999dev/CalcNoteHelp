@@ -22,33 +22,40 @@ You can access various functions via side menu.  You can show the side menu to t
 
 |Menu Item|Description|
 |:-----------|:------------|
-New File|編集中の計算式を下書きとして保存して、新規ファイルを作成します。
-Save|編集中の計算式を名前を付けて保存します。
-Export|編集中の計算式をクリップボードにコピーしたり、他のアプリケーションに共有することができます。
-Format expression|編集中の式を整形して見やすくします。
-Settings|[設定画面](settings.md)に遷移します。
+New File|Save an editing note as draft and open new file.
+Save|Save an editing note under a new file name.
+Export|Export an editing note to other applications or copy to editing note to clipboard.
+Format expression|Format an editing note to beautify a expression.
+Settings|Move to [Setting](settings.md) screen.
 Online Help|Jump to this page using default browser
-Drafts|下書きの一覧が表示されます。選択すると下書きを開きます。<br>ゴミ箱のアイコンをタップすると下書きを削除できます。
-Saved Files|名前を付けて保存したファイルの一覧が表示されます。選択するとファイルを開きます。<br>ゴミ箱のアイコンをタップするとファイルを削除できます。
+Drafts|List of drafts will be displayed. You can open a draft to tap. And also you can delete a draft to tap the trash.
+Saved Files|List of saved files will be displayed. You can open a file to tap. And also you can delete a file to tap the trash.
 
 ## <a name ="lineno">Line no and Line references</a>
-行番号をタップするとその行の答えを参照するための変数 `${LineNo}` が入力されます。参照変数は複雑な計算を簡単な式に分割して計算する時に便利です。改行の入力によって参照している行番号が変わった場合は、参照変数も自動的に更新されます。現時点では参照できる行は前の行のみになります。例えば5行目に `$6` と書いても6行目を参照することはできません。
+When you want to use a previous line's answer in your expression, just tap the line number.Currently, CalcNote can refer to previous answer only.  
+If a line being referred to moves up or down, `CalcNote` will ensure any references to it are updated automatically.  
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/line_no.png">
 
 ## Editor Area
-ここに計算式を書くことでリアルタイムで結果領域の答えが表示されます。計算式は <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top"> をタップして改行することで何個でも書くことができます。結果は1行毎に別々に計算され結果領域に表示されます。計算式が長い場合は自動的に折り返して表示され複数行になることがありますが、結果は1行として扱われます。
+Write the expression to calculate your problems. The CalcNote works like notepad so you can play around with and edit your numbers like never before.  
+You can line break to tap the <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top">.  
+Do calculations over multiple lines, and even connect the lines together using line references. When one line changes, the other lines update. 
 
 ## Results Area and Total Area
-Tap the total results of numerical, then the popup window is displayed on the screen.The popup window has the result as hexadecimal, binary, tax included and tax excluded. You can copy these results to clipboard to tap the result. And also you can tap the line number in order to input the line references.  
+The results are calculated in real-time when you write a expression on the editor. If expression has error, results won't be shown.  
+Tap the results of numerical, then the popup window is displayed on the screen.The popup window has the result as hexadecimal, binary, tax included and tax excluded. You can copy these results to clipboard to tap the result. And also you can tap the line number in order to input the line references.  
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup1.png">
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup2.png">
 
 ## Keypad
 **The height of keypad is adjusted to the same as the height of software keyboad. You can adjust height of keypad by the [keypad settings](settings.md).**  
-You can switch the keypad to swipe to left or right. There are three keypads.<br>[Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]  
-You can long-press the button which has `...` in order to show the popup pad.
+`CalcNote` has three keypads that makes it easier to do calculations. You can switch the keypad to swipe to left or right.  
+<br>
+[Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]  
+<br>
+You can long-press the button which has `...` in order to show the popup pad. To get to the standard alphabetical keyborad, tap `ABC`.
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad.png">
 <br>
