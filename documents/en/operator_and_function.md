@@ -10,6 +10,8 @@
 `/`|Division|10 `/` 2 = 5
 `%`|Gets the remainder of a division.|5 `%` 2 = 1
 `$`|Line references ${LineNo}|`$1` + `$2`
+`0x`|Prefix for the hexadecimal|`0b0101`
+`0b`|Prefix for the binary|`0xFA8B`
 `&`|Logical AND|0b0101 `&` 0b0011 = 0b0001
 `|`|Logical OR|0b0101 `|` 0b0011 = 0b0111
 `~`|Logical NOT|`~`0b10 = 0b01
@@ -22,7 +24,7 @@
 `√`|Square root|`√`9 = 3
 `^`|Power|3 `^` 2 = 9
 
-**All operators can be used for decimal, hexdecimal and binary.**
+**All operators can be used for decimal, hexadecimal and binary.**
 
 ## Functions
 |Function|Parameter|Description|Example|
