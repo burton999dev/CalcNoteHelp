@@ -52,5 +52,5 @@
 `abs(x)`|`x`:絶対値求める対象の値|値の絶対値を返します。xが負でない場合はxそのものを返します。<br>負のときは、その正負を逆にした値を返します。|abs(100) = 100<br>abs(-100)= 100
 
 <br><br>
-[HOME](index.md)　[基本操作](how2use.md)　[設定](settings.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[設定](settings.md)　[カスタマイズの例](example4theme.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 

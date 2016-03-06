@@ -69,5 +69,5 @@
 `CalcNote`を友達に教える機能、レビュー・評価のためにGooglePlayにジャンプする機能、Google+1する機能を提供しています。是非、ご協力いただけますよう、よろしくお願い致します。`CalcNote`のユーザー数が増えることで開発者のやる気がアップします。
 
 <br>
-[HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[カスタマイズの例](example4theme.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 
