@@ -5,6 +5,7 @@
 - [How to use](how2use.md)  
 - [Operators and Functions](operator_and_function.md)  
 - [Settings](settings.md)  
+- [Customization Example](example4theme.md)  
 
 **This help might be contain some pre-release of the new features.**
 

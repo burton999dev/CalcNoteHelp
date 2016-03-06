@@ -66,5 +66,5 @@ You can import/export the all settings. You can easily migrate files to new phon
 You can backup/restore the saved files. Draft files are excluded. You can easily migrate files to new phone using this function. I recommend you to use GoogleDrive with backup/restore.
 
 <br>
-[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)　[Customization Example](example4theme.md)  
 
