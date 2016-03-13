@@ -8,7 +8,12 @@ Vibrate on touch|Set whether to vibrate when you tap the button.
 No screen timeout|Set whether to keep the screen turned on.
 Show action bar|Set whether to show the action bar.
 Full screen mode|Set whether to show the notification area.
+
+## File Settings
+|Setting|Description|
+|:-----------|:------------|
 Ellipt a long filename|Set whether to ellipt the file name on the action bar if file name is too long.
+Number of saving drafts|Set the number of drafts that can be saved.Draft that exceeds the number of this limit will be removed to the old order.
 
 ## Keypad Settings
 |Setting|Description|
