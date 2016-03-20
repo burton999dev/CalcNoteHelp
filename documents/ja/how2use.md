@@ -45,7 +45,8 @@
 ここに計算式を書くことでリアルタイムで結果領域の答えが表示されます。計算式は <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top"> をタップして改行することで何個でも書くことができます。結果は1行毎に別々に計算され結果領域に表示されます。計算式が長い場合は自動的に折り返して表示され複数行になることがありますが、結果は1行として扱われます。
 
 ## 結果領域と総合計領域
-結果の数値をタップすると結果の2進数、16進数、消費税込、税別の金額が計算されポップアップで表示されます。それぞれの結果はタップすることでクリップボードにコピーされます。また行番号をタップすると編集領域に `${LineNo}` が入力されます。
+結果の数値をタップすると結果の2進数、16進数、消費税込、税別の金額が計算されポップアップで表示されます。それぞれの結果はタップすることでクリップボードにコピーされます。また行番号をタップすると編集領域に `${LineNo}` が入力されます。  
+税込、税別表示のカッコ内には税額が表示されます。 `税込:1,080(80)` という表示は税別で`1,000円`の税込み価格は `1,080円` でそのうち`80円`が税額ということを意味しています。同様に`税別:926(74)`という表示は税込み`1,000円`の税別価格は`926円`で`74円`の消費税がかかり、合計で1,000円という意味になります。
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/result_popup1.png">
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/result_popup2.png">
