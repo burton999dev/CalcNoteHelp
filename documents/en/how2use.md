@@ -83,6 +83,15 @@ You can long-press the button which has `...` in order to show the popup pad. To
 **!**|**nPr**|**nCr**
 **^**|**^2**|**^3**
 
+### Tablet support
+If you are using a tablet, number of buttons will be increased. So you can input some functions without long-tap.
+
+#### For 7inch tablet
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad7.png">
+
+#### For 9inch tablet
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad9.png">
+
 ### Keypad for parameters
 When you input such as `√`, `^` or functions, popup keypad will be shown. You can input argument easily. You can input an argument easily.
 

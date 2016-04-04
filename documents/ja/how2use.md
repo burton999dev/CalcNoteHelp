@@ -82,6 +82,17 @@
 **!**|**nPr**|**nCr**
 **^**|**^2**|**^3**
 
+### タブレットレイアウト
+お使いの端末がタブレットの場合、広い画面を利用して配置されるボタンが増加します。これによりロングタップを必要としていたボタンが、１タップで入力できるようになります。
+
+#### 7インチタブレット以上の場合
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/keypad7.png">
+
+#### 9インチタブレット以上の場合
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/keypad9.png">
+
+**※タブレットの画面の大きさはあくまで目安です。実際のボタン配列は解像度などによって異なります。**
+
 ### 引数入力パッド
 入力をより簡素化するために、関数や`√`、`^`などを入力すると引数を入力するための入力パッドがポップアップで表示されます。
 
