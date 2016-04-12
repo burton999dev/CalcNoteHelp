@@ -40,7 +40,8 @@ If a line being referred to moves up or down, `CalcNote` will ensure any referen
 ## Editor Area
 Write the expression to calculate your problems. The CalcNote works like notepad so you can play around with and edit your numbers like never before.  
 You can line break to tap the <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top">.  
-Do calculations over multiple lines, and even connect the lines together using line references. When one line changes, the other lines update. 
+Do calculations over multiple lines, and even connect the lines together using line references. When one line changes, the other lines update.  If expression has syntax error, the result won't shown.  
+Also you can write a memo with your problems.
 
 ## Results Area and Total Area
 The results are calculated in real-time when you write a expression on the editor. If expression has error, results won't be shown.  
