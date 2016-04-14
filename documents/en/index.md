@@ -18,7 +18,7 @@ You can do multiple calculations at the same time, and edit previous lines at an
 There are two editions for the `CalcNote`, [Free](https://play.google.com/store/apps/details?id=com.burton999.notecal) and [Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) (JPY 360).  
 Free edition has the same functionality as the Pro edition but it has the following restrictions.  
 
-- The top of the screen will be displayed ads.
+- Ads will be displayed on the top of screen.
 - A dialog appears to promote user to rate the CalcNote at fixed intervals.
 - We use analytics services to understand how users use `CalcNote` in order for CalcNote to improve its software.
 
