@@ -24,6 +24,20 @@ Free edition has the same functionality as the Pro edition but it has the follow
 
 If you like the CalcNote, I hope you'll consider purchasing the Pro editon.
 
+### Permissions for Free edition
+|Permission|Purpose Of Use|
+|:-----------|:------------|
+control vibration|Required to vibrate the device.
+view network connections|Required to show the AD on the top of screen.
+full network access|Required to show the AD on the top of screen.
+
+### Permissions for Pro edition
+|Permission|Purpose Of Use|
+|:-----------|:------------|
+control vibration|Required to vibrate the device.
+Google Play license check|Required to check the license for CalcNote Pro.
+
+
 # <a name ="support">Support</a>
 If you find a bug or have a featuer request, Please contact me by following methods.
 
