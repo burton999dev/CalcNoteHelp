@@ -10,8 +10,8 @@
 `/`|Division|10 `/` 2 = 5
 `%`|Gets the remainder of a division.|5 `%` 2 = 1
 `$`|Line references ${LineNo}|`$1` + `$2`
-`0x`|Prefix for the hexadecimal|`0b0101`
-`0b`|Prefix for the binary|`0xFA8B`
+`0x`|Prefix for the hexadecimal|`0xFA8B`
+`0b`|Prefix for the binary|`0b0101`
 `&`|Logical AND|0b0101 `&` 0b0011 = 0b0001
 `|`|Logical OR|0b0101 `|` 0b0011 = 0b0111
 `~`|Logical NOT|`~`0b10 = 0b01
