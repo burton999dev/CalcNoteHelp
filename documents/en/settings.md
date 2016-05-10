@@ -4,7 +4,6 @@
 ## Basic Settings
 |Setting|Description|
 |:-----------|:------------|
-Vibrate on touch|Set whether to vibrate when you tap the button.
 No screen timeout|Set whether to keep the screen turned on.
 Show action bar|Set whether to show the action bar.
 Full screen mode|Set whether to show the notification area.
@@ -18,6 +17,10 @@ Number of saving drafts|Set the number of drafts that can be saved.Draft that ex
 ## Keypad Settings
 |Setting|Description|
 |:-----------|:------------|
+Vibrate on touch|Set whether to vibrate when you tap the button.
+Play sound on touch|Set whether to play sound when you tap the button.
+Sub button caption|Choose the way to show the sub button caption. `the operations` or `ellipsis mark`
+Sub button input method|Choose the method to input the sub button. `Long Tap` or `Swipe`
 Key arrangement|Choose the key arrangement. `calculator` or `phone`
 Fit the height to soft keyboard|Set whether to adjust the height of keypad automatically.<br>**You need to restart app in order to reflect this setting.**
 Percentage of height to the screen(%)|Set the height of keypad as percentage of height to the screen.
