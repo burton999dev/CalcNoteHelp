@@ -25,6 +25,7 @@ You can access various functions via side menu.  You can show the side menu to t
 New File|Save an editing note as draft and open new file.
 Save|Save an editing note under a new file name.
 Export|Export an editing note to other applications or copy to editing note to clipboard.
+Undo|Erase the last change done to the note. You can erase up to 10 operations.
 Format expression|Format an editing note to beautify a expression.
 Settings|Move to [Setting](settings.md) screen.
 Online Help|Jump to this page using default browser
