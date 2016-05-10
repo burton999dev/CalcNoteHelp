@@ -69,7 +69,7 @@ The button can have the sub button. If ellipsis mark `...` is drawn on the butto
 <br>
 You can show the operations on the button instead of ellipsis mark to configure [Keypad Settings](settings.md).
 <br><br>
-<!-- Add Image -->
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/v1.2.21/images/all/swipe.png">
 <br>
 
 ### Popup buttons that appears by the long tap

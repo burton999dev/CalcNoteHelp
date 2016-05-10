@@ -64,8 +64,9 @@
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/popup_pad.png">
 <br><br>
 `v1.2.21`から[設定](settings.md)でサブボタンの入力方法を`ロングタップ`から`スワイプ入力`に変更することができるようになりました。スワイプ入力を有効にした場合、ボタンを上方向または下方向にスワイプすることで割り当てられている操作を入力することができます。また`...` 三点リーダの代わりに割り当てれられている操作をボタンに表示することもできます。
+<br><br>
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/v1.2.21/images/all/swipe.png">
 <br>
-<!-- イメージを挿入 -->
 
 ### ロングタップで表示されるポップアップ
 
