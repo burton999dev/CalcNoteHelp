@@ -43,8 +43,10 @@ Restore Defaults|Restore default settings
 ## Appearance Settings
 |Setting|Description|
 |:-----------|:------------|
-Action Bar text color|Set the text color for the Action bar
 Action Bar background color|Set the background color for the Action bar
+Action Bar text color|Set the text color for the Action bar
+Side Menu Header background color|Set the background color for the header of side menu
+Side Menu Header text color|Set the text color for header of side menu
 Frame color|Set the background color for the frame.
 Keyboard menu color|Set the icon color for the keypad switch.
 Button text color|Set the text color for keypad button
