@@ -18,7 +18,7 @@ Number of saving drafts|Set the number of drafts that can be saved.Draft that ex
 |Setting|Description|
 |:-----------|:------------|
 Vibrate on touch|Set whether to vibrate when you tap the button.
-Play sound on touch|Set whether to play sound when you tap the button.
+Play sound on touch|Set whether to play sound when you tap the button. Sound source is `Media volume` settings.
 Sub button caption|Choose the way to show the sub button caption. `the operations` or `ellipsis mark`
 Sub button input method|Choose the method to input the sub button. `Long Tap` or `Swipe`
 Key arrangement|Choose the key arrangement. `calculator` or `phone`
