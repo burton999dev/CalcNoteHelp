@@ -25,6 +25,7 @@ You can access various functions via side menu.  You can show the side menu to t
 New File|Save an editing note as draft and open new file.
 Save|Save an editing note under a new file name.
 Export|Export an editing note to other applications or copy to editing note to clipboard.
+Undo|Erase the last change done to the note. You can erase up to 10 operations.
 Format expression|Format an editing note to beautify a expression.
 Settings|Move to [Setting](settings.md) screen.
 Online Help|Jump to this page using default browser
@@ -51,17 +52,26 @@ Tap the results of numerical, then the popup window is displayed on the screen.T
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup2.png">
 
 ## Keypad
-**The height of keypad is adjusted to the same as the height of software keyboad. You can adjust height of keypad by the [keypad settings](settings.md).**  
+**The height of keypad is adjusted to the same as the height of software keyboad. You can adjust height of keypad by the [Keypad Settings](settings.md).**  
 `CalcNote` has three keypads that makes it easier to do calculations. You can switch the keypad to swipe to left or right.  
 <br>
 [Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]  
 <br>
-You can long-press the button which has `...` in order to show the popup pad. To get to the standard alphabetical keyborad, tap `ABC`.
+
+To get to the standard alphabetical keyborad, tap `ABC`.  
+The button can have the sub button. If ellipsis mark `...` is drawn on the button, it has the sub button. You can show the sub button to long-press the button. Also you can do the assigned operation to the sub button by swipe to the up or down. (Need to configure [Keypad Settings](settings.md))
+
 
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad.png">
 <br>
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/popup_pad.png">
 <br>
+<br>
+You can show the operations on the button instead of ellipsis mark to configure [Keypad Settings](settings.md).
+<br><br>
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/v1.2.21/images/all/swipe.png">
+<br>
+
 ### Popup buttons that appears by the long tap
 
 |Button|Popup Button1|Popup Button2|
