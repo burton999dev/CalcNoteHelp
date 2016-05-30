@@ -1,5 +1,4 @@
 # FAQ
-`CalcNote` に関する良くある質問の回答一覧です。
 
 1. **Does the CalcNote support the percentage calculations?**  
 Unfortunately, crrent version of CalcNote does not support the percentage calculations. I will implement it in the future. e.g. `1000 + 10% = 1100`
