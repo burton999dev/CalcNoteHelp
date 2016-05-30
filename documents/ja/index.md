@@ -6,6 +6,7 @@
 - [演算子と関数](operator_and_function.md)  
 - [設定](settings.md)  
 - [カスタマイズの例](example4theme.md)  
+- [FAQ](faq.md)  
 - [使用例](http://android.ascii.jp/2016/02/29/893463)  
 
 **※このヘルプには一部リリース前の新機能が含まれている可能性があります。その場合は次回リリースまでしらばくお待ち下さい。**
