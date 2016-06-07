@@ -114,4 +114,4 @@ ABC|ソフトウェアキーボードを表示します。
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_close_black_18dp.png">|入力パッドを非表示にします。
 
 <br><br>
-[HOME](index.md)　[演算子と関数](operator_and_function.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[設定](settings.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  

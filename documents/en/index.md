@@ -5,6 +5,7 @@
 - [How to use](how2use.md)  
 - [Operators and Functions](operator_and_function.md)  
 - [Settings](settings.md)  
+- [Customizing Keypad](customizing_keypad.md)  
 - [FAQ](faq.md)  
 - [Customization Example](example4theme.md)  
 

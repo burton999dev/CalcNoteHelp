@@ -5,6 +5,7 @@
 - [基本操作](how2use.md)  
 - [演算子と関数](operator_and_function.md)  
 - [設定](settings.md)  
+- [キーパッドのカスタマイズ](customizing_keypad.md)
 - [カスタマイズの例](example4theme.md)  
 - [FAQ](faq.md)  
 - [使用例](http://android.ascii.jp/2016/02/29/893463)  

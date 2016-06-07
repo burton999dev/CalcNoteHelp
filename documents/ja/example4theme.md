@@ -29,5 +29,5 @@
 もしCalcNoteをカスタマイズして、クールやカワイイ設定ができた人は是非、その設定の詳細を burton9999dev@gmail.com までお送りください。よい作品は、このヘルプページに記載させていただいたり、将来的には定義済みのテーマとしてCalcNoteに組み込みたいと思っております。採用された方にはお礼として1年間有効のCalcNote Proのプロモーションコードを差し上げます。
 
 <br>
-[HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[設定](settings.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 
