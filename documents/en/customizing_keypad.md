@@ -1,119 +1,37 @@
-# How to use
-The `CalcNote` is a calculator but it has appearance similar to the notepad.So you might be confused but it's simple and easy to use.  
-This section describes the basic usage of CalcNote.  
+# キーパッドのカスタマイズ
+`CalcNote`ではデフォルトで用意している `通常電卓用パッド`、`関数電卓用パッド`、`ビット演算用パッド` の３つのキーパッド以外に自分の好みに応じてキー配列をカスタマイズしたキーパッドを作成することができます。  
+キーパッドをカスタマイズするには設定画面より [キーパッドの設定] -> [キーパッドのカスタマイズ] を選択します。
 
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/screen_description.png">
-
-|Area|Description|
-|:-----------|:------------|
-LineNo|Show the line number. You can input the [Line references](#lineno) to tap the line number.<br>This area can be hidden by [Editor Settings](settings.md).
-Editor Area|Write the expression to calculate your problems. You can copy, cut or paste a expression like a notepad.
-Results Area|Calculation results are displayed. The results are calculated in real-time when you write a expression on the editor.<br>You can show the result as hexadecimal, binary, tax included and tax excluded to tap the result. You need to configure tax rate if you want to calculate the tax included and tax excluded.
-Toatal Area|A running total of all your lines is displayed.<br>You can show the result as hexadecimal, binary, tax included and tax excluded to tap the result. You need to configure tax rate if you want to calculate the tax included and tax excluded.
-Keypad|You can switch the keypad to swipe to left or right.There are three keypads.<br>[Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]
-Keypad Switches|You can show/hide the software keyboard. And also you can show/hide the keypad.
-
-## Menu
-You can access various functions via side menu.  You can show the side menu to tap the action bar menu or to swipe from the left side to the right side or tap the hardware menu key.
-
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/open_menu.png">
-<br>
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/menu_description.png">
-
-|Menu Item|Description|
-|:-----------|:------------|
-New File|Save an editing note as draft and open new file.
-Save|Save an editing note under a new file name.
-Export|Export an editing note to other applications or copy to editing note to clipboard.
-Undo|Erase the last change done to the note. You can erase up to 10 operations.
-Format expression|Format an editing note to beautify a expression.
-Settings|Move to [Setting](settings.md) screen.
-Online Help|Jump to this page using default browser
-Drafts|List of drafts will be displayed. You can open a draft to tap. And also you can delete a draft to tap the trash.
-Saved Files|List of saved files will be displayed. You can open a file to tap. And also you can delete a file to tap the trash.
-
-## <a name ="lineno">Line no and Line references</a>
-When you want to use a previous line's answer in your expression, just tap the line number.Currently, CalcNote can refer to previous answer only.  
-If a line being referred to moves up or down, `CalcNote` will ensure any references to it are updated automatically.  
-
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/line_no.png">
-
-## Editor Area
-Write the expression to calculate your problems. The CalcNote works like notepad so you can play around with and edit your numbers like never before.  
-You can line break to tap the <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png" width="20px" align="top">.  
-Do calculations over multiple lines, and even connect the lines together using line references. When one line changes, the other lines update.  If expression has syntax error, the result won't shown.  
-Also you can write a memo with your problems.
-
-## Results Area and Total Area
-The results are calculated in real-time when you write a expression on the editor. If expression has error, results won't be shown.  
-Tap the results of numerical, then the popup window is displayed on the screen.The popup window has the result as hexadecimal, binary, tax included and tax excluded. You can copy these results to clipboard to tap the result. And also you can tap the line number in order to input the line references.  
-
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup1.png">
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/result_popup2.png">
-
-## Keypad
-**The height of keypad is adjusted to the same as the height of software keyboad. You can adjust height of keypad by the [Keypad Settings](settings.md).**  
-`CalcNote` has three keypads that makes it easier to do calculations. You can switch the keypad to swipe to left or right.  
-<br>
-[Numeric keypad] <-> [Function keypad] <-> [Hexadecimal keypad]  
+## キーパッドの一覧
+キーパッドの一覧画面では次の操作を行うことができます。
 <br>
 
-To get to the standard alphabetical keyborad, tap `ABC`.  
-The button can have the sub button. If ellipsis mark `...` is drawn on the button, it has the sub button. You can show the sub button to long-press the button. Also you can do the assigned operation to the sub button by swipe to the up or down. (Need to configure [Keypad Settings](settings.md))
-
-
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad.png">
-<br>
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/popup_pad.png">
-<br>
-<br>
-You can show the operations on the button instead of ellipsis mark to configure [Keypad Settings](settings.md).
-<br><br>
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/swipe.png">
-<br>
-
-### Popup buttons that appears by the long tap
-
-|Button|Popup Button1|Popup Button2|
+|操作|操作方法|説明|
 |:-----------|:------------|:------------|
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_backspace_black_18dp.png">|Clear all|Clear line
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_return_black_18dp.png">|`${LineNo}`|
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_left_bold_black_18dp.png">|Move to the beginning of the line|Select to the beginning of the line
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_arrow_right_bold_black_18dp.png">|Mode to the end of the line|Select to the end of the line
-**×**|**()**|
-**÷**|**mod**|
-**.**|**,**|
-**sin**|**asin**|**sinh**
-**cos**|**acos**|**cosh**
-**tan**|**atan**|**tanh**
-**log**|**log2**|**ln**
-**round**|**round half up**|
-**ceil**|**round up**|
-**floor**|**round down**|
-**√**|**cbrt**|
-**!**|**nPr**|**nCr**
-**^**|**^2**|**^3**
+キーパッドの表示・非表示|右端のチェックボックのON/OFF|チェックボックスをOFFにすることで使わないキーパッドを非表示にできます。デフォルトのキーパッドは削除できないので不要な場合は非表示します。キーパッドは必ず１つは表示するようにする必要があります。
+キーパッドの順番入れ替え|リスト項目をドラッグ&ドロップ<br>(長押した状態から指を離さないで移動)|キーパッドはスワイプで切り替えることができますが、その順番を入れ替えることができます。
+キーパッドの新規作成|(+)ボタンを押す|自分オリジナルのキーパッドを作成します。既存のキーパッドのコピーから作成したほうが簡単にカスタマイズすることができます。
+既存キーパッドの編集|・・・のアイコンをタップしてコンテキストメニューから選択|既存のキーパッドを編集します。デフォルトのキーパッドは編集することはできません。
+既存キーパッドの削除|・・・のアイコンをタップしてコンテキストメニューから選択|既存のキーパッドを削除します。デフォルトのキーパッドは削除することはできません。
+既存キーパッドのコピー|・・・のアイコンをタップしてコンテキストメニューから選択|既存のキーパッドをベースにしてキーパッドを作成します。0からキーパッドを作成するのは面倒なのでオススメの方法です。
 
-### Tablet support
-If you are using a tablet, number of buttons will be increased. So you can input some functions without long-tap.
 
-#### For 7inch tablet
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad7.png">
+## キーパッドの編集
+キーパッドの編集画面では次の手順でキーパッドを作成します。
+<br>
 
-#### For 9inch tablet
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad9.png">
+1. キーパッドの名前を入力します。キーパッドの一覧画面で表示される名前なので分りやすい名前をつけましょう。
+2. カスタマイズしたいボタンを選択します。選択されているボタンは青で表示されます。ボタンを選択すると現在、ボタンに割り当てられている機能が画面中央にある `Sub1`, `Main`, `Sub2` に表示されます。
+3. 画面中央にある `Sub1`, `Main`, `Sub2` のボタンをタップすると割り当てられる機能の一覧が表示されるので、割り当てたい機能を選択します。`Sub1`と`Sub2`はボタンのロングタップまたはスワイプによって呼び出すことのできる機能です。`Main`には必ず機能を割り当てる必要があります。
+4. キーパッドはプライマリボタン(主に数字)とセカンダリボタン(主に演算子)でボタンの色が分けられていますが、その境界線をプログレスバーで調整します。
+5. 全ての機能割り当てが終わったら、画面右上にある保存ボタンをタップして終了です。保存ボタンを押さないで戻った場合、編集内容は失われるので注意してください。
 
-### Keypad for parameters
-When you input such as `√`, `^` or functions, popup keypad will be shown. You can input argument easily. You can input an argument easily.
+<br>
+キーパッドのカスタマイズ機能での注意点は以下になります。
+<br>
 
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/function_pad.png">
+- `000`や`0000`ボタンなどデフォルトのキーパッドでは割り当てられていない機能を割り当てることができます。
+- 多数のキーパッドを定義して有効にすると端末のスペックによっては`CalcNote`の動作が遅くなることがあります。
+- キーパッドの設定は`設定のインポート/エクスポート`で他の端末に移行することが可能ですが、移行先のスクリーンサイズが異なる場合は、移行することはできません。例えばスマートフォンで定義したキーパッドをタブレット端末に移行することはできません。
+- 必ず1つ以上のキーパッドを有効にする必要があります。
 
-## Keypad Switches
-|Button|Description|
-|:-----------|:------------|
-123|Hide the software keyboard.
-ABC|Show the software keyboard.
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_close_black_18dp.png">|Hide the keypad.
-
-<br><br>
-[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)　[Settings](settings.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
