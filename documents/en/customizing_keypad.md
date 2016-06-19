@@ -1,38 +1,38 @@
-# キーパッドのカスタマイズ
-`CalcNote`ではデフォルトで用意している `通常電卓用パッド`、`関数電卓用パッド`、`ビット演算用パッド` の３つのキーパッド以外に自分の好みに応じてキー配列をカスタマイズしたキーパッドを作成することができます。  
-キーパッドをカスタマイズするには設定画面より [キーパッドの設定] -> [キーパッドのカスタマイズ] を選択します。
+# Customizing Keypad
+You can customize a keypad layout as you like.  
+Select [Keypad Settings] -> [Customize Keypad] to customize the keypad.
 
-## キーパッドの一覧
-キーパッドの一覧画面では次の操作を行うことができます。
+## List of keypad
+You can perform the following operations in the this screen.
 <br><br>
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad_customize_list.png">
 <br>
 
-|操作|操作方法|説明|
+|Operation|Method|Description|
 |:-----------|:------------|:------------|
-キーパッドの表示・非表示|右端のチェックボックのON/OFF|チェックボックスをOFFにすることで使わないキーパッドを非表示にできます。<br>デフォルトのキーパッドは削除できないので不要な場合は非表示します。<br>キーパッドは必ず１つは表示するようにする必要があります。
-キーパッドの順番入れ替え|リスト項目をドラッグ&ドロップ<br>(長押した状態から指を離さないで移動)|キーパッドはスワイプで切り替えることができますが、その順番を入れ替えることができます。
-キーパッドの新規作成|(+)ボタンを押す|自分オリジナルのキーパッドを作成します。<br>既存のキーパッドのコピーから作成したほうが簡単にカスタマイズすることができます。
-既存キーパッドの編集|・・・のアイコンをタップしてコンテキストメニューから選択|既存のキーパッドを編集します。デフォルトのキーパッドは編集することはできません。
-既存キーパッドの削除|・・・のアイコンをタップしてコンテキストメニューから選択|既存のキーパッドを削除します。デフォルトのキーパッドは削除することはできません。
-既存キーパッドのコピー|・・・のアイコンをタップしてコンテキストメニューから選択|既存のキーパッドをベースにしてキーパッドを作成します。<br>0からキーパッドを作成するのは面倒なのでオススメの方法です。
+Show/Hide a keypad|Toggle the checkbox|You can hide the unnecessary keypad to uncheck a checkbox.
+Sort an order of keypad|Drag&Drop the list item|The keypad can be switched by swipe, you can customize order of keypad.
+Create a new kaypad|Tap the (+) button|Create a new keypad.
+Edit a keypad|Tap the `...` icon and select a context menu|You cannot edit the default keypad.
+Delete a keypad|Tap the `...` icon and select a context menu|You cannot delete the default keypad.
+Create a new Copy|Tap the `...` icon and select a context menu|Create a new keypad from copy of existing keypad.
 
-## キーパッドの編集
-キーパッドの編集画面では次の手順でキーパッドを作成します。
+## Editing Keypad
+You can create a customized keypad by following steps.
 <br><br>
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/keypad_customize_edit.png">
 <br>
 
-1. キーパッドの名前を入力します。キーパッドの一覧画面で表示される名前なので分りやすい名前をつけましょう。
-2. カスタマイズしたいボタンを選択します。選択されているボタンは青で表示されます。ボタンを選択すると現在、ボタンに割り当てられている機能が画面中央にある `Sub1`, `Main`, `Sub2` に表示されます。
-3. 画面中央にある `Sub1`, `Main`, `Sub2` のボタンをタップすると割り当てられる機能の一覧が表示されるので、割り当てたい機能を選択します。`Sub1`と`Sub2`はボタンのロングタップまたはスワイプによって呼び出すことのできる機能です。`Main`には必ず機能を割り当てる必要があります。
-4. キーパッドはプライマリボタン(主に数字)とセカンダリボタン(主に演算子)でボタンの色が分けられていますが、その境界線をプログレスバーで調整します。
-5. 全ての機能割り当てが終わったら、画面右上にある保存ボタンをタップして終了です。保存ボタンを押さないで戻った場合、編集内容は失われるので注意してください。
+1. Enter the keypad name.
+2. Tap a button you want to customize. Then selected button will be blue. Also assigned action will be shown on `Sub1`, `Main`, `Sub2`.
+3. Tap a `Sub1`, `Main` or `Sub2` to assign the action. Then select an action you want to assign. `Sub1` and `Sub2` are sub action which be able to perform by swipe or long tap. You must assign main action.
+4. Keypad is separated by primary buttons and secondary buttons. You can customize a position of the boundary to adjust a progress bar.
+5. When you have finished all of the settings, tap the save button. Edits will be lost if you tap the back button without saving.
 
-### キーパッドのカスタマイズ機能での注意点
+### Operating Suggestions
 
-- `000`や`0000`ボタンなどデフォルトのキーパッドでは割り当てられていない機能を割り当てることができます。
-- 多数のキーパッドを定義して有効にすると端末のスペックによっては`CalcNote`の動作が遅くなることがあります。
-- キーパッドの設定は`設定のインポート/エクスポート`で他の端末に移行することが可能ですが、移行先のスクリーンサイズが異なる場合は、移行することはできません。例えばスマートフォンで定義したキーパッドをタブレット端末に移行することはできません。
-- 必ず1つ以上のキーパッドを有効にする必要があります。
+- You can assign the action that has not been assigned by default. e.g. `000`, `0000`
+- Don't enable many keypads to avoid a performance issue.
+- You can import/export a customized keypad. But customized keypad will be lost if screen size is different. For example, you cannot import/export a customize keypad from phone to tablet.
+- You must enable at least one keypad.
 
