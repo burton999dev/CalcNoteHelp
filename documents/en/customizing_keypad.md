@@ -36,3 +36,6 @@ You can create a customized keypad by following steps.
 - You can import/export a customized keypad. But customized keypad will be lost if screen size is different. For example, you cannot import/export a customize keypad from phone to tablet.
 - You must enable at least one keypad.
 
+<br><br>
+[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)　[Settings](settings.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
+
