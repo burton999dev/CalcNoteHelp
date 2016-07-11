@@ -39,6 +39,9 @@ full network access|Required to show the AD on the top of screen.
 control vibration|Required to vibrate the device.
 Google Play license check|Required to check the license for CalcNote Pro.
 
+### Upgrade the CalcNote from Free edition to Pro edition
+You cannot migrate the Files and Settings from [Free edition](https://play.google.com/store/apps/details?id=com.burton999.notecal) to [Pro edition](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) automatically.  
+So you need to export settings and backup files on the Free edition, and also you need to import settings and restore files on the Pro edition.
 
 # <a name ="support">Support</a>
 If you find a bug or have a featuer request, Please contact me by following methods.
