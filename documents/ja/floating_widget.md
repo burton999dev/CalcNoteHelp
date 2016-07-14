@@ -1,9 +1,12 @@
 # フローティングウィジェット
 **フローティングウィジェットは[CalcNote Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro)専用の機能です。無料版のCalcNoteではご利用いただけません。**  
 フローティングウィジェットは通知エリアの常駐し、使いたい時にいつでお通知エリアからウィジェットを起動することができます。  
+<br>
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/floating_notification.png">
+<br><br>
 フローティングウィジェットは他のアプリよりも前面に表示され透明の外観をしています。  
-
-<-- image -->
+<br><br>
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/floating_widget.png">
 
 基本的な機能はCalcNote本体と同じですが、一部機能制限があります。  
 
@@ -20,10 +23,10 @@
 
 |アイコン|説明|
 |:-----------|:------------|
-<image>|編集中の計算式を下書きとして保存して、新規ファイルを作成します。
-<image>|保存済みファイル、下書きを開きます。
-<image>|CalcNote本体を起動して、ウィジェットを非表示にします。
-<image>|編集内容を全削除します。
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_add_black_18dp.png">|編集中の計算式を下書きとして保存して、新規ファイルを作成します。
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_folder_black_18dp.png">|保存済みファイル、下書きを開きます。
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_calculator_black_18dp.png">|CalcNote本体を起動して、ウィジェットを非表示にします。
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_delete_forever_black_18dp.png">|編集内容を全削除します。
 
 <br><br>
 [HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
