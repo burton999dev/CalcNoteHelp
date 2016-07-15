@@ -8,4 +8,4 @@ You can access the settings screen via side menu. You can show the side menu to 
 The height of keypad is adjusted to the same as the height of software keyboad. You can adjust height of keypad by the [Keypad Settings](settings.md).
 
 
-[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[Customization Example](example4theme.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[Customization Example](example4theme.md)  
