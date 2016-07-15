@@ -39,6 +39,8 @@ Pro版は広告が無いことでエディタ領域を広く使うことがで�
 |:-----------|:------------|
 バイブレーションの制御|ボタンタップ時にバイブを振動させるのに必要です。
 GooglePlayライセンスの確認|Pro版のライセンス購入状態を確認するのに必要です。
+他のアプリの上に重ねて表示|フローティングウィジェットを表示するのに必要です。
+起動時の実行|Android起動時にフローティングウィジェットを自動起動するのに必要です。
 
 ### Free版からPro版へのアップグレード
 [Free版](https://play.google.com/store/apps/details?id=com.burton999.notecal)と[Pro版](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro)は異なるアプリとして提供している為、自動的に設定やデータを引き継ぐことはできません。  
