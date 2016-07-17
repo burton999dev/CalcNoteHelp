@@ -4,6 +4,7 @@
 - [Support](#support)
 - [How to use](how2use.md)  
 - [Operators and Functions](operator_and_function.md)  
+- [Floating Widget](floating_widget.md)  
 - [Settings](settings.md)  
 - [Customizing Keypad](customizing_keypad.md)  
 - [FAQ](faq.md)  
@@ -23,6 +24,7 @@ Free edition has the same functionality as the Pro edition but it has the follow
 - Ads will be displayed on the top of screen.
 - A dialog appears to promote user to rate the CalcNote at fixed intervals.
 - We use analytics services to understand how users use `CalcNote` in order for CalcNote to improve its software.
+- Can not use the [floating widget](floating_widget.md)
 
 If you like the CalcNote, I hope you'll consider purchasing the Pro editon.
 
@@ -38,7 +40,12 @@ full network access|Required to show the AD on the top of screen.
 |:-----------|:------------|
 control vibration|Required to vibrate the device.
 Google Play license check|Required to check the license for CalcNote Pro.
+draw over other apps|Required to show the floating widget.
+run at startup|Required to start the floating widget when Android is launched.
 
+### Upgrade the CalcNote from Free edition to Pro edition
+You cannot migrate the Files and Settings from [Free edition](https://play.google.com/store/apps/details?id=com.burton999.notecal) to [Pro edition](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) automatically.  
+So you need to export settings and backup files on the Free edition, and also you need to import settings and restore files on the Pro edition.
 
 # <a name ="support">Support</a>
 If you find a bug or have a featuer request, Please contact me by following methods.
