@@ -25,6 +25,7 @@
 `!`|Factorial|5`!` = 120
 `√`|Square root|`√`9 = 3
 `^`|Power|3 `^` 2 = 9
+`=`|Variable assignment|MB `=` 1024 * 1024
 
 **All operators can be used for decimal, hexadecimal and binary.**
 
