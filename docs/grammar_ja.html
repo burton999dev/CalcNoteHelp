@@ -22,7 +22,7 @@
     <h1>文法</h1>
     <p>ここでは <code>CalcNote</code> で使える計算式のルールについて解説します。文法を理解することで基本的な四則演算だけでなく関数やパーセント計算など多くの機能を使いこなすことができます。</p>
     <h3>基本的な計算</h3>
-    <script class="" src="https://gist.github.com/burton999dev/39f35aa78d62aaff2b682724ca829ae3.js"></script>
+    <script src="https://gist.github.com/burton999dev/39f35aa78d62aaff2b682724ca829ae3.js"></script>
     <h3>パーセントの計算</h3>
     <p>CalcNote v1.x.xでは<code>%</code>は余りを求めるための演算子でしたが、v2.0.0から<code>%</code>はパーセント計算に使用され、余りを求める演算子は<code>mod</code>に変更になりました。</p>
     <script src="https://gist.github.com/burton999dev/c0465a282605c7d749fc2eaf9b807b9b.js"></script>
@@ -30,6 +30,8 @@
     <p>CalcNoteは16進数、8進数、2進数の計算をサポートしています。それぞれプリフィックスとして<code>0x</code>、<code>0o</code>、<code>0b</code>を使います。これらn進数は通常の10進数と全く同じように扱われパーセントの計算や関数の引数にも利用可能です。また、答えは10進数で表示されます。</p>
     <script src="https://gist.github.com/burton999dev/2cde6b27401bc6d097a9ca6455af4d2f.js"></script>
     <h3>関数</h3>
+    <p><code>CalcNote</code>では三角関数や端数処理などで使える便利な関数を提供しています。今後も単位変換や為替変換などの機能を関数で提供する予定です。</p>
+    <script src="https://gist.github.com/burton999dev/4559ffadc2d3134d27b4dd457bfe1bd9.js"></script>
     <h3>行参照と変数</h3>
     <p>行参照と変数を使うことで計算結果を再利用することができます。行参照は<code>$</code>の後に行番号を入力することで、その行の答えを参照できる機能です。行参照は前の答えのみ参照可能です。例えば3行目で4行目の答えは参照できません。変数は任意の変数名の後に<code>=</code>演算子を書くことで右辺の式の答えを変数に代入できる機能です。定義した変数はそれ以降の行で計算に使うことができます。同じ名前の変数を複数回定義しないでください。</p>
     <script src="https://gist.github.com/burton999dev/4cb0176621aeab6f99071623975d23e9.js"></script>
