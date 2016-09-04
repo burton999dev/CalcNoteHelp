@@ -8,9 +8,11 @@
 `-`|Subtraction|1 `-` 1 = 0
 `*`|Multiplication|2 `*` 3 = 6
 `/`|Division|10 `/` 2 = 5
-`%`|Gets the remainder of a division.|5 `%` 2 = 1
+`mod`|Gets the remainder of a division.|5 `mod` 2 = 1
+`%`|Percentage calculations.|1000 + 10`%` = 1100
 `$`|Line references ${LineNo}|`$1` + `$2`
 `0x`|Prefix for the hexadecimal|`0xFA8B`
+`0o`|Prefix for the octal|`0o7712`
 `0b`|Prefix for the binary|`0b0101`
 `&`|Logical AND|0b0101 `&` 0b0011 = 0b0001
 `|`|Logical OR|0b0101 `|` 0b0011 = 0b0111
@@ -19,7 +21,7 @@
 `<<`|Left arithmetic shift|0b0110 `<<` 2 = 0b11000
 `>>`|Right arithmetic shift|0b0110 `>>` 2 = 0b0001
 `nPr`|Permutation|`5P2` = 20
-`nPr`|Combination|`5C2` = 10
+`nCr`|Combination|`5C2` = 10
 `!`|Factorial|5`!` = 120
 `√`|Square root|`√`9 = 3
 `^`|Power|3 `^` 2 = 9
