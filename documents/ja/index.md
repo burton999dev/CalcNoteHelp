@@ -3,7 +3,7 @@
 - [Free版とPro版の違い](#version)
 - [サポートについて](#support)
 - [基本操作](how2use.md)  
-- [文法](grammar.md)
+- [文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)  
 - [演算子と関数](operator_and_function.md)  
 - [フローティングウィジェット](floating_widget.md)
 - [設定](settings.md)  

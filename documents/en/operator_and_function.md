@@ -55,4 +55,4 @@
 `abs(x)`|`x`:The argument whose absolute value is to be determined|Returns the absolute value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned.|abs(100) = 100<br>abs(-100)= 100
 
 <br><br>
-[HOME](index.md)　[How to use](how2use.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  

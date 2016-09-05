@@ -3,6 +3,7 @@
 - [Difference between Free and Pro editions](#version)
 - [Support](#support)
 - [How to use](how2use.md)  
+- [Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)  
 - [Operators and Functions](operator_and_function.md)  
 - [Floating Widget](floating_widget.md)  
 - [Settings](settings.md)  
