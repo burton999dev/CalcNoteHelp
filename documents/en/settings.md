@@ -63,6 +63,7 @@ Restore Defaults|Restore default settings.
 Display format|Set the display format for numeric.
 Accuracy (max digits in fraction)|Set the accuracy for decimal.
 Round behavior|Set the rounding behavior for decimal.
+Trigonometry|Set the trigonometry modes. `Degrees` or `Radians`
 
 ## Result Settings
 |Setting|Description|
