@@ -17,27 +17,26 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  <!-- <body> -->
     <article class="markdown-body">
     <h1>Grammar</h1>
-    <p>ここでは <code>CalcNote</code> で使える計算式のルールについて解説します。文法を理解することで基本的な四則演算だけでなく関数やパーセント計算など多くの機能を使いこなすことができます。</p>
+    <p>This section describes the grammar of expression that is supported by <code>CalcNote</code>.</p>
     <h3>Basic Calculations</h3>
-    <script src="https://gist.github.com/burton999dev/39f35aa78d62aaff2b682724ca829ae3.js"></script>
+    <script src="https://gist.github.com/burton999dev/5cd2c907f4d2b0c17bf89d20c23e46f5.js"></script>
     <h3>Percentage Calculations</h3>
-    <p>CalcNote v1.x.xでは<code>%</code>は余りを求めるための演算子でしたが、v2.0.0から<code>%</code>はパーセント計算に使用され、余りを求める演算子は<code>mod</code>に変更になりました。</p>
-    <script src="https://gist.github.com/burton999dev/c0465a282605c7d749fc2eaf9b807b9b.js"></script>
+    <p><code>%</code> Operator was to get the remainder of a division in v1.x.x. Since v2.0.0, <code>%</code> Operator is used to calculate the percentage. You can calculate the remainder of a division using <code>mod</code> operoator.</p>
+    <script src="https://gist.github.com/burton999dev/5311b09fd5e86c2c06eb06b4841e6567.js"></script>
     <h3>Binary, Octal, and Hexadecimal Calculations</h3>
-    <p>CalcNoteは16進数、8進数、2進数の計算をサポートしています。それぞれプリフィックスとして<code>0x</code>、<code>0o</code>、<code>0b</code>を使います。これらn進数は通常の10進数と全く同じように扱われパーセントの計算や関数の引数にも利用可能です。また、答えは10進数で表示されます。</p>
-    <script src="https://gist.github.com/burton999dev/2cde6b27401bc6d097a9ca6455af4d2f.js"></script>
+    <p>You can describe Binary, Octal, and Hexadecimal to add a prefix <code>0x</code>, <code>0o</code> and <code>0b</code>. The answer will be displayed in Decimal.</p>
+    <script src="https://gist.github.com/burton999dev/3ced283c07b916d73b6b5b9153418d2c.js"></script>
     <h3>Functions</h3>
-    <p><code>CalcNote</code>では三角関数や端数処理などで使える便利な関数を提供しています。今後も単位変換や為替変換などの機能を関数で提供する予定です。</p>
-    <script src="https://gist.github.com/burton999dev/4559ffadc2d3134d27b4dd457bfe1bd9.js"></script>
+    <p><code>CalcNote</code> has all the standard mathematical functions built in.</p>
+    <script src="https://gist.github.com/burton999dev/dfe737472910fe91e37e118f2a945e64.js"></script>
     <h3>Line Reference and Variable</h3>
-    <p>行参照と変数を使うことで計算結果を再利用することができます。行参照は<code>$</code>の後に行番号を入力することで、その行の答えを参照できる機能です。行参照は前の答えのみ参照可能です。例えば3行目で4行目の答えは参照できません。変数は任意の変数名の後に<code>=</code>演算子を書くことで右辺の式の答えを変数に代入できる機能です。定義した変数はそれ以降の行で計算に使うことができます。同じ名前の変数を複数回定義しないでください。</p>
-    <script src="https://gist.github.com/burton999dev/4cb0176621aeab6f99071623975d23e9.js"></script>
+    <p>You can reuse a previous answer using a line reference or variable. A variable should only be defined once. Don't try to change its value on another line.</p>
+    <script src="https://gist.github.com/burton999dev/9ec8bf2e4f1ebd1dc62e51a98450b408.js"></script>
     <h3>Comments</h3>
-    <p><code>:</code>と<code>;</code>を使うと計算式と同じ行にコメントを含めることができます。</p>
-    <script src="https://gist.github.com/burton999dev/358283b96bf42d82ec4b57921c085197.js"></script>
+    <p>You can write a comment to an expression using <code>:</code> and <code>;</code>.</p>
+    <script src="https://gist.github.com/burton999dev/bb3813a581dd94e1d39b3bba3fcbe799.js"></script>
     <br><br>
     <a href="https://github.com/burton999dev/CalcNoteHelp/blob/master/documents/en/index.md">HOME</a>　
     <a href="https://github.com/burton999dev/CalcNoteHelp/blob/master/documents/en/how2use.md">How to use</a>　
@@ -48,5 +47,8 @@
     <a href="https://github.com/burton999dev/CalcNoteHelp/blob/master/documents/en/example4theme.md">Customization Example</a>　
     <a href="https://github.com/burton999dev/CalcNoteHelp/blob/master/documents/en/faq.md">FAQ</a>　
     </article>
-  <!-- </body> -->
 </html>
+
+
+
+
