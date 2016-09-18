@@ -26,5 +26,5 @@ Secondary button background color|`#263238`
 Button border color|`#424242`
 
 <br>
-[HOME](index.md)　[How to use](how2use.md)　[Operators and Functions](operator_and_function.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)  
 

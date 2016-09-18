@@ -65,6 +65,7 @@
 表示形式|結果領域の表示フォーマットを設定します。<br>小数点をカンマで表現したりする国もあるので、国際化対応のための設定です。
 小数点桁数|結果を計算する際の小数点の有効桁数を設定します。
 小数点端数|有効桁数を設定した場合の端数の処理方法を設定します。
+三角法|三角関数の引数をラジアンで指定するか、角度で指定するか設定します。
 
 ## 結果の設定
 |項目|説明|
@@ -96,5 +97,5 @@
 `CalcNote`を友達に教える機能、レビュー・評価のためにGooglePlayにジャンプする機能、Google+1する機能を提供しています。是非、ご協力いただけますよう、よろしくお願い致します。`CalcNote`のユーザー数が増えることで開発者のやる気がアップします。
 
 <br>
-[HOME](index.md)　[基本操作](how2use.md)　[演算子と関数](operator_and_function.md)　[フローティングウィジェット](floating_widget.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[演算子と関数](operator_and_function.md)　[フローティングウィジェット](floating_widget.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 
