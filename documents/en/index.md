@@ -35,8 +35,6 @@ If you like the CalcNote, I hope you'll consider purchasing the Pro editon.
 control vibration|Required to vibrate the device.
 view network connections|Required to show the AD on the top of screen.
 full network access|Required to show the AD on the top of screen.
-prevent phone from sleeping|CalcNote doesn't need this permission but the firebase library that is used by CalcNote requires it.
-receive data from Internet|CalcNote doesn't need this permission but the firebase library that is used by CalcNote requires it.
 
 ### Permissions for Pro edition
 |Permission|Purpose Of Use|
@@ -44,8 +42,6 @@ receive data from Internet|CalcNote doesn't need this permission but the firebas
 control vibration|Required to vibrate the device.
 view network connections|Required to send a crash report to the Google server.
 full network access|Required to send a crash report to the Google server.
-prevent phone from sleeping|CalcNote doesn't need this permission but the firebase library that is used by CalcNote requires it.
-receive data from Internet|CalcNote doesn't need this permission but the firebase library that is used by CalcNote requires it.
 Google Play license check|Required to check the license for CalcNote Pro.
 draw over other apps|Required to show the floating widget.
 run at startup|Required to start the floating widget when Android is launched.
