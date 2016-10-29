@@ -17,53 +17,57 @@ Number of saving drafts|Set the number of drafts that can be saved.Draft that ex
 ## Keypad Settings
 |Setting|Description|
 |:-----------|:------------|
+[Customizing Keypad](customizing_keypad.md)|You can customize a keypad layout as you like. Also you can hide unnecessary keypad.
+Key arrangement|Choose the key arrangement. `calculator` or `phone`
+Button text size|Choose the text size of button. `Small` or `Medium` or `Large`
 Vibrate on touch|Set whether to vibrate when you tap the button.
 Play sound on touch|Set whether to play sound when you tap the button. Sound source is `Media volume` settings.
 Sub button caption|Choose the way to show the sub button caption. `the operations` or `ellipsis mark`
-Button text size|Choose the text size of button. `Small` or `Medium` or `Large`
 Sub button input method|Choose the method to input the sub button. `Long Tap` or `Swipe`
-Key arrangement|Choose the key arrangement. `calculator` or `phone`
+Use the popup keypad|Set whether to show the popup keypad when you enter the function parameter.
 Fit the height to soft keyboard|Set whether to adjust the height of keypad automatically.<br>**You need to restart app in order to reflect this setting.**
 Percentage of height to the screen(%)|Set the height of keypad as percentage of height to the screen.
 
 ## Editor Settings
 |Setting|Description|
 |:-----------|:------------|
-Editor text color|Set the text color for the editor area and results area.
-Editor text color for negative value|Set the text color for the results area for negative value.
-Editor background color|Set the background color for the editor area and results area.
 Font|Set the font family for the line numbers, editor area, results area and total area.
 Text size|Set the text size for the line numbers, editor area, results area and total area.
 Show line numbers|Set whether to show the line numbers.
-Line No text color|Set the text color for the line numbers.
-Line No background color|Set the background color for the line numbers.
 Show ruled line|Set whether to show the ruled line on the editor area and results area.
-Ruled line color|Set the line color for the ruled line.
-Restore Defaults|Restore default settings
 
 ## Appearance Settings
 |Setting|Description|
 |:-----------|:------------|
+Theme|Theme is like a template for the appearance settings. CalcNote provides 10 themes, `Default`, `Pink`, `Purple`, `Blue`, `Teal`, `Green`, `Light Green`, `Lime`, `Orange` and `Brown`. You can customize the appearance settings after applying a theme.
 Action Bar background color|Set the background color for the Action bar
 Action Bar text color|Set the text color for the Action bar
 Side Menu Header background color|Set the background color for the header of side menu
 Side Menu Header text color|Set the text color for header of side menu
+Editor background color|Set the background color for the editor area and results area.
+Editor text color|Set the text color for the editor area and results area.
+Editor text color for negative value|Set the text color for the results area for negative value.
+Line No background color|Set the background color for the line numbers.
+Line No text color|Set the text color for the line numbers.
+Ruled line color|Set the line color for the ruled line.
 Frame color|Set the background color for the frame.
 Keypad menu color|Set the icon color for the keypad switch.
 Keypad menu size|Choose the size of icon for the keypad switch. `Small` or `Medium` or `Large`
-Button text color|Set the text color for keypad button
 Button background color|Set the background color for primary keypad buttons
 Secondary button background color|Set the background color for secondary keypad buttons.
 Button border color|Set the border color for keypad button
+Button text color|Set the text color for keypad button
 Restore Defaults|Restore default settings.
 
 ## Computation Settings
 |Setting|Description|
 |:-----------|:------------|
 Display format|Set the display format for numeric.
+Result alignment|Set the alignment for result. `Left` or `Right`
 Accuracy (max digits in fraction)|Set the accuracy for decimal.
 Round behavior|Set the rounding behavior for decimal.
-Trigonometry|Set the trigonometry modes. `Degrees` or `Radians`
+Fix number of decimal places|Set whether to fix the decimal number of digit.
+Trigonometry|Set the trigonometry modes. `Degrees` or `Radians` or `Gradians`
 
 ## Result Settings
 |Setting|Description|
@@ -71,11 +75,6 @@ Trigonometry|Set the trigonometry modes. `Degrees` or `Radians`
 Tax Rate(%)|Set the tax rate.
 Accuracy (max digits in fraction)|Set the accuracy for tax.
 Tax Round behavior|Set the rounding behavior for the tax
-
-## Theme
-Theme is like a template for the appearance settings.
-CalcNote provides 10 themes, `Default`, `Pink`, `Purple`, `Blue`, `Teal`, `Green`, `Light Green`, `Lime`, `Orange` and `Brown`.  
-You can customize the appearance settings after applying a theme.
 
 ## Floating Widget
 **[Floating Widget](floating_widget.md) is only available to Pro users.**
