@@ -53,6 +53,13 @@
 `rdown(x, places)`|`x`:The value to round to places number of places, always rounding down.<br>`places`:The number of decimal places to which to round.places may be negative, in which case value is rounded at the specified number of digits to the left of the decimal point|Rounds a number to a certain number of decimal places, always rounding down to the next valid increment.|rdown(153.47, 0) = 153<br>rdown(153.47, 1) = 153.4<br>rdown(153.47,-1) = 150
 `cbrt(x)`|`x`:A value|Returns the cube root value. For positive finite x, cbrt(-x) == -cbrt(x); that is, the cube root of a negative value is the negative of the cube root of that value\'s magnitude.|
 `abs(x)`|`x`:The argument whose absolute value is to be determined|Returns the absolute value. If the argument is not negative, the argument is returned. If the argument is negative, the negation of the argument is returned.|abs(100) = 100<br>abs(-100)= 100
+`sum(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the sum of a series of numbers and/or line references.|sum($1, $6)
+`avg(val1, val2)`|`val1`:The first line reference<br>`val3`:The second line reference|Returns the average of a series of numbers and/or line references.|avg($1, $6)
+`max(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the maximum of a series of numbers and/or line references.|max($1, $6)
+`min(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the minimum of a series of numbers and/or line references.|min($1, $6)
+`var(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the variance of a series of numbers and/or line references.|var($1, $6)
+`stdev(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the standard deviation of a series of numbers and/or line references.|stdev($1, $6)
+`median(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the median of a series of numbers and/or line references.|median($1, $6)
 
 <br><br>
 [HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
