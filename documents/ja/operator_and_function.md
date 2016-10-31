@@ -62,5 +62,5 @@
 `median(val1, val2)`|`val1`:開始位置の行参照<br>`val2`:終了位置の行参照|行参照で指定した範囲の中央値を返します。|median($1, $6)
 
 <br><br>
-[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[フローティングウィジェット](floating_widget.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[単位変換](unit_converter.md)　[フローティングウィジェット](floating_widget.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 

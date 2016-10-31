@@ -5,6 +5,7 @@
 - [基本操作](how2use.md)  
 - [文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)  
 - [演算子と関数](operator_and_function.md)  
+- [単位変換](unit_converter.md)
 - [フローティングウィジェット](floating_widget.md)
 - [設定](settings.md)  
 - [キーパッドのカスタマイズ](customizing_keypad.md)
