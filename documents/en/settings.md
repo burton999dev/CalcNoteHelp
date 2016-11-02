@@ -91,5 +91,5 @@ You can import/export the all settings. You can easily migrate files to new phon
 You can backup/restore the saved files. Draft files are excluded. You can easily migrate files to new phone using this function. I recommend you to use GoogleDrive with backup/restore.
 
 <br>
-[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Floating Widget](floating_widget.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Unit Converter](unit_converter.md)　[Floating Widget](floating_widget.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
 

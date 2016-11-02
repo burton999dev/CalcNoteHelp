@@ -37,5 +37,5 @@ You can create a customized keypad by following steps.
 - You must enable at least one keypad.
 
 <br><br>
-[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Unit Converter](unit_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
 
