@@ -1,5 +1,6 @@
 # 目次
 - [はじめに](#introduction)
+- [免責](#disclaimer)
 - [Free版とPro版の違い](#version)
 - [サポートについて](#support)
 - [基本操作](how2use.md)  
@@ -17,6 +18,9 @@
 
 # <a name ="introduction">はじめに</a>
 `CalcNote`はスマートフォン用に新しく設計された電卓アプリです。一般的な電卓アプリとは異なりメモを書くような感覚で計算式を書いて計算を行います。計算式が常に見えている状態なので計算ミスを簡単に発見することが可能です。式はメモ帳のようにいつでも修正することが可能です。計算式は改行することで何個でも書くことができるので、スマートフォンの大画面を使って複数の計算を同時に行うことができます。
+
+# <a name ="disclaimer">免責</a>
+本ソフトウェアの使用により生じた損害、逸失利益または第三者からのいかなる請求についても作者は一切その責任を負えませんので、あらかじめご了承ください。
 
 # <a name ="version">Free版とPro版の違い</a>
 `CalcNote`には無料でお使い頂ける [Free版](https://play.google.com/store/apps/details?id=com.burton999.notecal) と、360円で購入可能な [Pro版](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) があります。どちらも電卓の機能としては全く同じですが、Free版には以下の制約があります。
