@@ -1,10 +1,12 @@
 # Contents
 - [Introduction](#introduction)
+- [Disclaimer](#disclaimer)
 - [Difference between Free and Pro editions](#version)
 - [Support](#support)
 - [How to use](how2use.md)  
 - [Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)  
 - [Operators and Functions](operator_and_function.md)  
+- [Unit Converter](unit_converter.md)
 - [Floating Widget](floating_widget.md)  
 - [Settings](settings.md)  
 - [Customizing Keypad](customizing_keypad.md)  
@@ -17,6 +19,9 @@
 `CalcNote` is the the notepad calculator designed for smart phone. You can immediately obtain a calculation result while allowing recognition of a calculation process.  
 If you make a mistake, you don't need to start again, you can edit your expression like in a text editor. Of course, you can write a memo for your problems.  
 You can do multiple calculations at the same time, and edit previous lines at any time.
+
+# <a name ="disclaimer"> Disclaimer</a>
+Please note in advance that Appsys is not responsible for any damage or lost profits caused by the use of this software, or any claims from third parties.
 
 # <a name ="version">Difference between Free and Pro editions</a>
 There are two editions for the `CalcNote`, [Free](https://play.google.com/store/apps/details?id=com.burton999.notecal) and [Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) (JPY 360).  
