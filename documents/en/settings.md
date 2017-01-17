@@ -8,11 +8,25 @@ No screen timeout|Set whether to keep the screen turned on.
 Show action bar|Set whether to show the action bar.
 Full screen mode|Set whether to show the notification area.
 
-## File Settings
+## Computation Settings
 |Setting|Description|
 |:-----------|:------------|
-Ellipt a long filename|Set whether to ellipt the file name on the action bar if file name is too long.
-Number of saving drafts|Set the number of drafts that can be saved.Draft that exceeds the number of this limit will be removed to the old order.
+Calculation precision|Choose the calculation mode. `Normal-Precision` or `High-Precision`. `High-Precision` can calculate large number of digits without error, but the processing speed will be decreased.
+Trigonometry|Set the trigonometry modes. `Degrees` or `Radians` or `Gradians`
+Accuracy (max digits in fraction)|Set the accuracy for decimal.
+Round behavior|Set the rounding behavior for decimal.
+Result Display format|Set the display format for numeric.
+Result alignment|Set the alignment for result. `Left` or `Right`
+Fix number of decimal places|Set whether to fix the decimal number of digit.
+Symbol to refer to a previous answer|Choose the symbol to refer to a previous answer. `$` or `#`
+
+## Editor Settings
+|Setting|Description|
+|:-----------|:------------|
+Font|Set the font family for the line numbers, editor area, results area and total area.
+Text size|Set the text size for the line numbers, editor area, results area and total area.
+Show line numbers|Set whether to show the line numbers.
+Show ruled line|Set whether to show the ruled line on the editor area and results area.
 
 ## Keypad Settings
 |Setting|Description|
@@ -27,14 +41,6 @@ Sub button input method|Choose the method to input the sub button. `Long Tap` or
 Use the popup keypad|Set whether to show the popup keypad when you enter the function parameter.
 Fit the height to soft keyboard|Set whether to adjust the height of keypad automatically.<br>**You need to restart app in order to reflect this setting.**
 Percentage of height to the screen(%)|Set the height of keypad as percentage of height to the screen.
-
-## Editor Settings
-|Setting|Description|
-|:-----------|:------------|
-Font|Set the font family for the line numbers, editor area, results area and total area.
-Text size|Set the text size for the line numbers, editor area, results area and total area.
-Show line numbers|Set whether to show the line numbers.
-Show ruled line|Set whether to show the ruled line on the editor area and results area.
 
 ## Appearance Settings
 |Setting|Description|
@@ -57,17 +63,8 @@ Button background color|Set the background color for primary keypad buttons
 Secondary button background color|Set the background color for secondary keypad buttons.
 Button border color|Set the border color for keypad button
 Button text color|Set the text color for keypad button
+Swipe Effect color|Set the color for swipe animation
 Restore Defaults|Restore default settings.
-
-## Computation Settings
-|Setting|Description|
-|:-----------|:------------|
-Display format|Set the display format for numeric.
-Result alignment|Set the alignment for result. `Left` or `Right`
-Accuracy (max digits in fraction)|Set the accuracy for decimal.
-Round behavior|Set the rounding behavior for decimal.
-Fix number of decimal places|Set whether to fix the decimal number of digit.
-Trigonometry|Set the trigonometry modes. `Degrees` or `Radians` or `Gradians`
 
 ## Result Settings
 |Setting|Description|
@@ -75,6 +72,12 @@ Trigonometry|Set the trigonometry modes. `Degrees` or `Radians` or `Gradians`
 Tax Rate(%)|Set the tax rate.
 Accuracy (max digits in fraction)|Set the accuracy for tax.
 Tax Round behavior|Set the rounding behavior for the tax
+
+## File Settings
+|Setting|Description|
+|:-----------|:------------|
+Ellipt a long filename|Set whether to ellipt the file name on the action bar if file name is too long.
+Number of saving drafts|Set the number of drafts that can be saved.Draft that exceeds the number of this limit will be removed to the old order.
 
 ## Floating Widget
 **[Floating Widget](floating_widget.md) is only available to Pro users.**
