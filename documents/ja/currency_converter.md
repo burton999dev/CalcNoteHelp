@@ -5,7 +5,7 @@
 通貨変換用の入力パッドは[キーパッドのカスタマイズ](customizing_keypad.md)の設定から、表示をONにすることで使用できます。変換元の値と変換元の通貨を入力すると変換後の通貨がリスト表示されます。リストの <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_paste_value_black_24dp.png" width="20px" align="top"> を押すと変換後の値が入力され、 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_paste_function_black_24dp.png" width="20px" align="top"> を押すと変換元の値を引数とした関数として入力されます。
 <br/>
 <br/>
-<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/unit_converter.png">
+<img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/ja/currency_converter.png">
 
 ### 通貨一覧
 |通貨コード|関数で使用する通貨名|説明|
