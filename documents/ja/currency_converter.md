@@ -1,5 +1,5 @@
 # 通貨変換
-`CalcNote`は通貨変換をサポートしています。サポートしている通貨は `USD`, `EUR`, `JPY`, `GBP`, `CHF`, `AUD`, `CAD`, `CNY`, `RUB`, `NZD`, `HKD`, `KRW`, `BGN`, `BRL`, `INR`, `CZK`, `DKK`, `HRK`, `HUF`, `IDR`, `ILS`, `MXN`, `MYR`, `NOK`, `PHP`, `PLN`, `RON`, `SEK`, `SGD`, `THB`, `TRY` 31通貨です。通貨変換は専用の入力パッドを使って直接値を入力するか、`通貨変換関数`として入力することもできます。
+`CalcNote`は通貨変換をサポートしています。サポートしている通貨は `USD`, `EUR`, `JPY`, `GBP`, `CHF`, `AUD`, `CAD`, `CNY`, `RUB`, `NZD`, `HKD`, `KRW`, `BGN`, `BRL`, `INR`, `CZK`, `DKK`, `HRK`, `HUF`, `IDR`, `ILS`, `MXN`, `MYR`, `NOK`, `PHP`, `PLN`, `RON`, `SEK`, `SGD`, `THB`, `TRY` 31通貨です。通貨変換は専用の入力パッドを使って直接値を入力するか、`通貨変換関数`として入力することもできます。為替レートは1日1回の頻度で更新されます。リアルタイムな正確なレートではないので注意してください。
 
 ## 通貨変換用の入力パッド
 通貨変換用の入力パッドは[キーパッドのカスタマイズ](customizing_keypad.md)の設定から、表示をONにすることで使用できます。変換元の値と変換元の通貨を入力すると変換後の通貨がリスト表示されます。リストの <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_paste_value_black_24dp.png" width="20px" align="top"> を押すと変換後の値が入力され、 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_paste_function_black_24dp.png" width="20px" align="top"> を押すと変換元の値を引数とした関数として入力されます。
