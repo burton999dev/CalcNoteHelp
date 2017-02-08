@@ -61,6 +61,23 @@
 `stdev(val1, val2)`|`val1`:開始位置の行参照<br>`val2`:終了位置の行参照|行参照で指定した範囲の標準偏差を返します。|stdev($1, $6)
 `median(val1, val2)`|`val1`:開始位置の行参照<br>`val2`:終了位置の行参照|行参照で指定した範囲の中央値を返します。|median($1, $6)
 
+## 小計
+`Subtotal`を使うと小計を計算することができます。キーパッドの表示は`ST`です。`Subtotal`の結果は総合計の計算には含まれません。また複数の`Subtotal`がある場合は、`Subtotal`から`Subtotal`の間の計算結果の合計が表示されます。`Subtotal`のキーワードは設定で変更することが可能です。例えば日本ではキーワードを`小計`に変更したほうが分りやすいかもしれません。
+
+```java
+ドリンク
+120 * 6    /*=720*/
+250 * 6    /*=1500*/
+Subtotal   /*=2220*/
+
+フード
+480 * 2    /*=960*/
+235 * 1    /*=235*/
+890 * 2    /*=1780*/
+Subtotal   /*=2975*/
+Total      /*=5195*/
+```
+
 <br><br>
 [HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[単位変換](unit_converter.md)　[通貨変換](currency_converter.md)　[フローティングウィジェット](floating_widget.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 
