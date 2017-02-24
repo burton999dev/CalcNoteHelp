@@ -61,5 +61,24 @@
 `stdev(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the standard deviation of a series of numbers and/or line references.|stdev($1, $6)
 `median(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the median of a series of numbers and/or line references.|median($1, $6)
 
+## Subtotals
+You can calculate subtotals using `Subtotal` keyword.
+`Subtotal` only calculates up to the last `Subtotal`.Subtotal results are not included in the total.
+
+
+```java
+Drink
+120 * 6    /*=720*/
+250 * 6    /*=1500*/
+Subtotal   /*=2220*/
+
+Food
+480 * 2    /*=960*/
+235 * 1    /*=235*/
+890 * 2    /*=1780*/
+Subtotal   /*=2975*/
+Total      /*=5195*/
+```
+
 <br><br>
-[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Unit Converter](unit_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
+[HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Unit Converter](unit_converter.md)　[Currency Converter](currency_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  

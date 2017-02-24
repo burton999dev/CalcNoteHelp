@@ -7,6 +7,7 @@
 - [Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)  
 - [Operators and Functions](operator_and_function.md)  
 - [Unit Converter](unit_converter.md)
+- [Currency Converter](currency_converter.md)
 - [Floating Widget](floating_widget.md)  
 - [Settings](settings.md)  
 - [Customizing Keypad](customizing_keypad.md)  
