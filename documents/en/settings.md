@@ -19,6 +19,8 @@ Result Display format|Set the display format for numeric.
 Result alignment|Set the alignment for result. `Left` or `Right`
 Fix number of decimal places|Set whether to fix the decimal number of digit.
 Symbol to refer to a previous answer|Choose the symbol to refer to a previous answer. `$` or `#`
+Keyword to calculate subtotal|Default value is `Subtotal`. You can change this keyword as you like.
+Use currency converter|If disabled, CalcNote does not get currency rates from internet. You can save network traffic.
 
 ## Editor Settings
 |Setting|Description|
