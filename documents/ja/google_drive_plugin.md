@@ -1,5 +1,9 @@
-# 通貨変換
-`CalcNote`は通貨変換をサポートしています。サポートしている通貨は `USD`, `EUR`, `JPY`, `GBP`, `CHF`, `AUD`, `CAD`, `CNY`, `RUB`, `NZD`, `HKD`, `KRW`, `BGN`, `BRL`, `INR`, `CZK`, `DKK`, `HRK`, `HUF`, `IDR`, `ILS`, `MXN`, `MYR`, `NOK`, `PHP`, `PLN`, `RON`, `SEK`, `SGD`, `THB`, `TRY` 31通貨です。通貨変換は専用の入力パッドを使って直接値を入力するか、`通貨変換関数`として入力することもできます。為替レートは1日1回の頻度で更新されます。リアルタイムな正確なレートではないので注意してください。
+# GoogleDriveプラグイン
+[GoogleDriveプラグイン](https://play.google.com/store/apps/details?id=com.burton999.notecal.plugin.gdrive)をインストールすることでCalcNoteに自動バックアップ機能を追加することができます。この[プラグイン](https://play.google.com/store/apps/details?id=com.burton999.notecal.plugin.gdrive)はv2.4.14以降のCalcNoteの無料版とPro版の両方で利用できます。
+
+
+
+
 
 ## 通貨変換用の入力パッド
 通貨変換用の入力パッドは[キーパッドのカスタマイズ](customizing_keypad.md)の設定から、表示をONにすることで使用できます。変換元の値と変換元の通貨を入力すると変換後の通貨がリスト表示されます。リストの <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_paste_value_black_24dp.png" width="20px" align="top"> を押すと変換後の値が入力され、 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_paste_function_black_24dp.png" width="20px" align="top"> を押すと変換元の値を引数とした関数として入力されます。
@@ -43,5 +47,5 @@ THB|thb|タイバーツ
 TRY|try|トルコリラ
 
 <br><br>
-[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[演算子と関数](operator_and_function.md)　[単位変換](unit_converter.md)　[フローティングウィジェット](floating_widget.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[GoogleDriveプラグイン](google_drive_plugin.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[演算子と関数](operator_and_function.md)　[単位変換](unit_converter.md)　[通貨変換](currency_converter.md)　[フローティングウィジェット](floating_widget.md)　[設定](settings.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 
