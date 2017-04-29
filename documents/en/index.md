@@ -11,6 +11,7 @@
 - [Floating Widget](floating_widget.md)  
 - [Settings](settings.md)  
 - [Customizing Keypad](customizing_keypad.md)  
+- [CalcNotePlugin for GoogleDrive](https://play.google.com/store/apps/details?id=com.burton999.notecal.plugin.gdrive)
 - [FAQ](faq.md)  
 - [Customization Example](example4theme.md)  
 
