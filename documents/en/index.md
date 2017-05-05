@@ -22,7 +22,7 @@ If you make a mistake, you don't need to start again, you can edit your expressi
 You can do multiple calculations at the same time, and edit previous lines at any time.
 
 # <a name ="disclaimer"> Disclaimer</a>
-Please note in advance that Appsys is not responsible for any damage or lost profits caused by the use of this software, or any claims from third parties.
+Please note in advance that burton999 is not responsible for any damage or lost profits caused by the use of this software, or any claims from third parties.
 
 # <a name ="version">Difference between Free and Pro editions</a>
 There are two editions for the `CalcNote`, [Free](https://play.google.com/store/apps/details?id=com.burton999.notecal) and [Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) (JPY 360).  
