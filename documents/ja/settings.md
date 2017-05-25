@@ -19,6 +19,8 @@
 結果の表示位置|画面右側に表示される計算結果の表示位置を`左寄せ`, `右寄せ` から選択できます。
 小数点以下の桁数を固定|ONの場合、計算結果を`小数点桁数`の設定値に応じて0埋めします。
 行参照で使用する記号|行参照で使用する記号を`$`と`#`から選択できます。
+小計を計算するためのキーワード|デフォルトでは`Subtotal`と入力することで小計を計算することができますが、この文字列を変更することができます。
+通貨換算を使用する|CalcNoteは1日1回、インターネット経由で為替レートの情報を取得していますが、この設定をOFFにすることで取得処理を無効化できます。
 
 ## エディタの設定
 |項目|説明|
@@ -97,5 +99,5 @@
 `CalcNote`を友達に教える機能、レビュー・評価のためにGooglePlayにジャンプする機能、Google+1する機能を提供しています。是非、ご協力いただけますよう、よろしくお願い致します。`CalcNote`のユーザー数が増えることで開発者のやる気がアップします。
 
 <br>
-[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[演算子と関数](operator_and_function.md)　[単位変換](unit_converter.md)　[通貨変換](currency_converter.md)　[フローティングウィジェット](floating_widget.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
+[HOME](index.md)　[基本操作](how2use.md)　[文法](http://burton999dev.github.io/CalcNoteHelp/grammar_ja.html)　[演算子と関数](operator_and_function.md)　[単位変換](unit_converter.md)　[通貨変換](currency_converter.md)　[フローティングウィジェット](floating_widget.md)　[キーパッドのカスタマイズ](customizing_keypad.md)　[カスタマイズの例](example4theme.md)　[GoogleDriveプラグイン](google_drive_plugin.md)　[FAQ](faq.md)　[使用例](http://android.ascii.jp/2016/02/29/893463)  
 

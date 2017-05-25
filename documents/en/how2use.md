@@ -116,4 +116,4 @@ ABC|Show the software keyboard.
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/all/ic_keyboard_close_black_18dp.png">|Hide the keypad.
 
 <br><br>
-[HOME](index.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Unit Converter](unit_converter.md)　[Currency Converter](currency_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
+[HOME](index.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Unit Converter](unit_converter.md)　[Currency Converter](currency_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[CalcNotePlugin for GoogleDrive](google_drive_plugin.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
