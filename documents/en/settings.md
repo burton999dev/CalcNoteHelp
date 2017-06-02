@@ -52,6 +52,8 @@ Action Bar background color|Set the background color for the Action bar
 Action Bar text color|Set the text color for the Action bar
 Side Menu Header background color|Set the background color for the header of side menu
 Side Menu Header text color|Set the text color for header of side menu
+Side Menu background color|Set the background color for the side menu
+Side Menu text color|Set the text color for the side menu
 Editor background color|Set the background color for the editor area and results area.
 Editor text color|Set the text color for the editor area and results area.
 Editor text color for negative value|Set the text color for the results area for negative value.
