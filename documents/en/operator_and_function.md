@@ -15,7 +15,7 @@
 `0o`|Prefix for the octal|`0o7712`
 `0b`|Prefix for the binary|`0b0101`
 `&`|Logical AND|0b0101 `&` 0b0011 = 0b0001
-`&#124;`|Logical OR|0b0101 `&#124;` 0b0011 = 0b0111
+<code>&#124;</code>|Logical OR|0b0101 <code>&#124;</code> 0b0011 = 0b0111
 `~`|Logical NOT|`~`0b10 = 0b01
 `XOR`|Logical XOR|0b0101 `XOR` 0b0011 = 0b0110
 `<<`|Left arithmetic shift|0b0110 `<<` 2 = 0b11000
