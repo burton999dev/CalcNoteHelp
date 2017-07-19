@@ -1,96 +1,96 @@
 # Custom Extension
 
 ## User Defined Constant
-User defined constants allows you to define your own constants. CalcNote has constant `π` that value is `3.14159265358979323846` by the default. As well as this, you can define your constant that is a commonly used value.
+User defined constant allows you to define your own constants. CalcNote has constant `π` that value is `3.14159265358979323846` by the default. As well as this, you can define your constant that is a commonly used value.
 
 ### List of user defined constants
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_const_list.png">
 
-定義されている`ユーザー定義定数`の一覧が表示されます。 `+`ボタンを押すと`新規作成`、`...`ボタンを押すとメニューが表示され既存の`ユーザー定義定数`の`編集`、`削除`が可能です。
+List of user defined constants is displayed. You can create new constant to tap the `+` button. Also you can edit and delete an existing constant to tap the `...` button.
 
 ### Editing a user defined constant
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_const_edit.png">
 
 #### Constant Name
-定数の名前を設定します。既に定義されている関数名や定数名と同じ名前は使用できません。定数名の先頭の文字は数字以外である必要があり、`_`(underscore)以外の記号は使用できません。
+Enter the constant name. Constant name is displayed on keypad. You cannot use the same name as a function name or constant name already defined. The accepted characters are alphanumeric and "_" (underscore) and name must start with other than numeric.
 #### Constant Value
-定数の値を数値で設定します。設定できるのは数値のみで`%`や関数などを設定することはできません。
+Enter the constant value. The value must be numeric.
 #### Save button
-保存した`ユーザー定義定数`は計算式の中で使用することができます。定数の値を変更した場合は、既存のノートの全てに影響を及ぼします。作成した`ユーザー定義定数`は`キーパッドのカスタマイズ`の設定でボタンに割り当てることができます。
+Save a user defined constant and back to the list of user defined constants. Saved constant can be assigned to the keypad.
 
 ## User Defined Action
-ユーザー定義アクションは、オリジナルのボタンを定義することができる機能です。例えば` + 8%`という数式を`税込`というアクション名で定義すれば、消費税を1タップで計算できるボタンが作成できます。このように普段よく使う計算をアクションとして定義しておけば、入力の手間を大幅に軽減することができます。
+User defined action allows you to define your own button. For instance, you can define the `TAX` button with a expression `+ 10%`. If you define commonly-used calculations as action, you can save the trouble of inputting.
 
 ### List of user defined actions
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_action_list.png">
 
-定義されている`ユーザー定義アクション`の一覧が表示されます。 `+`ボタンを押すと`新規作成`、`...`ボタンを押すとメニューが表示され既存の`ユーザー定義アクション`の`編集`、`削除`が可能です。
+List of user defined actions is displayed. You can create new action to tap the `+` button. Also you can edit and delete an existing action to tap the `...` button.
 
 ### Editing a user defined action
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_action_edit.png">
 
 #### Action Name
-アクションの名前を設定します。アクション名はボタンに表示されます。
+Enter the action name. Action name is displayed on keypad.
 #### Action Value
-アクションを実行した時に入力される式を設定します。値には数値や計算式、コメントなど特に制限なく設定することができます。
+Enter the action value. You can set any expressions and comments as the action value.
 #### Save button
-保存した`ユーザー定義アクション`は`キーパッドのカスタマイズ`の設定でボタンに割り当てるこができます。
+Save a user defined action and back to the list of user defined actions. Saved action can be assigned to the keypad.
 
 ## User Defined Function
-ユーザー定義関数は、`Excel`のマクロのような機能で、オリジナルの関数を定義することができる機能です。関数は`Javascript`を使って書くことができます。条件分岐や繰り返し処理を使って複雑なビジネスロジックを実装することも可能な強力な機能ですが、作成にはプログラミングのスキルを必要とします。
+User defined function is like an excel macro. User defined function enables you to create a function using `JavaScript`.
 
 ### List of user defined functions
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_fuction_list.png">
 
-定義されている`ユーザー定義関数`の一覧が表示されます。 `+`ボタンを押すと`新規作成`、`...`ボタンを押すとメニューが表示され既存の`ユーザー定義関数`の`編集`、`削除`が可能です。
+List of user defined functions is displayed. You can create new function to tap the `+` button. Also you can edit and delete an existing function to tap the `...` button.
 
 ### Editing a user defined function(Definition)
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_fuction_edit1.png">
 
 #### Function Name
-関数の名前を設定します。既に定義されている関数名や定数名と同じ名前は使用できません。関数名に使用できる文字は英数字と`_`(underscore)のみで先頭は数字以外である必要があります。
+Enter the function name. You cannot use the same name as a function name or constant name already defined. Function name must be 1 to 8 characters. The accepted characters are alphanumeric and "_" (underscore) and name must start with other than numeric.
 #### Description of Function
-関数の説明を設定します。説明文は関数のヘルプで表示されます。この項目は省略可能です。
+Enter the description of function. This description is used in the help. This field is optional.
 #### Number of Parameters
-関数の引数の数を設定します。引数の数は0個〜4個までサポートしています。
+Select the number of parameters.
 #### Description of Return Value
-関数の戻り値の説明を設定します。説明文は関数のヘルプで表示されます。この項目は省略可能です。
+Enter the description of return value. This description is used in the help. This field is optional.
 #### NEXT button
-次の画面に遷移します。
+Move to the next step.
 
 ### Editing a user defined function(Parameters)
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_fuction_edit2.png">
 
 #### Parameter Name
-引数の名前を設定します。デフォルトでは引数の数に応じて`p1`, `p2`, `p3`, `p4`と連番の名前が設定されます。引数名に使用できる文字は英数字と`_`(underscore)のみで先頭は数字以外である必要があります。
+Enter the parameter name. The accepted characters are alphanumeric and "_" (underscore) and name must start with other than numeric.
 #### Description of Parameter
-引数の説明を設定します。説明文は関数のヘルプで表示されます。この項目は省略可能です。
+Enter the description of parameter. This description is used in the help. This field is optional.
 #### NEXT button
-次の画面に遷移します。
+Move to the next step.
 #### BACK button
-Back to the previous screen.
+Back to the previous step.
 
 ### Editing a user defined function(Code)
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_fuction_edit3.png">
 
 #### Source Code
-`Javascript`で関数の処理を実装します。前画面で設定した関数名や引数の数など情報によって関数の定義文は自動生成されます。
+Write the code of function in `JavaScript`.
 #### NEXT button
-次の画面に遷移します。
+Move to the next step.
 #### BACK button
-Back to the previous screen.
+Back to the previous step.
 
 ### Editing a user defined function(Test)
 <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master/images/en/user_fuction_edit4.png">
 
 #### Value of Argument
-関数の動作確認のために引数の値を設定します。
+Enter a value of argument to test.
 #### ▲ Execution button
-設定された引数を使って関数を呼び出します。結果が画面下部に表示されるので期待した結果か確認します。問題なければCOMPLETEボタンを押して関数を保存します。
+Tests a user defined function using specified arguments. The return value will be shown on the bottom of screen.
 #### COMPLETE button
-関数を保存して関数一覧画面に戻ります。
+Save a user defined function and back to the list of user defined functions. Saved function can be assigned to the keypad.
 #### BACK button
-Back to the previous screen.
+Back to the previous step.
 
 ### Builtin functions for user defined functions
 You can use following functions in your code.
@@ -126,7 +126,7 @@ rhup(x, y)|This is a built-in function of the CalcNote.
 abs(x)|This is a built-in function of the CalcNote.
 
 ### Limitations
-1. CalcNote uses [Rhino v1.7.7.1](https://github.com/mozilla/rhino) to execute Javascript.So supported feature depends on the Rhino.
+1. CalcNote uses [Rhino v1.7.7.1](https://github.com/mozilla/rhino) to execute JavaScript. So supported feature depends on the Rhino.
 2. User defined functions are compiled each time and then executed. So multiple calls to user-defined functions and complicated function can be affect performance.
 3. `get` function sends a http request synchronously.
 
