@@ -11,6 +11,7 @@
 - [Floating Widget](floating_widget.md)  
 - [Settings](settings.md)  
 - [Customizing Keypad](customizing_keypad.md)  
+- [Custom Extension](custom_extension.md)
 - [CalcNotePlugin for GoogleDrive](google_drive_plugin.md)
 - [FAQ](faq.md)  
 - [Customization Example](example4theme.md)  
