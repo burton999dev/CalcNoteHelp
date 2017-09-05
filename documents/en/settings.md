@@ -7,6 +7,7 @@
 No screen timeout|Set whether to keep the screen turned on.
 Show action bar|Set whether to show the action bar.
 Full screen mode|Set whether to show the notification area.
+Screen Orientation|You can change the screen orientation to landscape.This settings is for tablet only.
 
 ## Computation Settings
 |Setting|Description|
