@@ -14,6 +14,7 @@ Tap <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/master
 cm²|cm2|Square Centimetre
 m²|m2|Square Metre
 km²|km2|Square Kilometre
+are|are|Are
 ha|ha|Hectare
 in²|in2|Square Inch
 ft²|ft2|Square Foot
