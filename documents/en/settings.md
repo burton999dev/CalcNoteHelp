@@ -7,6 +7,7 @@
 No screen timeout|Set whether to keep the screen turned on.
 Show action bar|Set whether to show the action bar.
 Full screen mode|Set whether to show the notification area.
+Screen Orientation|You can change the screen orientation to landscape.This settings is for tablet only.
 
 ## Computation Settings
 |Setting|Description|
@@ -29,6 +30,8 @@ Font|Set the font family for the line numbers, editor area, results area and tot
 Text size|Set the text size for the line numbers, editor area, results area and total area.
 Show line numbers|Set whether to show the line numbers.
 Show ruled line|Set whether to show the ruled line on the editor area and results area.
+Caret Row Highlighting|Set way to highlight the caret row.
+Insert Smart Spaces|Set whether to places spaces between your operators to keep your numbers clean and readable.
 
 ## Keypad Settings
 |Setting|Description|
@@ -48,26 +51,27 @@ Percentage of height to the screen(%)|Set the height of keypad as percentage of 
 |Setting|Description|
 |:-----------|:------------|
 Theme|Theme is like a template for the appearance settings. CalcNote provides 10 themes, `Default`, `Pink`, `Purple`, `Blue`, `Teal`, `Green`, `Light Green`, `Lime`, `Orange` and `Brown`. You can customize the appearance settings after applying a theme.
-Action Bar background color|Set the background color for the Action bar
-Action Bar text color|Set the text color for the Action bar
-Side Menu Header background color|Set the background color for the header of side menu
-Side Menu Header text color|Set the text color for header of side menu
-Side Menu background color|Set the background color for the side menu
-Side Menu text color|Set the text color for the side menu
+Action Bar background color|Set the background color for the Action bar.
+Action Bar text color|Set the text color for the Action bar.
+Side Menu Header background color|Set the background color for the header of side menu.
+Side Menu Header text color|Set the text color for header of side menu.
+Side Menu background color|Set the background color for the side menu.
+Side Menu text color|Set the text color for the side menu.
 Editor background color|Set the background color for the editor area and results area.
 Editor text color|Set the text color for the editor area and results area.
 Editor text color for negative value|Set the text color for the results area for negative value.
 Line No background color|Set the background color for the line numbers.
 Line No text color|Set the text color for the line numbers.
 Ruled line color|Set the line color for the ruled line.
+Caret row highlighting color|Set the background color for caret row.
 Frame color|Set the background color for the frame.
 Keypad menu color|Set the icon color for the keypad switch.
-Keypad menu size|Choose the size of icon for the keypad switch. `Small` or `Medium` or `Large`
-Button background color|Set the background color for primary keypad buttons
+Keypad menu size|Choose the size of icon for the keypad switch. `Small` or `Medium` or `Large`.
+Button background color|Set the background color for primary keypad buttons.
 Secondary button background color|Set the background color for secondary keypad buttons.
-Button border color|Set the border color for keypad button
-Button text color|Set the text color for keypad button
-Swipe Effect color|Set the color for swipe animation
+Button border color|Set the border color for keypad button.
+Button text color|Set the text color for keypad button.
+Swipe Effect color|Set the color for swipe animation.
 Restore Defaults|Restore default settings.
 
 ## Result Settings
@@ -75,7 +79,7 @@ Restore Defaults|Restore default settings.
 |:-----------|:------------|
 Tax Rate(%)|Set the tax rate.
 Accuracy (max digits in fraction)|Set the accuracy for tax.
-Tax Round behavior|Set the rounding behavior for the tax
+Tax Round behavior|Set the rounding behavior for the tax.
 
 ## File Settings
 |Setting|Description|
