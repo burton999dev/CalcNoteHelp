@@ -34,7 +34,7 @@ You can create a customized keypad by following steps.
 - You can assign the action that has not been assigned by default. e.g. `000`, `0000`
 - Don't enable many keypads to avoid a performance issue.
 - You can import/export a customized keypad. But customized keypad will be lost if screen size is different. For example, you cannot import/export a customize keypad from phone to tablet.
-- You must enable at least one keypad.
+- If you disable all keypads, you can use software keyboard instead.
 
 <br><br>
 [HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Unit Converter](unit_converter.md)　[Currency Converter](currency_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Custom Extension](custom_extension.md)　[CalcNotePlugin for GoogleDrive](google_drive_plugin.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
