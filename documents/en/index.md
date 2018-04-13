@@ -31,7 +31,6 @@ There are two editions for the `CalcNote`, [Free](https://play.google.com/store/
 Free edition has the same functionality as the Pro edition but it has the following restrictions.  
 
 - Ads will be displayed on the top of screen.
-- A dialog appears to promote user to rate the CalcNote at fixed intervals.
 - We use analytics services to understand how users use `CalcNote` in order for CalcNote to improve its software.
 - Can not use the [floating widget](floating_widget.md)
 
