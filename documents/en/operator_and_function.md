@@ -60,6 +60,13 @@
 `var(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the variance of a series of numbers and/or line references.|var($1, $6)
 `stdev(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the standard deviation of a series of numbers and/or line references.|stdev($1, $6)
 `median(val1, val2)`|`val1`:The first line reference<br>`val2`:The second line reference|Returns the median of a series of numbers and/or line references.|median($1, $6)
+`pmt(rate, nper, pv, [fv], [type])`|||
+`ipmt(rate, per, nper, pv, [fv], [type])`|||
+`ppmt(rate, per, nper, pv, [fv], [type])`|||
+`fv(rate, nper, pmt, [pv], [type])`|||
+`pv(rate, nper, pmt, [fv], [type])`|||
+`nper(rate, pmt, pv, [fv], [type])`|||
+`rate(nper, pmt, pv, [fv], [type], [guess])`|||
 
 ## Subtotals
 You can calculate subtotals using `Subtotal` keyword.
