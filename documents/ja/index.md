@@ -26,7 +26,7 @@
 本ソフトウェアの使用により生じた損害、逸失利益または第三者からのいかなる請求についても作者は一切その責任を負えませんので、あらかじめご了承ください。
 
 # <a name ="version">Free版とPro版の違い</a>
-`CalcNote`には無料でお使い頂ける [Free版](https://play.google.com/store/apps/details?id=com.burton999.notecal) と、360円で購入可能な [Pro版](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) があります。どちらも電卓の機能としては全く同じですが、Free版には以下の制約があります。
+`CalcNote`には無料でお使い頂ける [Free版](https://play.google.com/store/apps/details?id=com.burton999.notecal) と、580円で購入可能な [Pro版](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) があります。どちらも電卓の機能としては全く同じですが、Free版には以下の制約があります。
 
 - 画面上部に広告が表示されます。
 - Google Analyticsが組み込まれており、どの機能がよく使われているか等、`CalcNote`の機能改善に役立つ情報を収集させていただいております。アプリ利用状況の分析以外の目的でこれらの情報を使用することはありません。(**個人情報や端末情報などプライバシーに関わる情報、編集内容等は一切収集しておりませんし、権限も要求していませんのでご安心ください**)
