@@ -23,8 +23,9 @@
 If you make a mistake, you don't need to start again, you can edit your expression like in a text editor. Of course, you can write a memo for your problems.  
 You can do multiple calculations at the same time, and edit previous lines at any time.  
 CalcNote is only available on Android, and I don't have a plan to release CalcNote to iOS.  
-Because  OSX and iOS have a great notepad calculator [Soulver](https://www.acqualia.com/soulver/).  
-I highly recommend [Soulver](https://www.acqualia.com/soulver/) if you are using an iPhone or Mac.  
+Because  macOS and iOS have a great notepad calculator [Soulver](https://www.acqualia.com/soulver/).  
+I highly recommend [Soulver](https://www.acqualia.com/soulver/) if you are using an iOS or macOS.  
+I always use [Soulver](https://www.acqualia.com/soulver/) on my mac.
 CalcNote's user interface was inspired by the [Soulver](https://www.acqualia.com/soulver/).  
 
 
