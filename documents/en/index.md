@@ -15,6 +15,7 @@
 - [CalcNotePlugin for GoogleDrive](google_drive_plugin.md)
 - [FAQ](faq.md)  
 - [Customization Example](example4theme.md)  
+- [Donations](#donations)  
 
 **This help might be contain some pre-release of the new features.**
 
@@ -69,3 +70,5 @@ If you find a bug or have a featuer request, Please contact me by following meth
 - [Twitter](https://twitter.com/#!/ComicCafeApp)
 - Github issue
 
+# <a name ="donations"> Donations </a>
+To support this project, you can donate to the developer. [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2BKK07RWI2RMU)  

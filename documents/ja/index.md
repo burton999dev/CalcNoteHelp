@@ -16,6 +16,7 @@
 - [GoogleDriveプラグイン](google_drive_plugin.md)
 - [FAQ](faq.md)  
 - [使用例](http://android.ascii.jp/2016/02/29/893463)  
+- [寄付](#donates)  
 
 **※このヘルプには一部リリース前の新機能が含まれている可能性があります。その場合は次回リリースまでしらばくお待ち下さい。**
 
@@ -73,3 +74,5 @@ GooglePlayライセンスの確認|Pro版のライセンス購入状態を確認
 要望などは実装することをお約束できませんが、可能な限り対応させていただきます。
 また、バグの原因究明にご協力いただいた方にはお礼としてPro版のプロモーションコードを配布しております。
 
+# <a name ="donates">寄付</a>
+[Amazonのほしい物リスト](http://www.amazon.co.jp/registry/wishlist/336DBVUUWKOM8) を通じてアプリ開発者に寄付することができます。
