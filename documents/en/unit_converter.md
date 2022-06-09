@@ -114,5 +114,49 @@ pt(UK)|ukpt|Pint (UK)
 bbl|bbl|Barrel (US)
 bbl(UK)|ukbbl|Barrel (UK)
 
+### Fuel
+|Symbol|Unit name for function|Description|
+|:-----------|:------------|:------------|
+km/L|kml|Kilometers per liter
+MPL|mpl|Miles per liter
+MPG|mpg|Miles per US gallon
+MPG(UK)|ukmpg|Miles per UK gallon
+L/100km|lkm|Liters per 100 kilometers
+gal/100mi|gpm|Gallons per 100 miles
+
+### Pressure
+|Symbol|Unit name for function|Description|
+|:-----------|:------------|:------------|
+Pa|pa|Pascal
+hPa|hpa|Hectopascal
+bar|bar|Bar
+cmHg|cmhg|Centimetre of mercury
+inHg|inhg|Inch of mercury
+cmH2O|cmh2o|Centimetre of water
+inH2O|inh2o|Inch of water
+psi|psi|Pound per square inch
+psf|psf|Pound per square foot
+atm|atm|Standard atmosphere
+kgf/cm2|kgfpcm2|Kilogram-force per square centimetre
+Torr|torr|Torr
+
+
+### Work
+|Symbol|Unit name for function|Description|
+|:-----------|:------------|:------------|
+J|j|Joule
+kJ|kj|Kilojoule
+cal|cal|Calorie
+kcal|kcal|Kilocalorie
+Wh|wh|Watt-hour
+kWh|kwh|Kilowatt-hour
+kgf-m|kgfm|Kilogram-force meter
+Nm|Nm|Newton metre
+lbf-in|lbfin|Pound-inch
+lbf-ft|lbfft|Pound-foot
+BTU|btu|British thermal unit
+toe|to|Tonne of oil equivalent
+
+
 <br><br>
 [HOME](index.md)　[How to use](how2use.md)　[Grammar](http://burton999dev.github.io/CalcNoteHelp/grammar_en.html)　[Operators and Functions](operator_and_function.md)　[Currency Converter](currency_converter.md)　[Floating Widget](floating_widget.md)　[Settings](settings.md)　[Customizing Keypad](customizing_keypad.md)　[Custom Extension](custom_extension.md)　[CalcNotePlugin for GoogleDrive](google_drive_plugin.md)　[FAQ](faq.md)　[Customization Example](example4theme.md)  
