@@ -1,67 +1,50 @@
-**Privacy Policy**
+## 1. Introduction
+This Privacy Policy outlines the approach of CalcNote, a calculator application, in handling personal data. We emphasize that CalcNote itself does not collect any personal information or location data from its users. However, it is important to note that third-party libraries used within the app may collect certain information. This policy aims to transparently convey how data is handled and the purposes for which it might be used.
 
-burton999 built the CalcNote app as an Ad Supported app. This SERVICE is provided by burton999 at no cost and is intended for use as is.
+## 2. Collection and Use of Personal Information
+CalcNote is designed to prioritize user privacy. As such, the application itself does not gather any personal information including, but not limited to, names, email addresses, or location data. Nevertheless, CalcNote incorporates the following third-party libraries, which may collect information:
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+- Admob: Used for serving advertisements. Data collected may include user interaction with ads and anonymous identifiers.
+- Firebase Analytics: Helps in understanding user behavior within the app by collecting anonymous data regarding app usage and interactions.
+- Firebase Crashlytics: Utilized for monitoring app performance and identifying crashes. It collects data pertaining to app crashes and system information, which is vital for enhancing app stability.  
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Each of these services operates under its own privacy policy and may process data in accordance with its guidelines. Users are encouraged to review the respective privacy policies of these services for more detailed information. It is important to clarify that while these services collect data for specific purposes such as advertising, analytics, and app performance, CalcNote itself remains a tool that does not independently gather personal user data.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at CalcNote unless otherwise defined in this Privacy Policy.
+## 3. Third-Party Data Processing
+CalcNote incorporates several third-party services to enhance user experience and app functionality. These services, including Admob, Firebase Analytics, and Firebase Crashlytics, are governed by their respective privacy policies and data processing terms. They handle user data in compliance with the General Data Protection Regulation (GDPR) and other applicable laws.
 
-**Information Collection and Use**
+- Admob: Manages advertising data, ensuring targeted and relevant ads are displayed to users. For more information, please refer to the [Google Ads Data Processing Terms](https://www.google.com/analytics/terms/dpa/dataprocessingamendment_20200816.html).
+- Firebase Analytics and Firebase Crashlytics: Utilized for understanding user interactions within the app and maintaining app stability. Detailed information can be found in the [Firebase Data Processing Terms](https://firebase.google.com/terms/data-processing-terms).
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+We recommend users to review these documents to understand how their data is processed and safeguarded by these third-party services.
 
-The app does use third party services that may collect information used to identify you.
+## 4. User Rights
+Under the GDPR, users have specific rights regarding their personal data. These include:
 
-Link to privacy policy of third party service providers used by the app
+- The Right to Access: Users can request information on how their data is being used and processed.
+- The Right to Rectification: Users have the right to correct any incorrect or incomplete data held about them.
+- The Right to Erasure: Also known as the ‘right to be forgotten’, this allows users to request the deletion of their data under certain circumstances.
+- The Right to Restrict Processing: Users can request a halt on the processing of their data.
+- The Right to Data Portability: This permits users to obtain and reuse their data for their own purposes across different services.
+- The Right to Object: Users can object to the processing of their personal data in certain cases, such as for direct marketing purposes.  
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+CalcNote encourages users to exercise these rights as needed. For requests or inquiries regarding personal data, users can contact the relevant third-party service provider directly, as CalcNote does not process personal data on its own.
 
-**Log Data**
+## 5. Data Protection
+The safety and security of user data is a priority for CalcNote. While the application itself does not collect personal data, we ensure that third-party services integrated within the app adhere to strict data protection standards. These services are required to implement appropriate security measures to safeguard user data against unauthorized access, alteration, disclosure, or destruction. In the unlikely event of a data breach, the concerned third-party service will undertake necessary steps to mitigate any potential harm and will inform the affected users as required by law.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## 6. Changes to the Privacy Policy
+CalcNote reserves the right to update or modify this Privacy Policy at any time. Changes to the policy will be communicated through the application or the official website, allowing users to review the updated terms. The revised policy will come into effect from the date of publication. We encourage users to periodically review the Privacy Policy to stay informed about how their data is being protected. Continued use of CalcNote following any changes to the Privacy Policy signifies acceptance of those changes.
 
-**Cookies**
+## 7. Contact Information
+For any questions or concerns regarding this Privacy Policy or the handling of personal data by the third-party services used in CalcNote, users are encouraged to contact us directly. Please send your inquiries to burton9999dev@gmail.com . We are committed to addressing your concerns and providing clarity on how user data is managed within the app.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## 8. Governing Law and Jurisdiction
+This Privacy Policy is governed by and construed in accordance with the laws of Japan, without giving effect to any principles of conflicts of law. Any dispute arising out of or related to the use of CalcNote or this Privacy Policy will be subject to the exclusive jurisdiction of the courts located in Japan. By using CalcNote, users consent to the jurisdiction and venue of such courts.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-**Service Providers**
 
-I may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-**Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-**Changes to This Privacy Policy**
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2015-12-19
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at burton9999dev@gmail.com.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
