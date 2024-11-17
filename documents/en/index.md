@@ -35,7 +35,7 @@ CalcNote's user interface was inspired by the [Soulver](https://www.acqualia.com
 Please note in advance that burton999 is not responsible for any damage or lost profits caused by the use of this software, or any claims from third parties.
 
 # <a name ="version">Difference between Free and Pro editions</a>
-There are two editions for the `CalcNote`, [Free](https://play.google.com/store/apps/details?id=com.burton999.notecal) and [Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) (JPY 580).  
+There are two editions for the `CalcNote`, [Free](https://play.google.com/store/apps/details?id=com.burton999.notecal) and [Pro](https://play.google.com/store/apps/details?id=com.burton999.notecal.pro) .  
 Free edition has the same functionality as the Pro edition but it has the following restrictions.  
 
 - Ads will be displayed on the top of screen.
