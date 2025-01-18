@@ -71,4 +71,8 @@ If you find a bug or have a featuer request, Please contact me by following meth
 - Github issue
 
 # <a name ="donations"> Donations </a>
-To support this project, you can donate to the developer. [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2BKK07RWI2RMU)  
+If you find this app useful, you can support the development via [PayPal](https://www.paypal.me/burton999dev).
+Suggested donations:
+- Price of a coffee ($5)
+- Price of a book ($20)
+- Super supporter ($50)
