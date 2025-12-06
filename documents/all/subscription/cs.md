@@ -1,0 +1,30 @@
+### Reklamy se už nebudou zobrazovat
+Všechny reklamy v aplikaci zmizí, takže používání bude příjemnější.
+
+- Odstraní se celostránková reklama při spuštění (jednou za 6 hodin), takže můžete hned začít počítat.
+- Zmizí bannery v horní části jednotlivých obrazovek a získáte více prostoru pro obsah.
+- Skryjí se také native reklamy v postranní nabídce i v nastavení, takže se k funkcím dostanete rychleji.
+<br>
+
+### Volná správa historie změn souborů
+Soubory můžete spravovat s větším klidem.
+
+- Při každém uložení se automaticky vytvoří záznam do historie. (**Historie se ukládá i ve free plánu, takže po přechodu na Pro máte okamžitý přístup k předchozím verzím.**)
+- Ve Správce souborů zobrazíte historii a obnovíte libovolný bod uložení.
+- Snadno obnovíte i soubory omylem smazané.
+<br>
+
+### K dispozici plovoucí miniaplikace
+Praktická miniaplikace pro výpočty a poznámky, aniž byste zavírali jiné aplikace.
+
+- Zobrazuje se poloprůhledně nad obrazovkou, takže můžete kontrolovat výsledky nebo si zapisovat poznámky bez přerušení práce.
+- Lze ji kdykoli spustit jedním klepnutím ze stavového řádku.
+- Například si můžete uložit cenu zobrazenou v prohlížeči, aniž byste přepínali aplikace.
+<br>
+
+### Neomezený počet uživatelských seznamů
+Můžete si vytvořit libovolný počet **uživatelských seznamů** pro organizaci často používaných hodnot a jednotek.
+
+- Free plán omezuje na jeden uživatelský seznam; Pro umožňuje neomezeně.
+- Podle účelu přepínejte různé uživatelské seznamy a výrazně zrychlete svou práci.
+<br>

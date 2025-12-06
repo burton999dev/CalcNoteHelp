@@ -1,0 +1,30 @@
+### Iklan hilang sepenuhnya
+Semua iklan di dalam aplikasi disembunyikan sehingga pengalaman menjadi lebih nyaman.
+
+- Iklan layar penuh saat membuka aplikasi (setiap 6 jam) dihapus, jadi Anda bisa langsung mulai menghitung.
+- Banner di bagian atas tiap layar ikut hilang, memberi ruang tampilan lebih luas.
+- Iklan native di menu sisi dan di pengaturan juga disembunyikan, sehingga akses ke fitur yang Anda butuhkan jadi lebih cepat.
+<br>
+
+### Kelola riwayat perubahan file dengan bebas
+Menangani file yang sedang dikerjakan jadi lebih tenang.
+
+- Setiap kali menyimpan, riwayat otomatis tersimpan. (**Riwayat juga disimpan di paket gratis, jadi setelah naik ke Pro Anda bisa langsung mengakses riwayat lama.**)
+- Dari Pengelola File, Anda dapat melihat daftar riwayat dan memulihkan ke titik simpan mana pun.
+- File yang terhapus tanpa sengaja pun mudah dipulihkan.
+<br>
+
+### Widget melayang bisa digunakan
+Widget praktis untuk menghitung dan mencatat tanpa menutup aplikasi lain.
+
+- Muncul sebagai lapisan semi-transparan di layar, sehingga Anda bisa melihat hasil atau membuat catatan tanpa menghentikan pekerjaan.
+- Dapat diluncurkan kapan saja dengan satu ketukan dari bilah status.
+- Misalnya, Anda bisa mencatat harga yang muncul di browser tanpa ganti aplikasi.
+<br>
+
+### Buat Daftar pengguna tanpa batas
+Anda bebas membuat sebanyak mungkin **Daftar pengguna** untuk merapikan nilai dan satuan yang sering dipakai.
+
+- Paket gratis membatasi satu daftar pengguna; Pro memungkinkan jumlah tak terbatas.
+- Gunakan daftar berbeda sesuai kebutuhan untuk meningkatkan efisiensi kerja secara signifikan.
+<br>
