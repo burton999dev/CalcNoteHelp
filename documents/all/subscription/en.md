@@ -17,6 +17,7 @@ Work on your files with greater peace of mind.
 
 ### 3. Floating widget available
 A handy widget lets you calculate and take notes while other apps stay open.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - It appears as a translucent overlay, so you can check results or jot notes without interrupting your work.
 - Launch it anytime with one tap from the status bar.
@@ -24,6 +25,7 @@ A handy widget lets you calculate and take notes while other apps stay open.
 
 ### 4. Create unlimited User-defined Lists
 You can create as many **User-defined Lists** as you like to organize frequently used values and units.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - The free plan limits you to one User-defined List; Pro lets you create unlimited lists.
 - Switch lists for different purposes to dramatically boost your productivity.
