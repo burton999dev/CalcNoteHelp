@@ -1,30 +1,28 @@
-### Alle advertenties verdwijnen
+# CalcNote Pro
+
+### 1. Alle advertenties verdwijnen
 Alle advertenties in de app worden verborgen, zodat je een prettigere ervaring krijgt.
 
 - De volledig schermvullende advertentie bij opstart (eens per 6 uur) verdwijnt, zodat je direct kunt beginnen met rekenen.
 - Banneradvertenties bovenaan elke pagina verdwijnen, waardoor je meer schermruimte hebt.
 - Native advertenties in het zijmenu en in de instellingen worden ook verborgen, zodat je sneller bij de gewenste functies bent.
-<br>
 
-### Volledige controle over bestandsgeschiedenis
+### 2. Volledige controle over bestandsgeschiedenis
 Werk met meer zekerheid aan je bestanden.
 
 - Bij elke opslag wordt automatisch een geschiedenis vastgelegd. (**Ook in het gratis plan wordt de geschiedenis bewaard, dus na een Pro-upgrade kun je meteen eerdere versies openen.**)
 - Bekijk de geschiedenis via Bestandsbeheer en herstel elk gewenst opslagpunt.
 - Herstel eenvoudig bestanden die per ongeluk zijn verwijderd.
-<br>
 
-### Zwevende widget beschikbaar
+### 3. Zwevende widget beschikbaar
 Een handige widget voor berekeningen en notities terwijl andere apps open blijven.
 
 - Verschijnt halftransparant bovenop het scherm, zodat je resultaten kunt controleren of notities kunt maken zonder te onderbreken.
 - Start op elk moment met één tik vanuit de statusbalk.
 - Je kunt bijvoorbeeld prijzen uit de browser noteren zonder van app te wisselen.
-<br>
 
-### Onbeperkt aangepaste lijsten maken
+### 4. Onbeperkt aangepaste lijsten maken
 Je kunt zoveel **aangepaste lijsten** maken als je wilt om vaak gebruikte waarden en eenheden te ordenen.
 
 - Het gratis plan beperkt tot één aangepaste lijst; Pro laat er onbeperkt aanmaken.
 - Gebruik verschillende lijsten per doel en verhoog je productiviteit aanzienlijk.
-<br>
