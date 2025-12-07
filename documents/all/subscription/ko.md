@@ -9,6 +9,7 @@
 
 ### 2. 파일 변경 이력을 자유롭게 관리
 작업 중인 파일을 더욱 안심하고 다룰 수 있습니다.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - 저장할 때마다 변경 이력이 자동으로 기록됩니다. (**무료 플랜에서도 이력이 저장되므로, Pro 구독 직후 바로 과거 이력을 확인할 수 있습니다.**)
 - 파일 관리자에서 이력 목록을 확인하고 원하는 저장 시점으로 복원할 수 있습니다.
@@ -16,6 +17,7 @@
 
 ### 3. 플로팅 위젯 사용 가능
 다른 앱을 열어둔 채 계산과 메모를 할 수 있는 편리한 위젯입니다.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - 화면 위에 반투명으로 겹쳐 표시되어 작업을 멈추지 않고 결과 확인이나 메모가 가능합니다.
 - 상태 표시줄에서 언제든 한 번 탭으로 실행할 수 있습니다.
@@ -23,6 +25,7 @@
 
 ### 4. 사용자 정의 목록을 무제한 생성
 자주 쓰는 값과 단위를 정리할 **사용자 정의 목록**을 원하는 만큼 만들 수 있습니다.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - 무료 플랜에서는 사용자 정의 목록이 1개로 제한되지만, Pro에서는 무제한으로 생성할 수 있습니다.
 - 용도별로 목록을 나누어 활용하면 작업 효율이 크게 향상됩니다.

@@ -9,6 +9,7 @@ Todos los anuncios de la app se ocultan para ofrecerte una experiencia más cóm
 
 ### 2. Gestiona libremente el historial de archivos
 Trabaja con tus archivos con mayor tranquilidad.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Cada guardado se registra automáticamente en el historial. (**El historial también se almacena en el plan gratuito, por lo que tras pasar a Pro accedes enseguida a las versiones anteriores.**)
 - Desde el Gestor de archivos puedes ver la lista de versiones y restaurar cualquier punto guardado.
@@ -16,6 +17,7 @@ Trabaja con tus archivos con mayor tranquilidad.
 
 ### 3. Widget flotante disponible
 Un widget práctico para cálculos y notas mientras otras apps siguen abiertas.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Se muestra de forma semitransparente sobre la pantalla, permitiendo consultar resultados o tomar notas sin interrumpir tu tarea.
 - Se lanza en cualquier momento con un solo toque desde la barra de estado.
@@ -23,6 +25,7 @@ Un widget práctico para cálculos y notas mientras otras apps siguen abiertas.
 
 ### 4. Crea listas definidas por el usuario sin límite
 Puedes crear tantas **listas definidas por el usuario** como quieras para organizar valores y unidades frecuentes.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - El plan gratuito limita a una sola lista definida por el usuario; con Pro puedes crear todas las que necesites.
 - Cambia de lista según el uso y mejora notablemente tu productividad.

@@ -9,6 +9,7 @@
 
 ### 2. Ελεύθερη διαχείριση ιστορικού αρχείων
 Διαχειριστείτε τα αρχεία που δουλεύετε με μεγαλύτερη σιγουριά.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Κάθε αποθήκευση καταγράφεται αυτόματα στο ιστορικό. (**Το ιστορικό αποθηκεύεται και στο δωρεάν πλάνο, οπότε με το Pro έχετε αμέσως πρόσβαση σε παλιές εκδόσεις.**)
 - Από τη Διαχείριση αρχείων βλέπετε τη λίστα ιστορικού και επαναφέρετε όποιο σημείο αποθήκευσης θέλετε.
@@ -16,6 +17,7 @@
 
 ### 3. Διαθέσιμο Αιωρούμενο widget
 Ένα χρήσιμο widget για υπολογισμούς και σημειώσεις ενώ άλλες εφαρμογές μένουν ανοικτές.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Εμφανίζεται ημιδιαφανές πάνω στην οθόνη, ώστε να ελέγχετε αποτελέσματα ή να κρατάτε σημειώσεις χωρίς διακοπή.
 - Εκκινεί ανά πάσα στιγμή με ένα πάτημα από τη γραμμή κατάστασης.
@@ -23,6 +25,7 @@
 
 ### 4. Δημιουργήστε απεριόριστες λίστες οριζόμενες από το χρήστη
 Μπορείτε να δημιουργείτε όσες **λίστες οριζόμενες από το χρήστη** θέλετε για να οργανώνετε συχνά χρησιμοποιούμενες τιμές και μονάδες.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Το δωρεάν πλάνο περιορίζει σε μία λίστα οριζόμενη από το χρήστη· το Pro επιτρέπει απεριόριστες.
 - Χρησιμοποιήστε διαφορετικές λίστες ανά χρήση και αυξήστε σημαντικά την αποδοτικότητα.

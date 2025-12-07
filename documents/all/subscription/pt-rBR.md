@@ -9,6 +9,7 @@ Todos os anúncios do app ficam ocultos, oferecendo uma experiência mais agrad�
 
 ### 2. Gerencie livremente o histórico de arquivos
 Trabalhe com seus arquivos em andamento com mais tranquilidade.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Cada salvamento é gravado automaticamente no histórico. (**O histórico é guardado mesmo no plano gratuito, então após virar Pro você acessa versões anteriores na hora.**)
 - No Gerenciador de arquivos é possível ver a lista de versões e restaurar qualquer ponto de salvamento.
@@ -16,6 +17,7 @@ Trabalhe com seus arquivos em andamento com mais tranquilidade.
 
 ### 3. Widget flutuante disponível
 Um widget prático para cálculos e anotações enquanto outros apps permanecem abertos.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Fica sobreposto de forma semitransparente, permitindo conferir resultados ou anotar sem interromper o trabalho.
 - Pode ser aberto a qualquer momento com um toque na barra de status.
@@ -23,6 +25,7 @@ Um widget prático para cálculos e anotações enquanto outros apps permanecem 
 
 ### 4. Crie listas definidas pelo utilizador sem limite
 Você pode criar quantas **listas definidas pelo utilizador** quiser para organizar valores e unidades usadas com frequência.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - O plano gratuito limita a uma única lista definida pelo utilizador; no Pro você cria quantas precisar.
 - Alterne listas conforme o contexto e aumente significativamente sua produtividade.

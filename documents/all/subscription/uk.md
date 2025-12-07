@@ -9,6 +9,7 @@
 
 ### 2. Вільне керування історією змін файлів
 Працюйте з файлами спокійніше.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Кожне збереження автоматично фіксується в історії. (**Історія зберігається й у безплатному плані, тому після переходу на Pro одразу маєте доступ до попередніх версій.**)
 - У Файловому менеджері можна переглянути список історії та відновити будь-яку точку збереження.
@@ -16,6 +17,7 @@
 
 ### 3. Доступний Плаваючий віджет
 Зручний віджет для обчислень і нотаток, поки інші програми відкриті.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Відображається напівпрозоро поверх екрана, тож можна перевіряти результати чи робити нотатки без перерви.
 - Запускається будь-коли одним натисканням зі смуги стану.
@@ -23,6 +25,7 @@
 
 ### 4. Необмежена кількість користувацьких списків
 Можете створювати скільки завгодно **користувацьких списків**, щоб впорядковувати часто вживані значення та одиниці.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - У безплатному плані дозволений один користувацький список; у Pro обмеження немає.
 - Використовуйте різні списки під різні задачі, щоб суттєво підвищити ефективність.

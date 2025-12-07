@@ -9,6 +9,7 @@ Alla annonser i appen döljs, vilket ger en smidigare upplevelse.
 
 ### 2. Fri kontroll över filhistorik
 Du kan hantera dina filer med större trygghet.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Varje sparning registreras automatiskt i historiken. (**Historiken sparas även i gratisplanen, så efter Pro-uppgradering får du direkt tillgång till tidigare versioner.**)
 - I Filhanterare kan du se historiklistan och återställa valfri sparpunkt.
@@ -16,6 +17,7 @@ Du kan hantera dina filer med större trygghet.
 
 ### 3. Flytande widget tillgänglig
 En praktisk widget för beräkningar och anteckningar medan andra appar är öppna.
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Visas halvtransparent ovanpå skärmen, så du kan granska resultat eller anteckna utan avbrott.
 - Kan startas när som helst med ett tryck från statusfältet.
@@ -23,6 +25,7 @@ En praktisk widget för beräkningar och anteckningar medan andra appar är öpp
 
 ### 4. Skapa obegränsat med användardefinierade listor
 Du kan skapa hur många **användardefinierade listor** du vill för att organisera ofta använda värden och enheter.
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Gratisplanen begränsar till en användardefinierad lista; Pro ger obegränsat antal.
 - Växla listor efter behov och öka produktiviteten avsevärt.
