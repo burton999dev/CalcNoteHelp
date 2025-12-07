@@ -8,8 +8,8 @@ All in-app ads disappear, giving you a smoother experience.
 - Native ads in the side menu and settings are hidden, so you can reach the features you need faster.
 
 ### 2. Full control over file history
-<span style="font-size: 1.1em; vertical-align: middle;">Work on your files with greater peace of mind.</span>
-<a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="40" height="40" style="vertical-align: text-bottom; margin-left: 6px;"></a>
+Work on your files with greater peace of mind.
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - Every save is automatically recorded in the history. (**Even in the free plan the history is stored, so you can access past versions right after upgrading to Pro.**)
 - View the history from the File manager and restore any save point you like.
