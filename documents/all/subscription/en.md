@@ -10,7 +10,7 @@ All in-app ads disappear, giving you a smoother experience.
 ### 2. Full control over file history
 Work on your files with greater peace of mind.
 <a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank">
-    <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32">
+    <img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="48" height="48">
 </a>
 
 
