@@ -1,3 +1,6 @@
+## CalcNote Pro
+**Access to all features**
+
 ### No more ads anywhere
 All in-app ads disappear, giving you a smoother experience.
 
