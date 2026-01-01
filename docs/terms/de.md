@@ -5,6 +5,5 @@
 - Das Abonnement verlängert sich automatisch, sofern es nicht mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums gekündigt wird.
 - Die Zahlung wird Ihrem Google Play-Konto bei Kaufbestätigung belastet.
 - Sie können Ihr Abonnement jederzeit in den Einstellungen Ihres Google Play-Kontos verwalten oder kündigen.
-- Es gibt keine kostenlose Testversion. Teilzeiträume werden nicht erstattet.
 - Funktionen und Preise können sich ändern.
 - Weitere Details finden Sie in unseren Nutzungsbedingungen und der Datenschutzerklärung.

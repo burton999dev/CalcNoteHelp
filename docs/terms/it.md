@@ -5,6 +5,5 @@
 - L’abbonamento si rinnova automaticamente salvo annullamento almeno 24 ore prima della fine del periodo in corso.
 - Il pagamento verrà addebitato sul tuo account Google Play al momento della conferma dell’acquisto.
 - Puoi gestire o annullare l’abbonamento in qualsiasi momento dalle impostazioni del tuo account Google Play.
-- Non è previsto alcun periodo di prova gratuito. I periodi parziali non sono rimborsati.
 - Funzionalità e prezzi possono subire modifiche.
 - Per maggiori dettagli, consulta i nostri Termini di utilizzo e l’Informativa sulla privacy.
