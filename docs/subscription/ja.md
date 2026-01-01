@@ -1,0 +1,31 @@
+# CalcNote Pro
+
+### 1. 広告が一切表示されなくなります
+アプリ内のすべての広告が非表示になり、より快適な操作体験を得られます。
+
+- アプリ起動時の全画面広告（6時間に1回）がなくなり、起動後すぐに計算を始められます。
+- 各画面上部のバナー広告が消えるため、表示領域を広く活用できます。
+- サイドメニューや設定画面のネイティブ広告も非表示になり、目的の機能へスムーズにアクセスできます。
+
+### 2. ファイルの変更履歴を自由に管理
+作業中のファイルをより安心して扱えるようになります。
+<sub><a href="https://www.youtube.com/watch?v=M9TqYfH1bqo" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- ファイル保存のたびに変更履歴が自動保存されます。（**無料プランでも履歴は保存されているため、Pro加入後すぐに過去の履歴へアクセスできます。**）
+- ファイルマネージャから変更履歴を一覧表示し、任意のセーブポイントへリストアできます。
+- 誤って削除してしまったファイルも簡単に復元できます。
+
+### 3. フローティングウィジェットを利用可能に
+他のアプリを開いたまま計算やメモができる、便利なウィジェットが使えるようになります。
+<sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- 画面上に半透明で重ねて表示でき、作業を中断せずに計算結果を確認したりメモが取れます。
+- ステータスバーからいつでもワンタップで起動できます。
+- 例えばブラウザに表示されている商品の金額を、アプリを切り替えることなく控えることができます。
+
+### 4. ユーザー定義リストを制限なく作成可能に
+よく使う値や単位をまとめて管理できる**ユーザー定義リスト**を、自由にいくつでも作成できるようになります。
+<sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- 無料プランでは1つまでに制限されているユーザー定義リストを、無制限に作成できます。
+- 複数の用途に合わせてリストを使い分けられるため、作業効率が大幅に向上します。
