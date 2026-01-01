@@ -27,9 +27,9 @@ Um widget prático para cálculos e anotações enquanto outros apps permanecem 
 - Pode ser aberto a qualquer momento com um toque na barra de status.
 - Por exemplo, você registra o preço exibido no navegador sem trocar de aplicativo.
 
-### 4. Crie listas definidas pelo utilizador sem limite
-Você pode criar quantas **listas definidas pelo utilizador** quiser para organizar valores e unidades usadas com frequência.
+### 4. Crie listas definidas pelo usuário sem limite
+Você pode criar quantas **listas definidas pelo usuário** quiser para organizar valores e unidades usadas com frequência.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
-- O plano gratuito limita a uma única lista definida pelo utilizador; no Pro você cria quantas precisar.
+- O plano gratuito limita a uma única lista definida pelo usuário; no Pro você cria quantas precisar.
 - Alterne listas conforme o contexto e aumente significativamente sua produtividade.
