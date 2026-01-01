@@ -1,3 +1,7 @@
+---
+title: Termeni de abonament
+---
+
 ### Prin abonare, sunteți de acord cu următorii termeni:
 
 - Acest abonament oferă o experiență fără reclame și acces la funcții premium.

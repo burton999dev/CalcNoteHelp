@@ -1,3 +1,7 @@
+---
+title: Tilausehdot
+---
+
 ### Tilaamalla hyväksyt seuraavat ehdot:
 
 - Tämä tilaus tarjoaa mainoksettoman käyttökokemuksen ja pääsyn premium-ominaisuuksiin.

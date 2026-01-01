@@ -1,3 +1,7 @@
+---
+title: Abonnementsvoorwaarden
+---
+
 ### Door je te abonneren ga je akkoord met de volgende voorwaarden:
 
 - Dit abonnement biedt een advertentievrije ervaring en toegang tot premiumfuncties.

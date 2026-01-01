@@ -1,3 +1,7 @@
+---
+title: Termos de assinatura
+---
+
 ### Ao assinar, você concorda com os seguintes termos:
 
 - Esta assinatura oferece uma experiência sem anúncios e acesso a recursos premium.

@@ -1,3 +1,7 @@
+---
+title: Subscription Terms
+---
+
 ### By subscribing, you agree to the following terms:  
 
 - This subscription offers an ad-free experience and access to premium features.  

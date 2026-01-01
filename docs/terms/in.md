@@ -1,3 +1,7 @@
+---
+title: Ketentuan Berlangganan
+---
+
 ### Dengan berlangganan, Anda menyetujui ketentuan berikut:
 
 - Langganan ini menawarkan pengalaman tanpa iklan dan akses ke fitur premium.

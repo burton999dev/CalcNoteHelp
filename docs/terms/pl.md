@@ -1,3 +1,7 @@
+---
+title: Warunki subskrypcji
+---
+
 ### Subskrybując, akceptujesz następujące warunki:
 
 - Ta subskrypcja oferuje korzystanie bez reklam i dostęp do funkcji premium.

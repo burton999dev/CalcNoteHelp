@@ -1,3 +1,7 @@
+---
+title: Prenumerationsvillkor
+---
+
 ### Genom att prenumerera godkänner du följande villkor:
 
 - Denna prenumeration erbjuder en annonsfri upplevelse och tillgång till premiumfunktioner.

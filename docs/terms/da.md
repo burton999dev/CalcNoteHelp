@@ -1,3 +1,7 @@
+---
+title: Abonnementsvilkår
+---
+
 ### Ved at abonnere accepterer du følgende vilkår:
 
 - Dette abonnement giver en reklamefri oplevelse og adgang til premium-funktioner.

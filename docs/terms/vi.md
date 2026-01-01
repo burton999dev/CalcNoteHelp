@@ -1,3 +1,7 @@
+---
+title: Điều khoản đăng ký
+---
+
 ### Khi đăng ký, bạn đồng ý với các điều khoản sau:
 
 - Gói đăng ký này cung cấp trải nghiệm không quảng cáo và quyền truy cập các tính năng cao cấp.

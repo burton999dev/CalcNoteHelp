@@ -1,3 +1,7 @@
+---
+title: Terma Langganan
+---
+
 ### Dengan melanggan, anda bersetuju dengan terma berikut:
 
 - Langganan ini menawarkan pengalaman tanpa iklan dan akses kepada ciri premium.

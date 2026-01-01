@@ -1,3 +1,7 @@
+---
+title: Términos de suscripción
+---
+
 ### Al suscribirte, aceptas los siguientes términos:
 
 - Esta suscripción ofrece una experiencia sin anuncios y acceso a funciones premium.

@@ -1,3 +1,7 @@
+---
+title: Abonnementbedingungen
+---
+
 ### Mit dem Abonnement stimmen Sie den folgenden Bedingungen zu:
 
 - Dieses Abonnement bietet ein werbefreies Erlebnis und Zugriff auf Premium-Funktionen.

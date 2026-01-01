@@ -1,3 +1,7 @@
+---
+title: Conditions d'abonnement
+---
+
 ### En vous abonnant, vous acceptez les conditions suivantes :
 
 - Cet abonnement offre une expérience sans publicité et l’accès aux fonctionnalités premium.

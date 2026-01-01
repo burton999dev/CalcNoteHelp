@@ -1,3 +1,7 @@
+---
+title: Abonelik Şartları
+---
+
 ### Abone olarak aşağıdaki şartları kabul etmiş olursunuz:
 
 - Bu abonelik reklamsız bir deneyim ve premium özelliklere erişim sunar.

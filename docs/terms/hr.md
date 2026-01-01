@@ -1,3 +1,7 @@
+---
+title: Uvjeti pretplate
+---
+
 ### Pretplatom prihvaćate sljedeće uvjete:
 
 - Ova pretplata nudi iskustvo bez oglasa i pristup premium značajkama.

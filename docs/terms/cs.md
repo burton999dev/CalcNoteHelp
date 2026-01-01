@@ -1,3 +1,7 @@
+---
+title: Podmínky předplatného
+---
+
 ### Předplatným souhlasíte s následujícími podmínkami:
 
 - Toto předplatné nabízí prostředí bez reklam a přístup k prémiovým funkcím.

@@ -1,3 +1,7 @@
+---
+title: Termini di abbonamento
+---
+
 ### Abbonandoti, accetti i seguenti termini:
 
 - Questo abbonamento offre un’esperienza senza pubblicità e l’accesso alle funzionalità premium.

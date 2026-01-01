@@ -1,3 +1,7 @@
+---
+title: Előfizetési feltételek
+---
+
 ### Az előfizetéssel Ön elfogadja az alábbi feltételeket:
 
 - Ez az előfizetés reklámmentes élményt és hozzáférést biztosít a prémium funkciókhoz.
