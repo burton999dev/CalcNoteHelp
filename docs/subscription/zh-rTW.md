@@ -27,7 +27,14 @@ title: CalcNote Pro
 - 可隨時從狀態列一鍵啟動。
 - 例如，不必切換應用即可記下瀏覽器中顯示的商品價格。
 
-### 4. 可無限制建立使用者定義清單
+### 4. 使用資料夾管理檔案
+可依用途將持續增加的計算筆記整理得更有條理。
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- 可依專案或主題建立資料夾，集中管理相關檔案。
+- 即使檔案很多，也能透過資料夾管理快速找到需要的計算筆記。
+
+### 5. 可無限制建立使用者定義清單
 你可以自由建立任意數量的**使用者定義清單**，集中管理常用的數值與單位。
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

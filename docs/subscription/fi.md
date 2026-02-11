@@ -27,7 +27,14 @@ Kätevä widget laskuihin ja muistiinpanoihin muiden sovellusten pysyessä auki.
 - Käynnistyy milloin tahansa yhdellä napautuksella tilapalkista.
 - Esimerkiksi selaimessa näkyvän tuotteen hinnan voi kirjata ylös vaihtamatta sovellusta.
 
-### 4. Rajoittamaton määrä käyttäjän määrittämiä listoja
+### 4. Hallitse tiedostoja kansioilla
+Järjestä kasvava määrä laskentamuistiinpanoja selkeästi käyttötarkoituksen mukaan.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Luo kansioita projektin tai aiheen mukaan ja hallitse liittyviä tiedostoja yhdessä.
+- Vaikka tiedostoja olisi paljon, kansioihin perustuva hallinta auttaa löytämään tarvitsemasi muistiinpanon nopeasti.
+
+### 5. Rajoittamaton määrä käyttäjän määrittämiä listoja
 Voit luoda vapaasti niin monta **käyttäjän määrittämää listaa** kuin tarvitset usein käytettyjen arvojen ja yksiköiden kokoamiseen.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

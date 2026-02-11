@@ -1,3 +1,7 @@
+---
+title: CalcNote Pro
+---
+
 # CalcNote Pro
 
 ### 1. Mainokset katoavat kokonaan

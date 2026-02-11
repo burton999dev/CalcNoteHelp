@@ -27,7 +27,14 @@ En praktisk widget for beregninger og notater mens andre apper forblir åpne.
 - Start den når som helst med ett trykk fra statuslinjen.
 - Du kan for eksempel notere priser som vises i nettleseren uten å bytte app.
 
-### 4. Ubegrenset antall brukerdefinerte lister
+### 4. Organiser filer med mapper
+Hold de stadig flere beregningsnotatene dine ryddig organisert etter formål.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Opprett mapper per prosjekt eller tema, og administrer relaterte filer samlet.
+- Selv med mange filer gjør mappeorganisering det raskt å finne notatet du trenger.
+
+### 5. Ubegrenset antall brukerdefinerte lister
 Du kan opprette så mange **brukerdefinerte lister** du vil for å samle ofte brukte verdier og enheter.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -27,7 +27,14 @@ Un widget util pentru calcule și notițe, în timp ce celelalte aplicații răm
 - Poate fi lansat oricând, printr-o singură atingere, din bara de stare.
 - De exemplu, poți nota prețurile din browser fără să schimbi aplicația.
 
-### 4. Creează liste definite de utilizator nelimitate
+### 4. Organizează fișierele cu foldere
+Păstrează clar organizate după scop notițele tale de calcul, care se tot adună.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Creează foldere pe proiecte sau teme și gestionează împreună fișierele asociate.
+- Chiar și cu multe fișiere, organizarea pe foldere te ajută să găsești rapid notița de care ai nevoie.
+
+### 5. Creează liste definite de utilizator nelimitate
 Poți crea oricâte **liste definite de utilizator** vrei pentru a organiza valorile și unitățile folosite des.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -27,7 +27,14 @@ Un widget pratico per calcoli e appunti mentre le altre app restano aperte.
 - Avvialo in qualsiasi momento con un tocco dalla barra di stato.
 - Per esempio, puoi annotare il prezzo mostrato nel browser senza cambiare app.
 
-### 4. Crea infinite liste definite dall'utente
+### 4. Organizza i file con le cartelle
+Mantieni ordinate per utilizzo le note di calcolo che aumentano nel tempo.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Crea cartelle per progetto o tema e gestisci insieme i file correlati.
+- Anche con molti file, l’organizzazione in cartelle ti aiuta a trovare subito la nota necessaria.
+
+### 5. Crea infinite liste definite dall'utente
 Puoi creare quante **liste definite dall'utente** desideri per organizzare valori e unità usati spesso.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -27,7 +27,14 @@ title: CalcNote Pro
 - Запускається будь-коли одним натисканням зі смуги стану.
 - Наприклад, можна занотувати ціну з браузера, не перемикаючи застосунки.
 
-### 4. Необмежена кількість користувацьких списків
+### 4. Керуйте файлами за допомогою папок
+Охайно впорядковуйте зростаючі нотатки з розрахунками за призначенням.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Створюйте папки за проєктами або темами та зберігайте пов’язані файли разом.
+- Навіть за великої кількості файлів структура папок допоможе швидко знайти потрібну нотатку.
+
+### 5. Необмежена кількість користувацьких списків
 Можете створювати скільки завгодно **користувацьких списків**, щоб впорядковувати часто вживані значення та одиниці.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

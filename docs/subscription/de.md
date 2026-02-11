@@ -27,7 +27,14 @@ Ein praktisches Widget zum Rechnen und Notieren, während andere Apps geöffnet 
 - Lässt sich jederzeit mit einem Tipp aus der Statusleiste starten.
 - So können Sie z. B. Preise aus dem Browser notieren, ohne die App zu wechseln.
 
-### 4. Unbegrenzt viele nutzerdefinierte Listen erstellen
+### 4. Dateien in Ordnern organisieren
+Halten Sie Ihre wachsenden Rechennotizen nach Zweck übersichtlich geordnet.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Erstellen Sie Ordner nach Projekt oder Thema und verwalten Sie zusammengehörige Dateien gemeinsam.
+- Auch bei vielen Dateien finden Sie dank Ordnern schnell die benötigte Rechennotiz.
+
+### 5. Unbegrenzt viele nutzerdefinierte Listen erstellen
 Sie können beliebig viele **nutzerdefinierte Listen** anlegen, um häufig genutzte Werte und Einheiten zu sammeln.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

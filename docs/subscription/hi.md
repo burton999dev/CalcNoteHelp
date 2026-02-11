@@ -27,7 +27,14 @@ title: CalcNote Pro
 - स्टेटस बार से कभी भी एक टैप में लॉन्च कर सकते हैं।
 - उदाहरण के लिए, ब्राउज़र में दिख रही उत्पाद की कीमत ऐप बदले बिना लिख सकते हैं।
 
-### 4. असीमित प्रयोक्‍ता-परिभाषित सूचियाँ बनाएँ
+### 4. फ़ाइलों को फ़ोल्डर में व्यवस्थित करें
+बढ़ती हुई गणना नोट्स को उपयोग के अनुसार साफ-सुथरे ढंग से व्यवस्थित रखें।
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- प्रोजेक्ट या विषय के अनुसार फ़ोल्डर बनाएं और संबंधित फ़ाइलों को साथ में प्रबंधित करें।
+- फ़ाइलें बहुत होने पर भी, फ़ोल्डर आधारित व्यवस्था से ज़रूरी नोट जल्दी मिल जाता है।
+
+### 5. असीमित प्रयोक्‍ता-परिभाषित सूचियाँ बनाएँ
 अक्सर उपयोग होने वाले मान और इकाइयों को व्यवस्थित करने के लिए आप जितनी चाहें **प्रयोक्‍ता-परिभाषित सूचियाँ** बना सकते हैं।
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

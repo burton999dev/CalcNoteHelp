@@ -27,7 +27,14 @@ title: CalcNote Pro
 - 상태 표시줄에서 언제든 한 번 탭으로 실행할 수 있습니다.
 - 예를 들어, 브라우저에 표시된 상품 가격을 앱 전환 없이 바로 적어둘 수 있습니다.
 
-### 4. 사용자 정의 목록을 무제한 생성
+### 4. 폴더로 파일 관리
+늘어나는 계산 메모를 용도별로 깔끔하게 정리할 수 있습니다.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- 프로젝트별, 주제별로 폴더를 만들고 관련 파일을 함께 관리할 수 있습니다.
+- 파일이 많아져도 폴더 단위로 관리하면 필요한 계산 메모를 빠르게 찾을 수 있습니다.
+
+### 5. 사용자 정의 목록을 무제한 생성
 자주 쓰는 값과 단위를 정리할 **사용자 정의 목록**을 원하는 만큼 만들 수 있습니다.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

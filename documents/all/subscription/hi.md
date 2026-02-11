@@ -1,3 +1,7 @@
+---
+title: CalcNote Pro
+---
+
 # CalcNote Pro
 
 ### 1. अब कोई भी विज्ञापन नहीं दिखेगा
