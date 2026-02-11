@@ -23,16 +23,16 @@ Um widget prático para cálculos e anotações enquanto outros apps permanecem 
 - Pode ser aberto a qualquer momento com um toque na barra de status.
 - Por exemplo, você registra o preço exibido no navegador sem trocar de aplicativo.
 
-### 4. Organize ficheiros com pastas
-Mantenha as suas notas de cálculo, que estão sempre a aumentar, bem organizadas por finalidade.
+### 4. Organize arquivos com pastas
+Mantenha suas notas de cálculo, que continuam aumentando, bem organizadas por finalidade.
 <sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
-- Crie pastas por projeto ou tema e gira em conjunto os ficheiros relacionados.
-- Mesmo com muitos ficheiros, a organização por pastas ajuda-o a encontrar rapidamente a nota necessária.
+- Crie pastas por projeto ou tema e gerencie juntos os arquivos relacionados.
+- Mesmo com muitos arquivos, a organização por pastas ajuda você a encontrar rapidamente a nota necessária.
 
-### 5. Crie listas definidas pelo utilizador sem limite
-Você pode criar quantas **listas definidas pelo utilizador** quiser para organizar valores e unidades usadas com frequência.
+### 5. Crie listas definidas pelo usuário sem limite
+Você pode criar quantas **listas definidas pelo usuário** quiser para organizar valores e unidades usadas com frequência.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
-- O plano gratuito limita a uma única lista definida pelo utilizador; no Pro você cria quantas precisar.
+- O plano gratuito limita a uma única lista definida pelo usuário; no Pro você cria quantas precisar.
 - Alterne listas conforme o contexto e aumente significativamente sua produtividade.

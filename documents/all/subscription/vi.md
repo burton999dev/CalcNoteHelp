@@ -19,7 +19,7 @@ Xử lý các tệp đang làm việc một cách yên tâm hơn.
 Công cụ tiện lợi để tính toán và ghi chú khi các ứng dụng khác vẫn mở.
 <sub><a href="https://www.youtube.com/watch?v=paxUzu6x7sE" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
-- Hiển thị đè bán trong suốt trên màn hình, cho phép xem kết quả hoặc ghi chú mà không gián đoạn công việc.
+- Hiển thị dạng lớp phủ bán trong suốt trên màn hình, cho phép xem kết quả hoặc ghi chú mà không gián đoạn công việc.
 - Có thể khởi chạy bất cứ lúc nào với một chạm từ thanh trạng thái.
 - Ví dụ, bạn có thể ghi lại giá hiển thị trên trình duyệt mà không cần chuyển ứng dụng.
 
