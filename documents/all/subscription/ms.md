@@ -23,7 +23,14 @@ Widget berguna untuk pengiraan dan catatan sambil aplikasi lain kekal dibuka.
 - Boleh dilancar bila-bila masa dengan satu ketikan dari bar status.
 - Contohnya, anda boleh mencatat harga yang tertera di pelayar tanpa menukar aplikasi.
 
-### 4. Cipta Senarai Ditakrifkan Pengguna tanpa had
+### 4. Urus fail dengan folder
+Susun nota pengiraan yang semakin bertambah dengan kemas mengikut kegunaan.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Cipta folder mengikut projek atau topik, dan urus fail berkaitan bersama-sama.
+- Walaupun fail banyak, pengurusan berasaskan folder membantu anda mencari nota yang diperlukan dengan cepat.
+
+### 5. Cipta Senarai Ditakrifkan Pengguna tanpa had
 Anda boleh membuat seberapa banyak **Senarai Ditakrifkan Pengguna** yang diperlukan untuk mengurus nilai dan unit yang kerap digunakan.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

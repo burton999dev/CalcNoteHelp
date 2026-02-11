@@ -23,7 +23,14 @@ Praktični widget za računanje i bilješke dok su druge aplikacije otvorene.
 - Može se pokrenuti u svakom trenutku jednim dodirom sa statusne trake.
 - Primjerice, možete zabilježiti cijene prikazane u pregledniku bez prebacivanja aplikacija.
 
-### 4. Neograničeno kreiranje korisnički definiranih popisa
+### 4. Upravljajte datotekama pomoću mapa
+Sve veći broj bilješki izračuna uredno organizirajte prema namjeni.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Stvarajte mape po projektima ili temama i zajedno upravljajte povezanim datotekama.
+- Čak i uz mnogo datoteka, organizacija po mapama pomaže vam da brzo pronađete potrebnu bilješku.
+
+### 5. Neograničeno kreiranje korisnički definiranih popisa
 Možete stvarati onoliko **korisnički definiranih popisa** koliko želite za organiziranje često korištenih vrijednosti i jedinica.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

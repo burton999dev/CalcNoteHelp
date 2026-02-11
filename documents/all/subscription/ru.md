@@ -23,7 +23,14 @@
 - Запускается в любой момент одним нажатием из строки состояния.
 - Например, можно записать цену из браузера, не переключаясь между приложениями.
 
-### 4. Неограниченное число пользовательских списков
+### 4. Управляйте файлами с помощью папок
+Упорядочивайте растущие заметки с расчётами по назначению.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Создавайте папки по проектам или темам и храните связанные файлы вместе.
+- Даже при большом количестве файлов структура по папкам помогает быстро найти нужную заметку.
+
+### 5. Неограниченное число пользовательских списков
 Вы можете создать сколько угодно **пользовательских списков**, чтобы упорядочить часто используемые значения и единицы.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

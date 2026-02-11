@@ -23,7 +23,14 @@ Diğer uygulamalar açıkken de hesaplama ve not alma imkânı tanıyan kullanı
 - Durum çubuğundan tek dokunuşla her an başlatılabilir.
 - Örneğin, tarayıcıdaki ürün fiyatını uygulama değiştirmeden not edebilirsiniz.
 
-### 4. Sınırsız kullanıcı tanımlı listeler oluşturun
+### 4. Dosyaları klasörlerle yönetin
+Sürekli artan hesap notlarınızı kullanım amacına göre düzenli tutun.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Proje veya konu bazında klasörler oluşturun ve ilgili dosyaları birlikte yönetin.
+- Dosya sayısı çok arttığında bile klasör düzeni, ihtiyacınız olan nota hızlıca ulaşmanızı sağlar.
+
+### 5. Sınırsız kullanıcı tanımlı listeler oluşturun
 Sık kullandığınız değer ve birimleri düzenlemek için dilediğiniz kadar **kullanıcı tanımlı liste** oluşturabilirsiniz.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

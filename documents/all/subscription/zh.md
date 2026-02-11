@@ -23,7 +23,14 @@
 - 可随时从状态栏一键启动。
 - 例如，无需切换应用就能记录浏览器中显示的商品价格。
 
-### 4. 可无限创建用户定义的列表
+### 4. 使用文件夹管理文件
+可按用途将不断增加的计算笔记整理得井井有条。
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- 可按项目或主题创建文件夹，并集中管理相关文件。
+- 即使文件很多，也能通过文件夹管理快速找到需要的计算笔记。
+
+### 5. 可无限创建用户定义的列表
 可以自由创建任意数量的**用户定义的列表**，集中管理常用数值和单位。
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

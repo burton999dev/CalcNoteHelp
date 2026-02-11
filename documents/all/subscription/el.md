@@ -23,7 +23,14 @@
 - Εκκινεί ανά πάσα στιγμή με ένα πάτημα από τη γραμμή κατάστασης.
 - Για παράδειγμα, μπορείτε να σημειώσετε τιμές από τον browser χωρίς να αλλάξετε εφαρμογή.
 
-### 4. Δημιουργήστε απεριόριστες λίστες οριζόμενες από το χρήστη
+### 4. Οργανώστε αρχεία με φακέλους
+Κρατήστε τις συνεχώς αυξανόμενες σημειώσεις υπολογισμών τακτοποιημένες ανά σκοπό.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Δημιουργήστε φακέλους ανά έργο ή θέμα και διαχειριστείτε μαζί τα σχετικά αρχεία.
+- Ακόμη και με πολλά αρχεία, η οργάνωση σε φακέλους σάς βοηθά να βρίσκετε γρήγορα τη σημείωση που χρειάζεστε.
+
+### 5. Δημιουργήστε απεριόριστες λίστες οριζόμενες από το χρήστη
 Μπορείτε να δημιουργείτε όσες **λίστες οριζόμενες από το χρήστη** θέλετε για να οργανώνετε συχνά χρησιμοποιούμενες τιμές και μονάδες.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

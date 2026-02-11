@@ -23,7 +23,14 @@ Praktická miniaplikace pro výpočty a poznámky, aniž byste zavírali jiné a
 - Lze ji kdykoli spustit jedním klepnutím ze stavového řádku.
 - Například si můžete uložit cenu zobrazenou v prohlížeči, aniž byste přepínali aplikace.
 
-### 4. Neomezený počet uživatelských seznamů
+### 4. Spravujte soubory pomocí složek
+Udržujte rostoucí množství výpočetních poznámek přehledně uspořádané podle účelu.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Vytvářejte složky podle projektů nebo témat a spravujte související soubory pohromadě.
+- I při velkém počtu souborů vám organizace do složek pomůže rychle najít potřebnou poznámku.
+
+### 5. Neomezený počet uživatelských seznamů
 Můžete si vytvořit libovolný počet **uživatelských seznamů** pro organizaci často používaných hodnot a jednotek.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -23,7 +23,14 @@ Praktyczny widżet do obliczeń i notatek przy jednocześnie otwartych innych ap
 - Można go uruchomić w każdej chwili jednym stuknięciem z paska stanu.
 - Na przykład zapiszesz cenę z przeglądarki bez przełączania aplikacji.
 
-### 4. Nieograniczona liczba list użytkownika
+### 4. Zarządzaj plikami za pomocą folderów
+Uporządkuj rosnącą liczbę notatek obliczeń według zastosowania.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Twórz foldery według projektów lub tematów i zarządzaj powiązanymi plikami razem.
+- Nawet przy dużej liczbie plików organizacja folderami pozwala szybko znaleźć potrzebną notatkę.
+
+### 5. Nieograniczona liczba list użytkownika
 Możesz tworzyć dowolną liczbę **list użytkownika**, by porządkować często używane wartości i jednostki.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

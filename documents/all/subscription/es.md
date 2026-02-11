@@ -23,7 +23,14 @@ Un widget práctico para cálculos y notas mientras otras apps siguen abiertas.
 - Se lanza en cualquier momento con un solo toque desde la barra de estado.
 - Por ejemplo, puedes apuntar el precio que ves en el navegador sin cambiar de aplicación.
 
-### 4. Crea listas definidas por el usuario sin límite
+### 4. Organiza archivos con carpetas
+Mantén tus notas de cálculo en crecimiento bien ordenadas según su uso.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Crea carpetas por proyecto o tema y gestiona juntos los archivos relacionados.
+- Incluso con muchos archivos, la organización por carpetas te permite encontrar rápidamente la nota que necesitas.
+
+### 5. Crea listas definidas por el usuario sin límite
 Puedes crear tantas **listas definidas por el usuario** como quieras para organizar valores y unidades frecuentes.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -23,7 +23,14 @@ Praktický widget na výpočty a poznámky, kým máte otvorené iné aplikácie
 - Spustíte ho kedykoľvek jedným ťuknutím zo stavového riadku.
 - Napríklad si zapíšete cenu zobrazenú v prehliadači bez prepínania aplikácií.
 
-### 4. Neobmedzený počet používateľských zoznamov
+### 4. Spravujte súbory pomocou priečinkov
+Udržte rastúci počet výpočtových poznámok prehľadne usporiadaný podľa účelu.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Vytvárajte priečinky podľa projektov alebo tém a spravujte súvisiace súbory spolu.
+- Aj pri veľkom počte súborov vám organizácia do priečinkov pomôže rýchlo nájsť potrebnú poznámku.
+
+### 5. Neobmedzený počet používateľských zoznamov
 Môžete vytvoriť ľubovoľný počet **používateľských zoznamov** na usporiadanie často používaných hodnôt a jednotiek.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -23,7 +23,14 @@ Widget praktis untuk menghitung dan mencatat tanpa menutup aplikasi lain.
 - Dapat diluncurkan kapan saja dengan satu ketukan dari bilah status.
 - Misalnya, Anda bisa mencatat harga yang muncul di browser tanpa ganti aplikasi.
 
-### 4. Buat Daftar pengguna tanpa batas
+### 4. Kelola file dengan folder
+Rapikan catatan perhitungan yang terus bertambah berdasarkan kebutuhan.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Buat folder per proyek atau topik, lalu kelola file terkait secara bersama.
+- Meski file sangat banyak, pengelolaan berbasis folder membantu Anda cepat menemukan catatan yang diperlukan.
+
+### 5. Buat Daftar pengguna tanpa batas
 Anda bebas membuat sebanyak mungkin **Daftar pengguna** untuk merapikan nilai dan satuan yang sering dipakai.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

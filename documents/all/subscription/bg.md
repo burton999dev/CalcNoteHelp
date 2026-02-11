@@ -23,7 +23,14 @@
 - Стартира се по всяко време с едно докосване от лентата на състоянието.
 - Например можете да запишете цени, показани в браузъра, без да превключвате приложения.
 
-### 4. Създавайте неограничени Потребителски списъци
+### 4. Организирайте файловете с папки
+Подреждайте нарастващите си бележки с изчисления по предназначение.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Създавайте папки по проект или тема и управлявайте свързаните файлове заедно.
+- Дори при много файлове, организацията с папки ви помага бързо да намирате нужната бележка.
+
+### 5. Създавайте неограничени Потребителски списъци
 Можете свободно да създавате колкото желаете **Потребителски списъци**, за да подреждате често използвани стойности и мерни единици.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

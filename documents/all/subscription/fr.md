@@ -23,7 +23,14 @@ Un widget pratique pour calculer et prendre des notes tout en laissant les autre
 - Lancez-le à tout moment en un geste depuis la barre d’état.
 - Par exemple, notez le prix vu dans le navigateur sans changer d’application.
 
-### 4. Créez un nombre illimité de listes définies par l'utilisateur
+### 4. Organisez vos fichiers avec des dossiers
+Classez clairement vos notes de calcul qui s’accumulent, selon leur usage.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Créez des dossiers par projet ou par thème pour regrouper les fichiers liés.
+- Même avec beaucoup de fichiers, l’organisation par dossiers vous aide à trouver rapidement la note voulue.
+
+### 5. Créez un nombre illimité de listes définies par l'utilisateur
 Vous pouvez créer autant de **listes définies par l'utilisateur** que vous voulez pour regrouper vos valeurs et unités fréquentes.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

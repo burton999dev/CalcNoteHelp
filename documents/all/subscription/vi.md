@@ -23,7 +23,14 @@ Công cụ tiện lợi để tính toán và ghi chú khi các ứng dụng kh�
 - Có thể khởi chạy bất cứ lúc nào với một chạm từ thanh trạng thái.
 - Ví dụ, bạn có thể ghi lại giá hiển thị trên trình duyệt mà không cần chuyển ứng dụng.
 
-### 4. Tạo Danh sách do người dùng xác định không giới hạn
+### 4. Quản lý tệp bằng thư mục
+Sắp xếp gọn gàng các ghi chú tính toán ngày càng nhiều theo từng mục đích sử dụng.
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- Tạo thư mục theo dự án hoặc chủ đề và quản lý các tệp liên quan cùng nhau.
+- Ngay cả khi có nhiều tệp, cách tổ chức bằng thư mục vẫn giúp bạn nhanh chóng tìm được ghi chú cần thiết.
+
+### 5. Tạo Danh sách do người dùng xác định không giới hạn
 Bạn có thể tạo bao nhiêu **Danh sách do người dùng xác định** tùy ý để sắp xếp các giá trị và đơn vị dùng thường xuyên.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
