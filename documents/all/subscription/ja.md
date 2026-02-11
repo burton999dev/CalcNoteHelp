@@ -23,9 +23,17 @@
 - ステータスバーからいつでもワンタップで起動できます。
 - 例えばブラウザに表示されている商品の金額を、アプリを切り替えることなく控えることができます。
 
-### 4. ユーザー定義リストを制限なく作成可能に
+### 4. ファイルをフォルダで管理
+増え続ける計算メモを、用途別にすっきり整理できます。
+<sub><a href="https://www.youtube.com/watch?v=gi9GtEi-RB4" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
+
+- プロジェクト別、テーマ別にフォルダを作成し、関連するファイルをまとめて管理できます。
+- ファイル数が多くなっても、フォルダ単位で管理できるため、必要な計算メモに素早くアクセスできます。
+
+### 5. ユーザー定義リストを制限なく作成可能に
 よく使う値や単位をまとめて管理できる**ユーザー定義リスト**を、自由にいくつでも作成できるようになります。
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
 - 無料プランでは1つまでに制限されているユーザー定義リストを、無制限に作成できます。
 - 複数の用途に合わせてリストを使い分けられるため、作業効率が大幅に向上します。
+
