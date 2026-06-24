@@ -34,7 +34,13 @@ title: CalcNote Pro
 - 可按项目或主题创建文件夹，并集中管理相关文件。
 - 即使文件很多，也能通过文件夹管理快速找到需要的计算笔记。
 
-### 5. 可无限创建用户定义的列表
+### 5. 使用密码增强应用安全性
+可在应用启动时设置密码锁，以增强安全性。
+
+- 当你临时将设备借给他人时，可降低文件被误编辑的风险。
+- 如果每次输入密码不方便，可以使用设备支持的生物识别验证。
+
+### 6. 可无限创建用户定义的列表
 可以自由创建任意数量的**用户定义的列表**，集中管理常用数值和单位。
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

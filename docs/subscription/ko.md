@@ -34,7 +34,13 @@ title: CalcNote Pro
 - 프로젝트별, 주제별로 폴더를 만들고 관련 파일을 함께 관리할 수 있습니다.
 - 파일이 많아져도 폴더 단위로 관리하면 필요한 계산 메모를 빠르게 찾을 수 있습니다.
 
-### 5. 사용자 정의 목록을 무제한 생성
+### 5. 패스코드로 앱 보안 강화
+앱을 시작할 때 패스코드 잠금을 설정해 보안을 강화할 수 있습니다.
+
+- 기기를 잠시 다른 사람에게 빌려줄 때 파일이 실수로 편집될 위험을 줄일 수 있습니다.
+- 매번 패스코드를 입력하는 것이 번거롭다면 기기에서 지원하는 생체 인증을 사용할 수 있습니다.
+
+### 6. 사용자 정의 목록을 무제한 생성
 자주 쓰는 값과 단위를 정리할 **사용자 정의 목록**을 원하는 만큼 만들 수 있습니다.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -34,7 +34,13 @@ Keep your growing calculation notes neatly organized by purpose.
 - Create folders by project or topic and manage related files together.
 - Even with many files, folder-based organization helps you quickly find the calculation note you need.
 
-### 5. Create unlimited User-defined Lists
+### 5. Strengthen app security with a passcode
+Set a passcode lock when the app starts to strengthen security.
+
+- Reduce the risk of accidental file edits when you temporarily lend your device to someone.
+- If entering a passcode every time feels inconvenient, you can use biometric authentication supported by your device.
+
+### 6. Create unlimited User-defined Lists
 You can create as many **User-defined Lists** as you like to organize frequently used values and units.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

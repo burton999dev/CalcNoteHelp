@@ -34,7 +34,13 @@ title: CalcNote Pro
 - プロジェクト別、テーマ別にフォルダを作成し、関連するファイルをまとめて管理できます。
 - ファイル数が多くなっても、フォルダ単位で管理できるため、必要な計算メモに素早くアクセスできます。
 
-### 5. ユーザー定義リストを制限なく作成可能に
+### 5. パスコードでアプリのセキュリティを強化
+アプリの起動時にパスコードロックを設定し、セキュリティを強化できます。
+
+- 端末を一時的に貸す場面などで、誤ってファイルを編集されてしまうリスクを減らせます。
+- 毎回パスコードを入力するのが面倒な場合は、端末が対応している生体認証を利用できます。
+
+### 6. ユーザー定義リストを制限なく作成可能に
 よく使う値や単位をまとめて管理できる**ユーザー定義リスト**を、自由にいくつでも作成できるようになります。
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

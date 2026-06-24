@@ -34,7 +34,13 @@ Mantieni ordinate per utilizzo le note di calcolo che aumentano nel tempo.
 - Crea cartelle per progetto o tema e gestisci insieme i file correlati.
 - Anche con molti file, l’organizzazione in cartelle ti aiuta a trovare subito la nota necessaria.
 
-### 5. Crea infinite liste definite dall'utente
+### 5. Rafforza la sicurezza dell'app con un codice
+Imposta un blocco con codice all'avvio dell'app per rafforzare la sicurezza.
+
+- Riduci il rischio che i file vengano modificati per errore quando presti temporaneamente il dispositivo.
+- Se inserire il codice ogni volta è scomodo, puoi usare l'autenticazione biometrica supportata dal dispositivo.
+
+### 6. Crea infinite liste definite dall'utente
 Puoi creare quante **liste definite dall'utente** desideri per organizzare valori e unità usati spesso.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

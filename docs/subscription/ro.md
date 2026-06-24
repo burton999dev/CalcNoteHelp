@@ -34,7 +34,13 @@ Păstrează clar organizate după scop notițele tale de calcul, care se tot adu
 - Creează foldere pe proiecte sau teme și gestionează împreună fișierele asociate.
 - Chiar și cu multe fișiere, organizarea pe foldere te ajută să găsești rapid notița de care ai nevoie.
 
-### 5. Creează liste definite de utilizator nelimitate
+### 5. Întărește securitatea aplicației cu un cod de acces
+Setează o blocare cu cod de acces la pornirea aplicației pentru a întări securitatea.
+
+- Reduci riscul ca fișierele să fie editate din greșeală atunci când împrumuți temporar dispozitivul.
+- Dacă introducerea codului de acces de fiecare dată este incomodă, poți folosi autentificarea biometrică acceptată de dispozitiv.
+
+### 6. Creează liste definite de utilizator nelimitate
 Poți crea oricâte **liste definite de utilizator** vrei pentru a organiza valorile și unitățile folosite des.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

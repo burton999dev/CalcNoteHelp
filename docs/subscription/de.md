@@ -34,7 +34,13 @@ Halten Sie Ihre wachsenden Rechennotizen nach Zweck übersichtlich geordnet.
 - Erstellen Sie Ordner nach Projekt oder Thema und verwalten Sie zusammengehörige Dateien gemeinsam.
 - Auch bei vielen Dateien finden Sie dank Ordnern schnell die benötigte Rechennotiz.
 
-### 5. Unbegrenzt viele nutzerdefinierte Listen erstellen
+### 5. App-Sicherheit mit einem Passcode erhöhen
+Richten Sie beim Start der App eine Passcode-Sperre ein, um die Sicherheit zu erhöhen.
+
+- Verringern Sie das Risiko, dass Dateien versehentlich bearbeitet werden, wenn Sie Ihr Gerät vorübergehend an andere weitergeben.
+- Wenn die Eingabe des Passcodes jedes Mal umständlich ist, können Sie die von Ihrem Gerät unterstützte biometrische Authentifizierung verwenden.
+
+### 6. Unbegrenzt viele nutzerdefinierte Listen erstellen
 Sie können beliebig viele **nutzerdefinierte Listen** anlegen, um häufig genutzte Werte und Einheiten zu sammeln.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

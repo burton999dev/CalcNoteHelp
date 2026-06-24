@@ -34,7 +34,13 @@ Järjestä kasvava määrä laskentamuistiinpanoja selkeästi käyttötarkoituks
 - Luo kansioita projektin tai aiheen mukaan ja hallitse liittyviä tiedostoja yhdessä.
 - Vaikka tiedostoja olisi paljon, kansioihin perustuva hallinta auttaa löytämään tarvitsemasi muistiinpanon nopeasti.
 
-### 5. Rajoittamaton määrä käyttäjän määrittämiä listoja
+### 5. Vahvista sovelluksen suojausta pääsykoodilla
+Aseta pääsykoodilukitus sovelluksen käynnistyksen yhteyteen ja vahvista suojausta.
+
+- Vähennä riskiä, että tiedostoja muokataan vahingossa, kun lainaat laitettasi hetkeksi toiselle.
+- Jos pääsykoodin syöttäminen joka kerta tuntuu hankalalta, voit käyttää laitteen tukemaa biometristä tunnistusta.
+
+### 6. Rajoittamaton määrä käyttäjän määrittämiä listoja
 Voit luoda vapaasti niin monta **käyttäjän määrittämää listaa** kuin tarvitset usein käytettyjen arvojen ja yksiköiden kokoamiseen.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

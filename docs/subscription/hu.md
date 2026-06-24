@@ -34,7 +34,13 @@ Rendezd áttekinthetően, felhasználási cél szerint a folyamatosan gyarapodó
 - Hozz létre mappákat projektenként vagy témánként, és kezeld együtt a kapcsolódó fájlokat.
 - Sok fájl esetén is gyorsan megtalálod a szükséges jegyzetet a mappaalapú rendszerezéssel.
 
-### 5. Korlátlan számú felhasználói lista
+### 5. Erősítse az alkalmazás biztonságát jelkóddal
+Állítson be jelkódos zárolást az alkalmazás indításakor a biztonság növeléséhez.
+
+- Csökkentheti annak kockázatát, hogy valaki véletlenül módosítsa a fájlokat, amikor ideiglenesen kölcsönadja a készülékét.
+- Ha a jelkód minden alkalommal történő megadása kényelmetlen, használhatja a készüléke által támogatott biometrikus hitelesítést.
+
+### 6. Korlátlan számú felhasználói lista
 Annyi **felhasználói listát** hozhatsz létre, amennyivel a gyakran használt értékeket és mértékegységeket szeretnéd rendszerezni.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

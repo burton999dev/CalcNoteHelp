@@ -34,7 +34,13 @@ Udržte rastúci počet výpočtových poznámok prehľadne usporiadaný podľa 
 - Vytvárajte priečinky podľa projektov alebo tém a spravujte súvisiace súbory spolu.
 - Aj pri veľkom počte súborov vám organizácia do priečinkov pomôže rýchlo nájsť potrebnú poznámku.
 
-### 5. Neobmedzený počet používateľských zoznamov
+### 5. Posilnite zabezpečenie aplikácie pomocou kódu
+Pri spustení aplikácie môžete nastaviť zámok pomocou kódu a zvýšiť tak zabezpečenie.
+
+- Znížite riziko nechcených úprav súborov, keď zariadenie dočasne požičiate niekomu inému.
+- Ak je zadávanie kódu pri každom spustení nepohodlné, môžete použiť biometrické overenie podporované zariadením.
+
+### 6. Neobmedzený počet používateľských zoznamov
 Môžete vytvoriť ľubovoľný počet **používateľských zoznamov** na usporiadanie často používaných hodnôt a jednotiek.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

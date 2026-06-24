@@ -34,7 +34,13 @@ title: CalcNote Pro
 - 可依專案或主題建立資料夾，集中管理相關檔案。
 - 即使檔案很多，也能透過資料夾管理快速找到需要的計算筆記。
 
-### 5. 可無限制建立使用者定義清單
+### 5. 使用密碼強化應用程式安全性
+可在應用程式啟動時設定密碼鎖，以強化安全性。
+
+- 當你暫時將裝置借給他人時，可降低檔案被誤編輯的風險。
+- 如果每次輸入密碼很麻煩，可以使用裝置支援的生物辨識驗證。
+
+### 6. 可無限制建立使用者定義清單
 你可以自由建立任意數量的**使用者定義清單**，集中管理常用的數值與單位。
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

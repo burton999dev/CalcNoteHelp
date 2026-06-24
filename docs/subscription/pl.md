@@ -34,7 +34,13 @@ Uporządkuj rosnącą liczbę notatek obliczeń według zastosowania.
 - Twórz foldery według projektów lub tematów i zarządzaj powiązanymi plikami razem.
 - Nawet przy dużej liczbie plików organizacja folderami pozwala szybko znaleźć potrzebną notatkę.
 
-### 5. Nieograniczona liczba list użytkownika
+### 5. Zwiększ bezpieczeństwo aplikacji kodem dostępu
+Ustaw blokadę kodem dostępu przy uruchamianiu aplikacji, aby zwiększyć bezpieczeństwo.
+
+- Zmniejsz ryzyko przypadkowej edycji plików, gdy tymczasowo pożyczasz komuś urządzenie.
+- Jeśli wpisywanie kodu dostępu za każdym razem jest niewygodne, możesz użyć uwierzytelniania biometrycznego obsługiwanego przez urządzenie.
+
+### 6. Nieograniczona liczba list użytkownika
 Możesz tworzyć dowolną liczbę **list użytkownika**, by porządkować często używane wartości i jednostki.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

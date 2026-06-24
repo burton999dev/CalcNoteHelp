@@ -34,7 +34,13 @@ Hold de stadig flere beregningsnotatene dine ryddig organisert etter formål.
 - Opprett mapper per prosjekt eller tema, og administrer relaterte filer samlet.
 - Selv med mange filer gjør mappeorganisering det raskt å finne notatet du trenger.
 
-### 5. Ubegrenset antall brukerdefinerte lister
+### 5. Styrk appsikkerheten med en passkode
+Angi passkodelås når appen starter for å styrke sikkerheten.
+
+- Reduser risikoen for at filer redigeres ved en feil når du låner bort enheten midlertidig.
+- Hvis det er tungvint å angi passkoden hver gang, kan du bruke biometrisk autentisering som støttes av enheten.
+
+### 6. Ubegrenset antall brukerdefinerte lister
 Du kan opprette så mange **brukerdefinerte lister** du vil for å samle ofte brukte verdier og enheter.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

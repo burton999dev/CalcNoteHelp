@@ -34,7 +34,13 @@ Houd je groeiende rekennotities netjes georganiseerd per doel.
 - Maak mappen per project of onderwerp en beheer gerelateerde bestanden samen.
 - Ook bij veel bestanden vind je met mapbeheer snel de notitie die je nodig hebt.
 
-### 5. Onbeperkt aangepaste lijsten maken
+### 5. Versterk de appbeveiliging met een toegangscode
+Stel een toegangscodevergrendeling in bij het starten van de app om de beveiliging te versterken.
+
+- Verklein het risico dat bestanden per ongeluk worden bewerkt wanneer u uw apparaat tijdelijk uitleent.
+- Als het onhandig is om telkens een toegangscode in te voeren, kunt u de biometrische verificatie gebruiken die uw apparaat ondersteunt.
+
+### 6. Onbeperkt aangepaste lijsten maken
 Je kunt zoveel **aangepaste lijsten** maken als je wilt om vaak gebruikte waarden en eenheden te ordenen.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

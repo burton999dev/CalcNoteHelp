@@ -34,7 +34,13 @@ Rapikan catatan perhitungan yang terus bertambah berdasarkan kebutuhan.
 - Buat folder per proyek atau topik, lalu kelola file terkait secara bersama.
 - Meski file sangat banyak, pengelolaan berbasis folder membantu Anda cepat menemukan catatan yang diperlukan.
 
-### 5. Buat Daftar pengguna tanpa batas
+### 5. Tingkatkan keamanan aplikasi dengan kode sandi
+Atur kunci kode sandi saat aplikasi dibuka untuk meningkatkan keamanan.
+
+- Kurangi risiko file diedit secara tidak sengaja saat Anda meminjamkan perangkat untuk sementara.
+- Jika memasukkan kode sandi setiap kali terasa merepotkan, Anda dapat menggunakan autentikasi biometrik yang didukung perangkat.
+
+### 6. Buat Daftar pengguna tanpa batas
 Anda bebas membuat sebanyak mungkin **Daftar pengguna** untuk merapikan nilai dan satuan yang sering dipakai.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -34,7 +34,13 @@ Sürekli artan hesap notlarınızı kullanım amacına göre düzenli tutun.
 - Proje veya konu bazında klasörler oluşturun ve ilgili dosyaları birlikte yönetin.
 - Dosya sayısı çok arttığında bile klasör düzeni, ihtiyacınız olan nota hızlıca ulaşmanızı sağlar.
 
-### 5. Sınırsız kullanıcı tanımlı listeler oluşturun
+### 5. Uygulama güvenliğini parolayla güçlendirin
+Uygulama başlatılırken parola kilidi ayarlayarak güvenliği güçlendirin.
+
+- Cihazınızı geçici olarak birine ödünç verdiğinizde dosyaların yanlışlıkla düzenlenmesi riskini azaltın.
+- Parolayı her seferinde girmek zahmetli gelirse cihazınızın desteklediği biyometrik kimlik doğrulamayı kullanabilirsiniz.
+
+### 6. Sınırsız kullanıcı tanımlı listeler oluşturun
 Sık kullandığınız değer ve birimleri düzenlemek için dilediğiniz kadar **kullanıcı tanımlı liste** oluşturabilirsiniz.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

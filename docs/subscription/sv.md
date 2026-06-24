@@ -34,7 +34,13 @@ Håll dina växande beräkningsanteckningar snyggt organiserade efter användnin
 - Skapa mappar per projekt eller tema och hantera relaterade filer tillsammans.
 - Även med många filer hjälper mapporganisation dig att snabbt hitta rätt anteckning.
 
-### 5. Skapa obegränsat med användardefinierade listor
+### 5. Stärk appsäkerheten med en lösenkod
+Ställ in ett lösenkodslås när appen startar för att stärka säkerheten.
+
+- Minska risken att filer redigeras av misstag när du tillfälligt lånar ut din enhet.
+- Om det känns omständligt att ange lösenkoden varje gång kan du använda biometrisk autentisering som stöds av enheten.
+
+### 6. Skapa obegränsat med användardefinierade listor
 Du kan skapa hur många **användardefinierade listor** du vill för att organisera ofta använda värden och enheter.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

@@ -34,7 +34,13 @@ Sắp xếp gọn gàng các ghi chú tính toán ngày càng nhiều theo từn
 - Tạo thư mục theo dự án hoặc chủ đề và quản lý các tệp liên quan cùng nhau.
 - Ngay cả khi có nhiều tệp, cách tổ chức bằng thư mục vẫn giúp bạn nhanh chóng tìm được ghi chú cần thiết.
 
-### 5. Tạo Danh sách do người dùng xác định không giới hạn
+### 5. Tăng cường bảo mật ứng dụng bằng mã khóa
+Thiết lập khóa bằng mã khi khởi động ứng dụng để tăng cường bảo mật.
+
+- Giảm nguy cơ tệp bị chỉnh sửa nhầm khi bạn tạm thời cho người khác mượn thiết bị.
+- Nếu việc nhập mã khóa mỗi lần gây bất tiện, bạn có thể dùng xác thực sinh trắc học được thiết bị hỗ trợ.
+
+### 6. Tạo Danh sách do người dùng xác định không giới hạn
 Bạn có thể tạo bao nhiêu **Danh sách do người dùng xác định** tùy ý để sắp xếp các giá trị và đơn vị dùng thường xuyên.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

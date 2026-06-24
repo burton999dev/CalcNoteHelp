@@ -34,7 +34,13 @@ Susun nota pengiraan yang semakin bertambah dengan kemas mengikut kegunaan.
 - Cipta folder mengikut projek atau topik, dan urus fail berkaitan bersama-sama.
 - Walaupun fail banyak, pengurusan berasaskan folder membantu anda mencari nota yang diperlukan dengan cepat.
 
-### 5. Cipta Senarai Ditakrifkan Pengguna tanpa had
+### 5. Tingkatkan keselamatan aplikasi dengan kod laluan
+Tetapkan kunci kod laluan semasa aplikasi dibuka untuk meningkatkan keselamatan.
+
+- Kurangkan risiko fail diedit secara tidak sengaja apabila anda meminjamkan peranti buat sementara waktu.
+- Jika memasukkan kod laluan setiap kali terasa menyusahkan, anda boleh menggunakan pengesahan biometrik yang disokong oleh peranti.
+
+### 6. Cipta Senarai Ditakrifkan Pengguna tanpa had
 Anda boleh membuat seberapa banyak **Senarai Ditakrifkan Pengguna** yang diperlukan untuk mengurus nilai dan unit yang kerap digunakan.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

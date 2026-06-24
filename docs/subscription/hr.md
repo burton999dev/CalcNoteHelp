@@ -34,7 +34,13 @@ Sve veći broj bilješki izračuna uredno organizirajte prema namjeni.
 - Stvarajte mape po projektima ili temama i zajedno upravljajte povezanim datotekama.
 - Čak i uz mnogo datoteka, organizacija po mapama pomaže vam da brzo pronađete potrebnu bilješku.
 
-### 5. Neograničeno kreiranje korisnički definiranih popisa
+### 5. Pojačajte sigurnost aplikacije pristupnim kodom
+Postavite zaključavanje pristupnim kodom pri pokretanju aplikacije kako biste pojačali sigurnost.
+
+- Smanjite rizik od slučajnog uređivanja datoteka kada privremeno posudite uređaj drugoj osobi.
+- Ako je svaki put nezgodno unositi pristupni kod, možete koristiti biometrijsku provjeru koju podržava vaš uređaj.
+
+### 6. Neograničeno kreiranje korisnički definiranih popisa
 Možete stvarati onoliko **korisnički definiranih popisa** koliko želite za organiziranje često korištenih vrijednosti i jedinica.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 

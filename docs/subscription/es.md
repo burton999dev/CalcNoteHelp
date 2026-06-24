@@ -34,7 +34,13 @@ Mantén tus notas de cálculo en crecimiento bien ordenadas según su uso.
 - Crea carpetas por proyecto o tema y gestiona juntos los archivos relacionados.
 - Incluso con muchos archivos, la organización por carpetas te permite encontrar rápidamente la nota que necesitas.
 
-### 5. Crea listas definidas por el usuario sin límite
+### 5. Refuerza la seguridad de la app con un código de acceso
+Configura un bloqueo con código de acceso al iniciar la app para reforzar la seguridad.
+
+- Reduce el riesgo de que se editen archivos por error cuando prestas temporalmente tu dispositivo.
+- Si introducir el código de acceso cada vez resulta incómodo, puedes usar la autenticación biométrica compatible con tu dispositivo.
+
+### 6. Crea listas definidas por el usuario sin límite
 Puedes crear tantas **listas definidas por el usuario** como quieras para organizar valores y unidades frecuentes.
 <sub><a href="https://www.youtube.com/watch?v=2UZjLNSWFs0" target="_blank"><img src="https://raw.githubusercontent.com/burton999dev/CalcNoteHelp/refs/heads/master/images/all/yt_icon_red_digital.png" width="32" height="32" style="vertical-align: text-bottom; margin-left: 6px;"></a></sub>
 
